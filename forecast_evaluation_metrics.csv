@@ -1,0 +1,7 @@
+Bar Name,Brand Name,MAE,RMSE,MAPE (%),Test Samples
+Brown's Bar,Malibu,276.2,336.96,,3
+Smith's Bar,Absolut,33.45,39.39,20.83,3
+Smith's Bar,Yellow Tail,95.09,120.45,58.05,3
+Taylor's Bar,Miller,213.64,268.14,69.24,3
+Taylor's Bar,Yellow Tail,182.1,187.34,,3
+Thomas's Bar,Jim Beam,372.1,373.57,,4

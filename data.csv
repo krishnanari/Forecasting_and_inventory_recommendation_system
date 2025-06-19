@@ -1,0 +1,2622 @@
+Bar Name,Brand Name,Date,Daily Consumption (ml),Year,Month,Weekday,DayOfWeek,Rolling_7d
+Anderson's Bar,Absolut,2023-01-02,118.62,2023,1,Monday,0,118.62
+Anderson's Bar,Absolut,2023-01-05,463.2,2023,1,Thursday,3,290.90999999999997
+Anderson's Bar,Absolut,2023-01-06,453.02,2023,1,Friday,4,344.94666666666666
+Anderson's Bar,Absolut,2023-01-08,275.08,2023,1,Sunday,6,327.48
+Anderson's Bar,Absolut,2023-01-11,0.0,2023,1,Wednesday,2,261.98400000000004
+Anderson's Bar,Absolut,2023-02-01,0.0,2023,2,Wednesday,2,218.32000000000002
+Anderson's Bar,Absolut,2023-02-04,0.0,2023,2,Saturday,5,187.1314285714286
+Anderson's Bar,Absolut,2023-02-05,0.0,2023,2,Sunday,6,170.1857142857143
+Anderson's Bar,Absolut,2023-03-02,190.59,2023,3,Thursday,3,131.24142857142857
+Anderson's Bar,Absolut,2023-03-04,205.75,2023,3,Saturday,5,95.91714285714285
+Anderson's Bar,Absolut,2023-03-07,289.73,2023,3,Tuesday,1,98.00999999999999
+Anderson's Bar,Absolut,2023-04-04,304.12,2023,4,Tuesday,1,141.4557142857143
+Anderson's Bar,Absolut,2023-04-06,207.09,2023,4,Thursday,3,171.04
+Anderson's Bar,Absolut,2023-04-09,0.0,2023,4,Sunday,6,171.04
+Anderson's Bar,Absolut,2023-04-11,255.3,2023,4,Tuesday,1,207.51142857142855
+Anderson's Bar,Absolut,2023-04-12,301.09,2023,4,Wednesday,2,223.29714285714286
+Anderson's Bar,Absolut,2023-05-07,278.64,2023,5,Sunday,6,233.71
+Anderson's Bar,Absolut,2023-06-01,213.37,2023,6,Thursday,3,222.80142857142852
+Anderson's Bar,Absolut,2023-06-04,315.68,2023,6,Sunday,6,224.4528571428571
+Anderson's Bar,Absolut,2023-06-10,0.0,2023,6,Saturday,5,194.8685714285714
+Anderson's Bar,Absolut,2023-06-11,0.0,2023,6,Sunday,6,194.8685714285714
+Anderson's Bar,Absolut,2023-07-06,54.51,2023,7,Thursday,3,166.18428571428566
+Anderson's Bar,Absolut,2023-08-04,0.0,2023,8,Friday,4,123.17142857142856
+Anderson's Bar,Absolut,2023-09-05,0.0,2023,9,Tuesday,1,83.36571428571428
+Anderson's Bar,Absolut,2023-09-10,0.0,2023,9,Sunday,6,52.884285714285696
+Anderson's Bar,Absolut,2023-09-11,0.0,2023,9,Monday,0,7.7871428571428405
+Anderson's Bar,Absolut,2023-10-05,189.66,2023,10,Thursday,3,34.88142857142855
+Anderson's Bar,Absolut,2023-11-05,319.64,2023,11,Sunday,6,80.54428571428569
+Anderson's Bar,Absolut,2023-11-07,248.98,2023,11,Tuesday,1,108.32571428571427
+Anderson's Bar,Absolut,2023-11-10,445.86,2023,11,Friday,4,172.01999999999998
+Anderson's Bar,Absolut,2023-12-06,480.21,2023,12,Wednesday,2,240.62142857142857
+Anderson's Bar,Absolut,2023-12-07,504.45,2023,12,Thursday,3,312.68571428571425
+Anderson's Bar,Absolut,2023-12-10,130.5,2023,12,Sunday,6,331.32857142857137
+Anderson's Bar,Bacardi,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Anderson's Bar,Bacardi,2023-01-08,216.8,2023,1,Sunday,6,108.4
+Anderson's Bar,Bacardi,2023-02-07,353.24,2023,2,Tuesday,1,190.01333333333332
+Anderson's Bar,Bacardi,2023-02-11,381.35,2023,2,Saturday,5,237.84750000000003
+Anderson's Bar,Bacardi,2023-03-03,455.46,2023,3,Friday,4,281.37
+Anderson's Bar,Bacardi,2023-03-06,30.09,2023,3,Monday,0,239.49
+Anderson's Bar,Bacardi,2023-03-07,314.67,2023,3,Tuesday,1,250.23000000000002
+Anderson's Bar,Bacardi,2023-04-03,553.95,2023,4,Monday,0,329.36571428571426
+Anderson's Bar,Bacardi,2023-04-09,372.82,2023,4,Sunday,6,351.6542857142857
+Anderson's Bar,Bacardi,2023-04-12,352.44,2023,4,Wednesday,2,351.54
+Anderson's Bar,Bacardi,2023-05-01,433.39,2023,5,Monday,0,358.9742857142857
+Anderson's Bar,Bacardi,2023-05-11,269.97,2023,5,Thursday,3,332.4757142857143
+Anderson's Bar,Bacardi,2023-06-02,448.82,2023,6,Friday,4,392.2942857142857
+Anderson's Bar,Bacardi,2023-06-03,376.93,2023,6,Saturday,5,401.1885714285714
+Anderson's Bar,Bacardi,2023-06-05,166.65,2023,6,Monday,0,345.86
+Anderson's Bar,Bacardi,2023-06-06,548.22,2023,6,Tuesday,1,370.9171428571429
+Anderson's Bar,Bacardi,2023-06-07,386.49,2023,6,Wednesday,2,375.78142857142853
+Anderson's Bar,Bacardi,2023-06-11,410.94,2023,6,Sunday,6,372.57428571428574
+Anderson's Bar,Bacardi,2023-07-02,446.78,2023,7,Sunday,6,397.8328571428572
+Anderson's Bar,Bacardi,2023-08-01,276.62,2023,8,Tuesday,1,373.23285714285714
+Anderson's Bar,Bacardi,2023-08-08,472.96,2023,8,Tuesday,1,386.95142857142855
+Anderson's Bar,Bacardi,2023-08-09,149.47,2023,8,Wednesday,2,384.4971428571429
+Anderson's Bar,Bacardi,2023-08-12,542.73,2023,8,Saturday,5,383.7128571428571
+Anderson's Bar,Bacardi,2023-09-08,228.99,2023,9,Friday,4,361.21285714285716
+Anderson's Bar,Bacardi,2023-09-12,528.83,2023,9,Tuesday,1,378.05428571428575
+Anderson's Bar,Bacardi,2023-11-04,462.03,2023,11,Saturday,5,380.23285714285714
+Anderson's Bar,Bacardi,2023-12-03,253.14,2023,12,Sunday,6,376.87857142857143
+Anderson's Bar,Bacardi,2023-12-07,385.4,2023,12,Thursday,3,364.37
+Anderson's Bar,Bacardi,2023-12-10,323.19,2023,12,Sunday,6,389.1871428571429
+Anderson's Bar,Barefoot,2023-01-03,479.09,2023,1,Tuesday,1,479.09
+Anderson's Bar,Barefoot,2023-02-04,443.64,2023,2,Saturday,5,461.365
+Anderson's Bar,Barefoot,2023-03-01,102.19,2023,3,Wednesday,2,341.64000000000004
+Anderson's Bar,Barefoot,2023-03-03,474.43,2023,3,Friday,4,374.8375
+Anderson's Bar,Barefoot,2023-03-11,189.81,2023,3,Saturday,5,337.832
+Anderson's Bar,Barefoot,2023-04-01,290.36,2023,4,Saturday,5,329.92
+Anderson's Bar,Barefoot,2023-04-04,234.99,2023,4,Tuesday,1,316.35857142857145
+Anderson's Bar,Barefoot,2023-04-06,538.0,2023,4,Thursday,3,324.7742857142857
+Anderson's Bar,Barefoot,2023-04-12,505.81,2023,4,Wednesday,2,333.6557142857143
+Anderson's Bar,Barefoot,2023-05-04,362.78,2023,5,Thursday,3,370.8828571428571
+Anderson's Bar,Barefoot,2023-05-06,192.3,2023,5,Saturday,5,330.5785714285715
+Anderson's Bar,Barefoot,2023-05-10,266.57,2023,5,Wednesday,2,341.5442857142857
+Anderson's Bar,Barefoot,2023-06-01,101.78,2023,6,Thursday,3,314.6042857142857
+Anderson's Bar,Barefoot,2023-06-02,227.93,2023,6,Friday,4,313.5957142857143
+Anderson's Bar,Barefoot,2023-06-03,393.8,2023,6,Saturday,5,292.9957142857143
+Anderson's Bar,Barefoot,2023-06-05,395.91,2023,6,Monday,0,277.2957142857143
+Anderson's Bar,Barefoot,2023-06-09,122.14,2023,6,Friday,4,242.91857142857143
+Anderson's Bar,Barefoot,2023-06-10,215.74,2023,6,Saturday,5,246.2671428571429
+Anderson's Bar,Barefoot,2023-07-02,101.77,2023,7,Sunday,6,222.7242857142857
+Anderson's Bar,Barefoot,2023-07-04,0.0,2023,7,Tuesday,1,208.18428571428572
+Anderson's Bar,Barefoot,2023-07-05,230.41,2023,7,Wednesday,2,208.53857142857143
+Anderson's Bar,Barefoot,2023-07-08,275.72,2023,7,Saturday,5,191.67000000000002
+Anderson's Bar,Barefoot,2023-07-11,226.16,2023,7,Tuesday,1,167.42000000000002
+Anderson's Bar,Barefoot,2023-09-01,381.6,2023,9,Friday,4,204.4857142857143
+Anderson's Bar,Barefoot,2023-09-04,0.0,2023,9,Monday,0,173.6657142857143
+Anderson's Bar,Barefoot,2023-09-05,307.32,2023,9,Tuesday,1,203.03
+Anderson's Bar,Barefoot,2023-09-06,132.83,2023,9,Wednesday,2,222.0057142857143
+Anderson's Bar,Barefoot,2023-09-12,483.78,2023,9,Tuesday,1,258.20142857142855
+Anderson's Bar,Barefoot,2023-10-04,899.69,2023,10,Wednesday,2,347.34000000000003
+Anderson's Bar,Barefoot,2023-10-08,253.23,2023,10,Sunday,6,351.2071428571429
+Anderson's Bar,Barefoot,2023-10-11,147.47,2023,10,Wednesday,2,317.76000000000005
+Anderson's Bar,Barefoot,2023-10-12,354.91,2023,10,Thursday,3,368.4614285714285
+Anderson's Bar,Barefoot,2023-11-05,349.94,2023,11,Sunday,6,374.55
+Anderson's Bar,Barefoot,2023-11-12,573.65,2023,11,Sunday,6,437.5242857142857
+Anderson's Bar,Barefoot,2023-12-02,287.17,2023,12,Saturday,5,409.4371428571429
+Anderson's Bar,Barefoot,2023-12-03,124.88,2023,12,Sunday,6,298.75
+Anderson's Bar,Barefoot,2023-12-09,275.74,2023,12,Saturday,5,301.96571428571434
+Anderson's Bar,Barefoot,2023-12-12,513.52,2023,12,Tuesday,1,354.25857142857143
+Anderson's Bar,Budweiser,2023-01-09,159.07,2023,1,Monday,0,159.07
+Anderson's Bar,Budweiser,2023-02-02,225.56,2023,2,Thursday,3,192.315
+Anderson's Bar,Budweiser,2023-02-09,482.17,2023,2,Thursday,3,288.93333333333334
+Anderson's Bar,Budweiser,2023-04-04,139.14,2023,4,Tuesday,1,251.485
+Anderson's Bar,Budweiser,2023-04-10,466.08,2023,4,Monday,0,294.404
+Anderson's Bar,Budweiser,2023-05-04,111.89,2023,5,Thursday,3,263.985
+Anderson's Bar,Budweiser,2023-06-03,127.05,2023,6,Saturday,5,244.42285714285714
+Anderson's Bar,Budweiser,2023-06-07,178.19,2023,6,Wednesday,2,247.1542857142857
+Anderson's Bar,Budweiser,2023-08-02,485.35,2023,8,Wednesday,2,284.26714285714286
+Anderson's Bar,Budweiser,2023-08-05,574.1,2023,8,Saturday,5,297.40000000000003
+Anderson's Bar,Budweiser,2023-08-07,189.51,2023,8,Monday,0,304.5957142857143
+Anderson's Bar,Budweiser,2023-08-08,113.9,2023,8,Tuesday,1,254.28428571428572
+Anderson's Bar,Budweiser,2023-10-02,0.0,2023,10,Monday,0,238.29999999999998
+Anderson's Bar,Budweiser,2023-10-05,0.0,2023,10,Thursday,3,220.15
+Anderson's Bar,Budweiser,2023-10-09,0.0,2023,10,Monday,0,194.69428571428574
+Anderson's Bar,Budweiser,2023-11-03,0.0,2023,11,Friday,4,125.35857142857142
+Anderson's Bar,Budweiser,2023-12-01,0.0,2023,12,Friday,4,43.34428571428571
+Anderson's Bar,Budweiser,2023-12-03,0.0,2023,12,Sunday,6,16.271428571428572
+Anderson's Bar,Captain Morgan,2023-02-01,319.33,2023,2,Wednesday,2,319.33
+Anderson's Bar,Captain Morgan,2023-02-08,146.1,2023,2,Wednesday,2,232.71499999999997
+Anderson's Bar,Captain Morgan,2023-03-08,0.0,2023,3,Wednesday,2,155.14333333333332
+Anderson's Bar,Captain Morgan,2023-03-11,234.8,2023,3,Saturday,5,175.0575
+Anderson's Bar,Captain Morgan,2023-04-05,387.85,2023,4,Wednesday,2,217.61599999999999
+Anderson's Bar,Captain Morgan,2023-04-11,586.88,2023,4,Tuesday,1,279.16
+Anderson's Bar,Captain Morgan,2023-05-02,171.73,2023,5,Tuesday,1,263.8128571428571
+Anderson's Bar,Captain Morgan,2023-05-03,644.82,2023,5,Wednesday,2,310.3114285714286
+Anderson's Bar,Captain Morgan,2023-05-04,363.29,2023,5,Thursday,3,341.3385714285714
+Anderson's Bar,Captain Morgan,2023-05-05,137.49,2023,5,Friday,4,360.98
+Anderson's Bar,Captain Morgan,2023-05-07,475.67,2023,5,Sunday,6,395.39000000000004
+Anderson's Bar,Captain Morgan,2023-05-08,335.99,2023,5,Monday,0,387.9814285714286
+Anderson's Bar,Captain Morgan,2023-05-09,539.86,2023,5,Tuesday,1,381.2642857142857
+Anderson's Bar,Captain Morgan,2023-05-12,329.51,2023,5,Friday,4,403.80428571428575
+Anderson's Bar,Captain Morgan,2023-06-04,248.08,2023,6,Sunday,6,347.1271428571429
+Anderson's Bar,Captain Morgan,2023-06-09,876.84,2023,6,Friday,4,420.4914285714286
+Anderson's Bar,Captain Morgan,2023-06-10,320.88,2023,6,Saturday,5,446.69
+Anderson's Bar,Captain Morgan,2023-07-09,314.75,2023,7,Sunday,6,423.70142857142855
+Anderson's Bar,Captain Morgan,2023-08-03,174.32,2023,8,Thursday,3,400.6057142857143
+Anderson's Bar,Captain Morgan,2023-09-10,577.03,2023,9,Sunday,6,405.9157142857143
+Anderson's Bar,Captain Morgan,2023-10-01,553.22,2023,10,Sunday,6,437.8742857142857
+Anderson's Bar,Captain Morgan,2023-10-04,746.81,2023,10,Wednesday,2,509.12142857142857
+Anderson's Bar,Captain Morgan,2023-10-07,574.63,2023,10,Saturday,5,465.9485714285715
+Anderson's Bar,Captain Morgan,2023-11-03,222.58,2023,11,Friday,4,451.9057142857143
+Anderson's Bar,Captain Morgan,2023-11-05,479.39,2023,11,Sunday,6,475.42571428571426
+Anderson's Bar,Captain Morgan,2023-11-07,269.92,2023,11,Tuesday,1,489.0828571428571
+Anderson's Bar,Captain Morgan,2023-11-08,459.83,2023,11,Wednesday,2,472.34000000000003
+Anderson's Bar,Captain Morgan,2023-12-01,113.21,2023,12,Friday,4,409.4814285714286
+Anderson's Bar,Captain Morgan,2023-12-09,579.33,2023,12,Saturday,5,385.5557142857143
+Anderson's Bar,Captain Morgan,2023-12-11,245.76,2023,12,Monday,0,338.57428571428574
+Anderson's Bar,Coors,2023-01-02,440.55,2023,1,Monday,0,440.55
+Anderson's Bar,Coors,2023-01-04,544.08,2023,1,Wednesday,2,492.31500000000005
+Anderson's Bar,Coors,2023-01-06,274.13,2023,1,Friday,4,419.58666666666664
+Anderson's Bar,Coors,2023-02-10,230.71,2023,2,Friday,4,372.3675
+Anderson's Bar,Coors,2023-03-05,220.87,2023,3,Sunday,6,342.068
+Anderson's Bar,Coors,2023-03-06,599.53,2023,3,Monday,0,384.9783333333333
+Anderson's Bar,Coors,2023-03-10,495.81,2023,3,Friday,4,400.81142857142856
+Anderson's Bar,Coors,2023-03-12,488.65,2023,3,Sunday,6,407.68285714285713
+Anderson's Bar,Coors,2023-04-01,306.02,2023,4,Saturday,5,373.6742857142857
+Anderson's Bar,Coors,2023-04-03,400.81,2023,4,Monday,0,391.77142857142854
+Anderson's Bar,Coors,2023-04-07,158.7,2023,4,Friday,4,381.4842857142857
+Anderson's Bar,Coors,2023-05-08,203.13,2023,5,Monday,0,378.94999999999993
+Anderson's Bar,Coors,2023-06-10,156.66,2023,6,Saturday,5,315.6828571428572
+Anderson's Bar,Coors,2023-07-04,0.0,2023,7,Tuesday,1,244.85285714285712
+Anderson's Bar,Coors,2023-07-06,453.38,2023,7,Thursday,3,239.8142857142857
+Anderson's Bar,Coors,2023-07-07,467.09,2023,7,Friday,4,262.8242857142857
+Anderson's Bar,Coors,2023-08-01,223.47,2023,8,Tuesday,1,237.48999999999998
+Anderson's Bar,Coors,2023-08-06,583.95,2023,8,Sunday,6,298.23999999999995
+Anderson's Bar,Coors,2023-09-01,359.15,2023,9,Friday,4,320.5285714285714
+Anderson's Bar,Coors,2023-09-10,383.59,2023,9,Sunday,6,352.94714285714286
+Anderson's Bar,Coors,2023-11-04,357.5,2023,11,Saturday,5,404.0185714285714
+Anderson's Bar,Coors,2023-11-08,152.52,2023,11,Wednesday,2,361.0385714285714
+Anderson's Bar,Coors,2023-11-09,225.19,2023,11,Thursday,3,326.4814285714286
+Anderson's Bar,Coors,2023-12-05,461.74,2023,12,Tuesday,1,360.52
+Anderson's Bar,Coors,2024-01-01,321.06,2024,1,Monday,0,322.96428571428567
+Anderson's Bar,Grey Goose,2023-01-09,284.28,2023,1,Monday,0,284.28
+Anderson's Bar,Grey Goose,2023-02-03,445.1,2023,2,Friday,4,364.69
+Anderson's Bar,Grey Goose,2023-02-07,535.98,2023,2,Tuesday,1,421.7866666666667
+Anderson's Bar,Grey Goose,2023-03-03,218.62,2023,3,Friday,4,370.995
+Anderson's Bar,Grey Goose,2023-03-06,546.24,2023,3,Monday,0,406.044
+Anderson's Bar,Grey Goose,2023-03-12,385.88,2023,3,Sunday,6,402.68333333333334
+Anderson's Bar,Grey Goose,2023-04-02,208.39,2023,4,Sunday,6,374.9271428571428
+Anderson's Bar,Grey Goose,2023-04-05,401.53,2023,4,Wednesday,2,391.6771428571429
+Anderson's Bar,Grey Goose,2023-04-07,378.37,2023,4,Friday,4,382.1442857142857
+Anderson's Bar,Grey Goose,2023-04-08,403.45,2023,4,Saturday,5,363.2114285714286
+Anderson's Bar,Grey Goose,2023-05-01,512.76,2023,5,Monday,0,405.2314285714286
+Anderson's Bar,Grey Goose,2023-06-12,115.26,2023,6,Monday,0,343.6628571428572
+Anderson's Bar,Grey Goose,2023-07-12,327.57,2023,7,Wednesday,2,335.3328571428571
+Anderson's Bar,Grey Goose,2023-08-07,110.04,2023,8,Monday,0,321.2828571428571
+Anderson's Bar,Grey Goose,2023-08-08,192.1,2023,8,Tuesday,1,291.3642857142857
+Anderson's Bar,Grey Goose,2023-08-09,508.88,2023,8,Wednesday,2,310.00857142857143
+Anderson's Bar,Grey Goose,2023-09-02,489.9,2023,9,Saturday,5,322.3585714285714
+Anderson's Bar,Grey Goose,2023-09-03,415.03,2023,9,Sunday,6,308.3971428571428
+Anderson's Bar,Grey Goose,2023-10-01,483.08,2023,10,Sunday,6,360.9428571428571
+Anderson's Bar,Grey Goose,2023-11-08,552.25,2023,11,Wednesday,2,393.03999999999996
+Anderson's Bar,Grey Goose,2023-11-11,257.42,2023,11,Saturday,5,414.0942857142857
+Anderson's Bar,Grey Goose,2023-11-12,332.37,2023,11,Sunday,6,434.1328571428571
+Anderson's Bar,Grey Goose,2023-12-02,214.98,2023,12,Saturday,5,392.1471428571428
+Anderson's Bar,Grey Goose,2023-12-04,137.56,2023,12,Monday,0,341.8128571428571
+Anderson's Bar,Heineken,2023-01-10,440.59,2023,1,Tuesday,1,440.59
+Anderson's Bar,Heineken,2023-02-04,344.37,2023,2,Saturday,5,392.48
+Anderson's Bar,Heineken,2023-02-05,594.24,2023,2,Sunday,6,459.73333333333335
+Anderson's Bar,Heineken,2023-02-06,570.62,2023,2,Monday,0,487.45500000000004
+Anderson's Bar,Heineken,2023-03-04,399.5,2023,3,Saturday,5,469.86400000000003
+Anderson's Bar,Heineken,2023-03-09,250.35,2023,3,Thursday,3,433.27833333333336
+Anderson's Bar,Heineken,2023-03-11,461.2,2023,3,Saturday,5,437.26714285714286
+Anderson's Bar,Heineken,2023-05-01,180.21,2023,5,Monday,0,400.07
+Anderson's Bar,Heineken,2023-05-07,362.76,2023,5,Sunday,6,402.69714285714286
+Anderson's Bar,Heineken,2023-05-10,588.77,2023,5,Wednesday,2,401.91571428571433
+Anderson's Bar,Heineken,2023-06-04,216.33,2023,6,Sunday,6,351.30285714285714
+Anderson's Bar,Heineken,2023-06-05,552.16,2023,6,Monday,0,373.1114285714285
+Anderson's Bar,Heineken,2023-06-12,361.59,2023,6,Monday,0,389.0028571428571
+Anderson's Bar,Heineken,2023-07-08,344.79,2023,7,Saturday,5,372.3728571428572
+Anderson's Bar,Heineken,2023-07-09,419.61,2023,7,Sunday,6,406.5728571428572
+Anderson's Bar,Heineken,2023-08-03,344.03,2023,8,Thursday,3,403.8971428571428
+Anderson's Bar,Heineken,2023-08-04,216.43,2023,8,Friday,4,350.7057142857143
+Anderson's Bar,Heineken,2023-08-09,292.34,2023,8,Wednesday,2,361.5642857142857
+Anderson's Bar,Heineken,2023-09-07,198.66,2023,9,Thursday,3,311.06428571428575
+Anderson's Bar,Heineken,2023-09-08,522.83,2023,9,Friday,4,334.09857142857146
+Anderson's Bar,Heineken,2023-10-10,0.0,2023,10,Tuesday,1,284.84285714285716
+Anderson's Bar,Heineken,2023-10-11,0.0,2023,10,Wednesday,2,224.89857142857142
+Anderson's Bar,Heineken,2023-12-06,0.0,2023,12,Wednesday,2,175.7514285714286
+Anderson's Bar,Heineken,2023-12-07,0.0,2023,12,Thursday,3,144.83285714285714
+Anderson's Bar,Heineken,2023-12-08,126.54,2023,12,Friday,4,121.14714285714285
+Anderson's Bar,Heineken,2023-12-09,420.5,2023,12,Saturday,5,152.83857142857144
+Anderson's Bar,Heineken,2023-12-10,0.0,2023,12,Sunday,6,78.14857142857143
+Anderson's Bar,Heineken,2023-12-12,0.0,2023,12,Tuesday,1,78.14857142857143
+Anderson's Bar,Jack Daniels,2023-01-08,124.16,2023,1,Sunday,6,124.16
+Anderson's Bar,Jack Daniels,2023-02-06,434.79,2023,2,Monday,0,279.475
+Anderson's Bar,Jack Daniels,2023-02-11,387.18,2023,2,Saturday,5,315.37666666666667
+Anderson's Bar,Jack Daniels,2023-02-12,123.58,2023,2,Sunday,6,267.4275
+Anderson's Bar,Jack Daniels,2023-03-08,0.0,2023,3,Wednesday,2,213.942
+Anderson's Bar,Jack Daniels,2023-04-02,478.36,2023,4,Sunday,6,258.01166666666666
+Anderson's Bar,Jack Daniels,2023-04-05,501.09,2023,4,Wednesday,2,292.7371428571428
+Anderson's Bar,Jack Daniels,2023-04-08,347.74,2023,4,Saturday,5,324.6771428571428
+Anderson's Bar,Jack Daniels,2023-04-11,496.66,2023,4,Tuesday,1,333.5157142857143
+Anderson's Bar,Jack Daniels,2023-05-02,121.14,2023,5,Tuesday,1,295.50999999999993
+Anderson's Bar,Jack Daniels,2023-07-03,0.0,2023,7,Monday,0,277.85571428571427
+Anderson's Bar,Jack Daniels,2023-07-09,0.0,2023,7,Sunday,6,277.85571428571427
+Anderson's Bar,Jack Daniels,2023-07-11,250.03,2023,7,Tuesday,1,245.23714285714286
+Anderson's Bar,Jack Daniels,2023-08-02,285.61,2023,8,Wednesday,2,214.4542857142857
+Anderson's Bar,Jack Daniels,2023-09-03,462.69,2023,9,Sunday,6,230.87571428571428
+Anderson's Bar,Jack Daniels,2023-09-04,0.0,2023,9,Monday,0,159.92428571428567
+Anderson's Bar,Jack Daniels,2023-09-06,578.44,2023,9,Wednesday,2,225.25285714285715
+Anderson's Bar,Jack Daniels,2023-09-09,482.55,2023,9,Saturday,5,294.18857142857144
+Anderson's Bar,Jack Daniels,2023-10-03,453.64,2023,10,Tuesday,1,358.9942857142857
+Anderson's Bar,Jack Daniels,2023-10-05,166.75,2023,10,Thursday,3,347.09714285714284
+Anderson's Bar,Jack Daniels,2023-10-06,470.85,2023,10,Friday,4,373.56
+Anderson's Bar,Jack Daniels,2023-10-08,210.39,2023,10,Sunday,6,337.51714285714286
+Anderson's Bar,Jack Daniels,2023-11-03,149.88,2023,11,Friday,4,358.92857142857144
+Anderson's Bar,Jack Daniels,2023-11-08,257.63,2023,11,Wednesday,2,313.09857142857146
+Anderson's Bar,Jack Daniels,2023-12-02,454.75,2023,12,Saturday,5,309.1271428571428
+Anderson's Bar,Jack Daniels,2023-12-07,213.76,2023,12,Thursday,3,274.85857142857145
+Anderson's Bar,Jack Daniels,2023-12-10,286.67,2023,12,Sunday,6,291.98999999999995
+Anderson's Bar,Jack Daniels,2024-01-01,197.6,2024,1,Monday,0,252.9542857142857
+Anderson's Bar,Jameson,2023-01-06,532.62,2023,1,Friday,4,532.62
+Anderson's Bar,Jameson,2023-01-07,245.43,2023,1,Saturday,5,389.025
+Anderson's Bar,Jameson,2023-01-09,477.28,2023,1,Monday,0,418.4433333333333
+Anderson's Bar,Jameson,2023-01-11,286.29,2023,1,Wednesday,2,385.405
+Anderson's Bar,Jameson,2023-01-12,457.35,2023,1,Thursday,3,399.794
+Anderson's Bar,Jameson,2023-03-01,100.45,2023,3,Wednesday,2,349.90333333333336
+Anderson's Bar,Jameson,2023-03-03,363.83,2023,3,Friday,4,351.89285714285717
+Anderson's Bar,Jameson,2023-03-10,278.76,2023,3,Friday,4,315.6271428571429
+Anderson's Bar,Jameson,2023-03-11,177.37,2023,3,Saturday,5,305.9042857142857
+Anderson's Bar,Jameson,2023-03-12,323.93,2023,3,Sunday,6,283.9971428571429
+Anderson's Bar,Jameson,2023-04-09,298.57,2023,4,Sunday,6,285.7514285714286
+Anderson's Bar,Jameson,2023-04-12,210.58,2023,4,Wednesday,2,250.49857142857144
+Anderson's Bar,Jameson,2023-05-03,544.98,2023,5,Wednesday,2,314.0028571428571
+Anderson's Bar,Jameson,2023-05-09,103.26,2023,5,Tuesday,1,276.7785714285714
+Anderson's Bar,Jameson,2023-06-01,177.6,2023,6,Thursday,3,262.32714285714286
+Anderson's Bar,Jameson,2023-06-03,319.73,2023,6,Saturday,5,282.6642857142857
+Anderson's Bar,Jameson,2023-06-05,507.58,2023,6,Monday,0,308.90000000000003
+Anderson's Bar,Jameson,2023-06-11,100.05,2023,6,Sunday,6,280.54
+Anderson's Bar,Jameson,2023-08-01,302.16,2023,8,Tuesday,1,293.6228571428572
+Anderson's Bar,Jameson,2023-08-03,404.58,2023,8,Thursday,3,273.5657142857143
+Anderson's Bar,Jameson,2023-08-04,431.45,2023,8,Friday,4,320.45
+Anderson's Bar,Jameson,2023-08-05,99.06,2023,8,Saturday,5,309.23
+Anderson's Bar,Jameson,2023-08-09,0.0,2023,8,Wednesday,2,263.55428571428575
+Anderson's Bar,Jameson,2023-08-11,0.0,2023,8,Friday,4,191.04285714285714
+Anderson's Bar,Jameson,2023-09-02,175.88,2023,9,Saturday,5,201.8757142857143
+Anderson's Bar,Jameson,2023-10-09,327.16,2023,10,Monday,0,205.44714285714284
+Anderson's Bar,Jameson,2023-11-04,482.49,2023,11,Saturday,5,216.57714285714286
+Anderson's Bar,Jameson,2023-11-10,0.0,2023,11,Friday,4,154.94142857142856
+Anderson's Bar,Jameson,2023-11-11,0.0,2023,11,Saturday,5,140.79
+Anderson's Bar,Jameson,2023-12-11,228.2,2023,12,Monday,0,173.39000000000001
+Anderson's Bar,Jim Beam,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Anderson's Bar,Jim Beam,2023-01-03,363.32,2023,1,Tuesday,1,181.66
+Anderson's Bar,Jim Beam,2023-01-05,420.18,2023,1,Thursday,3,261.1666666666667
+Anderson's Bar,Jim Beam,2023-02-02,226.21,2023,2,Thursday,3,252.4275
+Anderson's Bar,Jim Beam,2023-02-03,559.43,2023,2,Friday,4,313.828
+Anderson's Bar,Jim Beam,2023-02-04,465.78,2023,2,Saturday,5,339.15333333333336
+Anderson's Bar,Jim Beam,2023-02-09,266.29,2023,2,Thursday,3,328.7442857142857
+Anderson's Bar,Jim Beam,2023-03-05,143.69,2023,3,Sunday,6,349.2714285714286
+Anderson's Bar,Jim Beam,2023-03-07,405.91,2023,3,Tuesday,1,355.35571428571427
+Anderson's Bar,Jim Beam,2023-04-07,376.15,2023,4,Friday,4,349.0657142857143
+Anderson's Bar,Jim Beam,2023-05-01,488.4,2023,5,Monday,0,386.5214285714286
+Anderson's Bar,Jim Beam,2023-05-04,477.03,2023,5,Thursday,3,374.75
+Anderson's Bar,Jim Beam,2023-05-08,222.14,2023,5,Monday,0,339.9442857142857
+Anderson's Bar,Jim Beam,2023-05-10,103.79,2023,5,Wednesday,2,316.72999999999996
+Anderson's Bar,Jim Beam,2023-06-02,478.82,2023,6,Friday,4,364.60571428571427
+Anderson's Bar,Jim Beam,2023-06-07,560.78,2023,6,Wednesday,2,386.72999999999996
+Anderson's Bar,Jim Beam,2023-06-08,123.64,2023,6,Thursday,3,350.65714285714284
+Anderson's Bar,Jim Beam,2023-06-12,0.0,2023,6,Monday,0,280.8857142857143
+Anderson's Bar,Jim Beam,2023-07-01,558.14,2023,7,Saturday,5,292.47285714285715
+Anderson's Bar,Jim Beam,2023-07-02,208.57,2023,7,Sunday,6,290.53428571428566
+Anderson's Bar,Jim Beam,2023-07-04,0.0,2023,7,Tuesday,1,275.70714285714286
+Anderson's Bar,Jim Beam,2023-07-06,953.17,2023,7,Thursday,3,343.4714285714286
+Anderson's Bar,Jim Beam,2023-07-07,375.32,2023,7,Friday,4,316.9771428571429
+Anderson's Bar,Jim Beam,2023-07-08,485.93,2023,7,Saturday,5,368.73285714285714
+Anderson's Bar,Jim Beam,2023-07-10,204.94,2023,7,Monday,0,398.01000000000005
+Anderson's Bar,Jim Beam,2023-07-12,364.04,2023,7,Wednesday,2,370.2814285714286
+Anderson's Bar,Jim Beam,2023-09-08,474.29,2023,9,Friday,4,408.24142857142857
+Anderson's Bar,Jim Beam,2023-10-04,187.58,2023,10,Wednesday,2,435.0385714285714
+Anderson's Bar,Jim Beam,2023-10-12,221.13,2023,10,Thursday,3,330.4614285714286
+Anderson's Bar,Jim Beam,2023-11-05,564.96,2023,11,Sunday,6,357.55285714285714
+Anderson's Bar,Jim Beam,2023-12-01,411.97,2023,12,Friday,4,346.9871428571428
+Anderson's Bar,Jim Beam,2023-12-04,253.15,2023,12,Monday,0,353.8742857142857
+Anderson's Bar,Jim Beam,2023-12-08,181.11,2023,12,Friday,4,327.74142857142857
+Anderson's Bar,Malibu,2023-01-07,175.78,2023,1,Saturday,5,175.78
+Anderson's Bar,Malibu,2023-01-09,181.31,2023,1,Monday,0,178.54500000000002
+Anderson's Bar,Malibu,2023-01-12,377.36,2023,1,Thursday,3,244.8166666666667
+Anderson's Bar,Malibu,2023-02-02,181.34,2023,2,Thursday,3,228.94750000000002
+Anderson's Bar,Malibu,2023-03-02,455.42,2023,3,Thursday,3,274.242
+Anderson's Bar,Malibu,2023-03-05,110.21,2023,3,Sunday,6,246.90333333333334
+Anderson's Bar,Malibu,2023-03-09,421.19,2023,3,Thursday,3,271.8014285714286
+Anderson's Bar,Malibu,2023-04-01,0.0,2023,4,Saturday,5,246.69
+Anderson's Bar,Malibu,2023-04-08,0.0,2023,4,Saturday,5,220.78857142857143
+Anderson's Bar,Malibu,2023-07-11,523.04,2023,7,Tuesday,1,241.59999999999997
+Anderson's Bar,Malibu,2023-08-02,451.9,2023,8,Wednesday,2,280.25142857142856
+Anderson's Bar,Malibu,2023-08-07,423.25,2023,8,Monday,0,275.6557142857143
+Anderson's Bar,Malibu,2023-08-10,0.0,2023,8,Thursday,3,259.91142857142853
+Anderson's Bar,Malibu,2023-08-11,0.0,2023,8,Friday,4,199.74142857142857
+Anderson's Bar,Malibu,2023-09-01,0.0,2023,9,Friday,4,199.74142857142857
+Anderson's Bar,Malibu,2023-10-03,532.8,2023,10,Tuesday,1,275.85571428571427
+Anderson's Bar,Malibu,2023-10-08,590.28,2023,10,Sunday,6,285.46142857142854
+Anderson's Bar,Malibu,2023-10-09,105.44,2023,10,Monday,0,235.96714285714285
+Anderson's Bar,Malibu,2023-11-01,289.48,2023,11,Wednesday,2,216.85714285714286
+Anderson's Bar,Malibu,2023-11-06,85.65,2023,11,Monday,0,229.09285714285713
+Anderson's Bar,Malibu,2023-11-10,0.0,2023,11,Friday,4,229.09285714285713
+Anderson's Bar,Malibu,2023-11-12,0.0,2023,11,Sunday,6,229.09285714285713
+Anderson's Bar,Malibu,2024-01-01,175.05,2024,1,Monday,0,177.9857142857143
+Anderson's Bar,Miller,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Anderson's Bar,Miller,2023-01-11,484.08,2023,1,Wednesday,2,242.04
+Anderson's Bar,Miller,2023-02-03,618.55,2023,2,Friday,4,367.5433333333333
+Anderson's Bar,Miller,2023-02-07,398.77,2023,2,Tuesday,1,375.34999999999997
+Anderson's Bar,Miller,2023-03-08,0.0,2023,3,Wednesday,2,300.28
+Anderson's Bar,Miller,2023-04-02,198.92,2023,4,Sunday,6,283.38666666666666
+Anderson's Bar,Miller,2023-04-08,113.14,2023,4,Saturday,5,259.06571428571425
+Anderson's Bar,Miller,2023-05-02,260.2,2023,5,Tuesday,1,296.2371428571428
+Anderson's Bar,Miller,2023-05-09,352.13,2023,5,Tuesday,1,277.38714285714286
+Anderson's Bar,Miller,2023-06-02,433.4,2023,6,Friday,4,250.93714285714285
+Anderson's Bar,Miller,2023-06-09,983.79,2023,6,Friday,4,334.51142857142855
+Anderson's Bar,Miller,2023-07-05,586.08,2023,7,Wednesday,2,418.2371428571428
+Anderson's Bar,Miller,2023-08-10,594.4,2023,8,Thursday,3,474.7342857142857
+Anderson's Bar,Miller,2023-09-02,376.96,2023,9,Saturday,5,512.4228571428572
+Anderson's Bar,Miller,2023-09-05,264.17,2023,9,Tuesday,1,512.99
+Anderson's Bar,Miller,2023-09-09,464.08,2023,9,Saturday,5,528.9828571428571
+Anderson's Bar,Miller,2023-09-12,395.66,2023,9,Tuesday,1,523.5914285714285
+Anderson's Bar,Miller,2023-10-03,510.47,2023,10,Tuesday,1,455.9742857142857
+Anderson's Bar,Miller,2023-10-06,205.07,2023,10,Friday,4,401.5442857142857
+Anderson's Bar,Miller,2023-10-07,400.53,2023,10,Saturday,5,373.84857142857146
+Anderson's Bar,Miller,2023-10-08,473.98,2023,10,Sunday,6,387.7085714285714
+Anderson's Bar,Miller,2023-11-02,204.35,2023,11,Thursday,3,379.16285714285715
+Anderson's Bar,Miller,2023-11-12,134.19,2023,11,Sunday,6,332.0357142857143
+Anderson's Bar,Miller,2023-12-11,389.43,2023,12,Monday,0,331.1457142857143
+Anderson's Bar,Smirnoff,2023-01-03,264.7,2023,1,Tuesday,1,264.7
+Anderson's Bar,Smirnoff,2023-01-10,491.89,2023,1,Tuesday,1,378.29499999999996
+Anderson's Bar,Smirnoff,2023-01-12,592.18,2023,1,Thursday,3,449.59
+Anderson's Bar,Smirnoff,2023-02-10,532.89,2023,2,Friday,4,470.41499999999996
+Anderson's Bar,Smirnoff,2023-02-12,322.57,2023,2,Sunday,6,440.846
+Anderson's Bar,Smirnoff,2023-04-01,370.22,2023,4,Saturday,5,429.075
+Anderson's Bar,Smirnoff,2023-05-02,504.23,2023,5,Tuesday,1,439.81142857142856
+Anderson's Bar,Smirnoff,2023-05-06,489.98,2023,5,Saturday,5,471.9942857142857
+Anderson's Bar,Smirnoff,2023-05-10,109.08,2023,5,Wednesday,2,417.3071428571429
+Anderson's Bar,Smirnoff,2023-05-12,291.76,2023,5,Friday,4,374.39
+Anderson's Bar,Smirnoff,2023-06-06,546.8,2023,6,Tuesday,1,376.3771428571429
+Anderson's Bar,Smirnoff,2023-07-02,185.74,2023,7,Sunday,6,356.83
+Anderson's Bar,Smirnoff,2023-07-03,482.18,2023,7,Monday,0,372.82428571428574
+Anderson's Bar,Smirnoff,2023-07-04,0.0,2023,7,Tuesday,1,300.7914285714286
+Anderson's Bar,Smirnoff,2023-07-08,196.5,2023,7,Saturday,5,258.86571428571426
+Anderson's Bar,Smirnoff,2023-07-10,136.98,2023,7,Monday,0,262.8514285714286
+Anderson's Bar,Smirnoff,2023-07-11,509.26,2023,7,Tuesday,1,293.92285714285714
+Anderson's Bar,Smirnoff,2023-08-01,266.61,2023,8,Tuesday,1,253.8957142857143
+Anderson's Bar,Smirnoff,2023-08-11,151.66,2023,8,Friday,4,249.02714285714288
+Anderson's Bar,Smirnoff,2023-08-12,521.12,2023,8,Saturday,5,254.58999999999997
+Anderson's Bar,Smirnoff,2023-09-12,494.23,2023,9,Tuesday,1,325.1942857142857
+Anderson's Bar,Smirnoff,2023-10-02,367.75,2023,10,Monday,0,349.6585714285714
+Anderson's Bar,Smirnoff,2023-10-07,153.87,2023,10,Saturday,5,352.07142857142856
+Anderson's Bar,Smirnoff,2023-10-10,563.69,2023,10,Tuesday,1,359.8471428571429
+Anderson's Bar,Smirnoff,2023-11-04,572.05,2023,11,Saturday,5,403.4814285714286
+Anderson's Bar,Smirnoff,2023-12-05,1069.03,2023,12,Tuesday,1,534.5342857142857
+Anderson's Bar,Smirnoff,2023-12-08,401.37,2023,12,Friday,4,517.4271428571428
+Anderson's Bar,Smirnoff,2023-12-09,169.75,2023,12,Saturday,5,471.0728571428572
+Anderson's Bar,Sutter Home,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Anderson's Bar,Sutter Home,2023-01-04,112.16,2023,1,Wednesday,2,56.08
+Anderson's Bar,Sutter Home,2023-01-06,208.44,2023,1,Friday,4,106.86666666666667
+Anderson's Bar,Sutter Home,2023-02-02,582.57,2023,2,Thursday,3,225.79250000000002
+Anderson's Bar,Sutter Home,2023-02-07,246.35,2023,2,Tuesday,1,229.904
+Anderson's Bar,Sutter Home,2023-02-08,234.71,2023,2,Wednesday,2,230.705
+Anderson's Bar,Sutter Home,2023-03-08,0.0,2023,3,Wednesday,2,197.74714285714285
+Anderson's Bar,Sutter Home,2023-05-05,484.4,2023,5,Friday,4,266.94714285714286
+Anderson's Bar,Sutter Home,2023-05-07,163.09,2023,5,Sunday,6,274.22285714285715
+Anderson's Bar,Sutter Home,2023-05-08,210.47,2023,5,Monday,0,274.5128571428572
+Anderson's Bar,Sutter Home,2023-05-11,210.71,2023,5,Thursday,3,221.39000000000001
+Anderson's Bar,Sutter Home,2023-06-04,200.3,2023,6,Sunday,6,214.8114285714286
+Anderson's Bar,Sutter Home,2023-06-11,124.25,2023,6,Sunday,6,199.03142857142856
+Anderson's Bar,Sutter Home,2023-07-01,548.34,2023,7,Saturday,5,277.36571428571426
+Anderson's Bar,Sutter Home,2023-07-03,344.8,2023,7,Monday,0,257.42285714285714
+Anderson's Bar,Sutter Home,2023-07-06,883.02,2023,7,Thursday,3,360.27000000000004
+Anderson's Bar,Sutter Home,2023-08-04,191.6,2023,8,Friday,4,357.57428571428574
+Anderson's Bar,Sutter Home,2023-08-05,306.31,2023,8,Saturday,5,371.23142857142864
+Anderson's Bar,Sutter Home,2023-08-06,532.2,2023,8,Sunday,6,418.6457142857143
+Anderson's Bar,Sutter Home,2023-09-08,350.5,2023,9,Friday,4,450.96714285714285
+Anderson's Bar,Sutter Home,2023-10-07,165.82,2023,10,Saturday,5,396.32142857142856
+Anderson's Bar,Sutter Home,2023-11-01,551.82,2023,11,Wednesday,2,425.89571428571435
+Anderson's Bar,Sutter Home,2023-11-09,583.59,2023,11,Thursday,3,383.11999999999995
+Anderson's Bar,Sutter Home,2023-11-10,521.1,2023,11,Friday,4,430.1914285714286
+Anderson's Bar,Yellow Tail,2023-01-05,389.08,2023,1,Thursday,3,389.08
+Anderson's Bar,Yellow Tail,2023-01-08,379.83,2023,1,Sunday,6,384.455
+Anderson's Bar,Yellow Tail,2023-01-11,511.07,2023,1,Wednesday,2,426.66
+Anderson's Bar,Yellow Tail,2023-02-03,921.94,2023,2,Friday,4,550.48
+Anderson's Bar,Yellow Tail,2023-02-11,293.11,2023,2,Saturday,5,499.00600000000003
+Anderson's Bar,Yellow Tail,2023-03-05,368.66,2023,3,Sunday,6,477.2816666666667
+Anderson's Bar,Yellow Tail,2023-03-06,528.6,2023,3,Monday,0,484.61285714285714
+Anderson's Bar,Yellow Tail,2023-03-10,52.61,2023,3,Friday,4,436.5457142857143
+Anderson's Bar,Yellow Tail,2023-03-12,0.0,2023,3,Sunday,6,382.2842857142858
+Anderson's Bar,Yellow Tail,2023-04-03,226.18,2023,4,Monday,0,341.58571428571435
+Anderson's Bar,Yellow Tail,2023-04-07,417.28,2023,4,Friday,4,269.49142857142857
+Anderson's Bar,Yellow Tail,2023-04-09,124.13,2023,4,Sunday,6,245.35142857142858
+Anderson's Bar,Yellow Tail,2023-04-10,480.82,2023,4,Monday,0,261.37428571428575
+Anderson's Bar,Yellow Tail,2023-04-11,547.39,2023,4,Tuesday,1,264.0585714285714
+Anderson's Bar,Yellow Tail,2023-05-03,1036.72,2023,5,Wednesday,2,404.64571428571435
+Anderson's Bar,Yellow Tail,2023-06-07,544.01,2023,6,Wednesday,2,482.3614285714286
+Anderson's Bar,Yellow Tail,2023-06-08,183.37,2023,6,Thursday,3,476.24571428571426
+Anderson's Bar,Yellow Tail,2023-06-12,126.7,2023,6,Monday,0,434.73428571428576
+Anderson's Bar,Yellow Tail,2023-07-07,365.62,2023,7,Friday,4,469.23285714285714
+Anderson's Bar,Yellow Tail,2023-08-02,301.74,2023,8,Wednesday,2,443.65000000000003
+Anderson's Bar,Yellow Tail,2023-08-03,91.56,2023,8,Thursday,3,378.5314285714286
+Anderson's Bar,Yellow Tail,2023-08-11,0.0,2023,8,Friday,4,230.42857142857147
+Anderson's Bar,Yellow Tail,2023-09-07,0.0,2023,9,Thursday,3,152.7128571428572
+Anderson's Bar,Yellow Tail,2023-09-11,143.78,2023,9,Monday,0,147.0571428571429
+Anderson's Bar,Yellow Tail,2023-10-02,206.37,2023,10,Monday,0,158.43857142857146
+Anderson's Bar,Yellow Tail,2023-10-05,0.0,2023,10,Thursday,3,106.2071428571429
+Anderson's Bar,Yellow Tail,2023-10-10,0.0,2023,10,Tuesday,1,63.101428571428606
+Anderson's Bar,Yellow Tail,2023-11-02,0.0,2023,11,Thursday,3,50.0214285714286
+Anderson's Bar,Yellow Tail,2023-11-06,212.4,2023,11,Monday,0,80.36428571428574
+Anderson's Bar,Yellow Tail,2023-12-01,574.61,2023,12,Friday,4,162.4514285714286
+Anderson's Bar,Yellow Tail,2023-12-04,578.59,2023,12,Monday,0,224.5671428571429
+Anderson's Bar,Yellow Tail,2023-12-11,269.96,2023,12,Monday,0,233.6514285714286
+Brown's Bar,Absolut,2023-01-02,376.31,2023,1,Monday,0,376.31
+Brown's Bar,Absolut,2023-01-05,575.68,2023,1,Thursday,3,475.995
+Brown's Bar,Absolut,2023-01-08,411.07,2023,1,Sunday,6,454.3533333333333
+Brown's Bar,Absolut,2023-01-09,160.65,2023,1,Monday,0,380.92749999999995
+Brown's Bar,Absolut,2023-02-03,423.48,2023,2,Friday,4,389.438
+Brown's Bar,Absolut,2023-02-10,179.21,2023,2,Friday,4,354.40000000000003
+Brown's Bar,Absolut,2023-02-12,427.0,2023,2,Sunday,6,364.7714285714286
+Brown's Bar,Absolut,2023-03-02,459.04,2023,3,Thursday,3,376.59000000000003
+Brown's Bar,Absolut,2023-05-01,189.19,2023,5,Monday,0,321.3771428571428
+Brown's Bar,Absolut,2023-05-10,468.04,2023,5,Wednesday,2,329.5157142857143
+Brown's Bar,Absolut,2023-06-04,0.0,2023,6,Sunday,6,306.5657142857143
+Brown's Bar,Absolut,2023-07-02,0.0,2023,7,Sunday,6,246.06857142857143
+Brown's Bar,Absolut,2023-07-10,0.0,2023,7,Monday,0,220.46714285714285
+Brown's Bar,Absolut,2023-09-06,183.71,2023,9,Wednesday,2,185.71142857142857
+Brown's Bar,Absolut,2023-09-08,296.78,2023,9,Friday,4,162.53142857142853
+Brown's Bar,Absolut,2023-10-01,446.44,2023,10,Sunday,6,199.28142857142853
+Brown's Bar,Absolut,2023-10-02,504.26,2023,10,Monday,0,204.45571428571427
+Brown's Bar,Absolut,2023-10-08,436.77,2023,10,Sunday,6,266.8514285714285
+Brown's Bar,Absolut,2023-10-11,239.97,2023,10,Wednesday,2,301.1328571428571
+Brown's Bar,Absolut,2023-10-12,575.79,2023,10,Thursday,3,383.3885714285714
+Brown's Bar,Absolut,2023-11-02,307.12,2023,11,Thursday,3,401.01857142857136
+Brown's Bar,Absolut,2023-12-04,288.35,2023,12,Monday,0,399.8142857142857
+Brown's Bar,Bacardi,2023-01-02,134.75,2023,1,Monday,0,134.75
+Brown's Bar,Bacardi,2023-01-03,467.87,2023,1,Tuesday,1,301.31
+Brown's Bar,Bacardi,2023-01-06,145.81,2023,1,Friday,4,249.4766666666667
+Brown's Bar,Bacardi,2023-02-03,397.63,2023,2,Friday,4,286.515
+Brown's Bar,Bacardi,2023-02-07,394.86,2023,2,Tuesday,1,308.184
+Brown's Bar,Bacardi,2023-02-11,0.0,2023,2,Saturday,5,256.82
+Brown's Bar,Bacardi,2023-03-05,345.47,2023,3,Sunday,6,269.4842857142857
+Brown's Bar,Bacardi,2023-03-07,181.09,2023,3,Tuesday,1,276.1042857142857
+Brown's Bar,Bacardi,2023-03-12,216.64,2023,3,Sunday,6,240.21428571428575
+Brown's Bar,Bacardi,2023-04-02,140.95,2023,4,Sunday,6,239.51999999999998
+Brown's Bar,Bacardi,2023-04-08,154.71,2023,4,Saturday,5,204.81714285714287
+Brown's Bar,Bacardi,2023-04-09,229.94,2023,4,Sunday,6,181.25714285714284
+Brown's Bar,Bacardi,2023-05-01,174.06,2023,5,Monday,0,206.12285714285713
+Brown's Bar,Bacardi,2023-05-03,505.63,2023,5,Wednesday,2,229.00285714285715
+Brown's Bar,Bacardi,2023-05-04,183.7,2023,5,Thursday,3,229.3757142857143
+Brown's Bar,Bacardi,2023-06-06,544.66,2023,6,Tuesday,1,276.23571428571427
+Brown's Bar,Bacardi,2023-06-07,309.39,2023,6,Wednesday,2,300.29857142857145
+Brown's Bar,Bacardi,2023-06-08,222.21,2023,6,Thursday,3,309.9414285714286
+Brown's Bar,Bacardi,2023-07-03,306.41,2023,7,Monday,0,320.86571428571426
+Brown's Bar,Bacardi,2023-07-05,410.14,2023,7,Wednesday,2,354.59142857142854
+Brown's Bar,Bacardi,2023-08-01,199.86,2023,8,Tuesday,1,310.90999999999997
+Brown's Bar,Bacardi,2023-08-03,140.18,2023,8,Thursday,3,304.6928571428571
+Brown's Bar,Bacardi,2023-08-06,256.13,2023,8,Sunday,6,263.4742857142857
+Brown's Bar,Bacardi,2023-09-05,203.07,2023,9,Tuesday,1,248.28571428571428
+Brown's Bar,Bacardi,2023-09-09,444.62,2023,9,Saturday,5,280.05857142857144
+Brown's Bar,Bacardi,2023-09-11,389.82,2023,9,Monday,0,291.9742857142857
+Brown's Bar,Bacardi,2023-09-12,387.36,2023,9,Tuesday,1,288.71999999999997
+Brown's Bar,Bacardi,2023-10-01,466.08,2023,10,Sunday,6,326.7514285714286
+Brown's Bar,Bacardi,2023-10-04,365.75,2023,10,Wednesday,2,358.9757142857143
+Brown's Bar,Bacardi,2023-10-10,360.19,2023,10,Tuesday,1,373.84142857142854
+Brown's Bar,Bacardi,2023-10-11,420.92,2023,10,Wednesday,2,404.9628571428571
+Brown's Bar,Bacardi,2023-11-11,162.73,2023,11,Saturday,5,364.6928571428571
+Brown's Bar,Bacardi,2023-11-12,143.93,2023,11,Sunday,6,329.5657142857143
+Brown's Bar,Bacardi,2023-12-03,212.22,2023,12,Sunday,6,304.54571428571427
+Brown's Bar,Bacardi,2023-12-04,469.01,2023,12,Monday,0,304.9642857142857
+Brown's Bar,Bacardi,2023-12-05,432.06,2023,12,Tuesday,1,314.4371428571429
+Brown's Bar,Bacardi,2023-12-08,403.75,2023,12,Friday,4,320.65999999999997
+Brown's Bar,Barefoot,2023-01-10,233.35,2023,1,Tuesday,1,233.35
+Brown's Bar,Barefoot,2023-01-11,443.52,2023,1,Wednesday,2,338.435
+Brown's Bar,Barefoot,2023-02-03,395.28,2023,2,Friday,4,357.3833333333334
+Brown's Bar,Barefoot,2023-02-05,577.23,2023,2,Sunday,6,412.345
+Brown's Bar,Barefoot,2023-02-10,105.28,2023,2,Friday,4,350.932
+Brown's Bar,Barefoot,2023-03-04,325.01,2023,3,Saturday,5,346.6116666666667
+Brown's Bar,Barefoot,2023-03-05,467.67,2023,3,Sunday,6,363.9057142857143
+Brown's Bar,Barefoot,2023-03-06,439.2,2023,3,Monday,0,393.3128571428571
+Brown's Bar,Barefoot,2023-04-07,100.94,2023,4,Friday,4,344.3728571428572
+Brown's Bar,Barefoot,2023-04-08,462.94,2023,4,Saturday,5,354.0385714285714
+Brown's Bar,Barefoot,2023-05-02,141.71,2023,5,Tuesday,1,291.82142857142856
+Brown's Bar,Barefoot,2023-05-08,577.64,2023,5,Monday,0,359.3014285714285
+Brown's Bar,Barefoot,2023-07-06,169.68,2023,7,Thursday,3,337.1114285714286
+Brown's Bar,Barefoot,2023-07-09,346.89,2023,7,Sunday,6,319.85714285714283
+Brown's Bar,Barefoot,2023-08-01,458.24,2023,8,Tuesday,1,322.57714285714286
+Brown's Bar,Barefoot,2023-08-04,497.08,2023,8,Friday,4,379.1685714285714
+Brown's Bar,Barefoot,2023-08-05,339.15,2023,8,Saturday,5,361.4842857142857
+Brown's Bar,Barefoot,2023-08-12,353.57,2023,8,Saturday,5,391.75
+Brown's Bar,Barefoot,2023-09-10,408.84,2023,9,Sunday,6,367.63571428571424
+Brown's Bar,Barefoot,2023-10-02,187.4,2023,10,Monday,0,370.1671428571429
+Brown's Bar,Barefoot,2023-10-07,428.34,2023,10,Saturday,5,381.80285714285714
+Brown's Bar,Barefoot,2023-11-08,167.12,2023,11,Wednesday,2,340.2142857142857
+Brown's Bar,Barefoot,2023-11-11,505.69,2023,11,Saturday,5,341.44428571428574
+Brown's Bar,Barefoot,2023-12-08,381.27,2023,12,Friday,4,347.4614285714286
+Brown's Bar,Barefoot,2023-12-09,418.8,2023,12,Saturday,5,356.78000000000003
+Brown's Bar,Barefoot,2024-01-01,155.61,2024,1,Monday,0,320.6042857142857
+Brown's Bar,Budweiser,2023-01-06,224.12,2023,1,Friday,4,224.12
+Brown's Bar,Budweiser,2023-02-02,512.16,2023,2,Thursday,3,368.14
+Brown's Bar,Budweiser,2023-02-04,195.48,2023,2,Saturday,5,310.58666666666664
+Brown's Bar,Budweiser,2023-03-05,442.77,2023,3,Sunday,6,343.6325
+Brown's Bar,Budweiser,2023-05-01,442.72,2023,5,Monday,0,363.45
+Brown's Bar,Budweiser,2023-05-06,199.84,2023,5,Saturday,5,336.1816666666667
+Brown's Bar,Budweiser,2023-05-09,334.91,2023,5,Tuesday,1,336.0
+Brown's Bar,Budweiser,2023-07-03,453.85,2023,7,Monday,0,368.81857142857143
+Brown's Bar,Budweiser,2023-07-06,526.73,2023,7,Thursday,3,370.9
+Brown's Bar,Budweiser,2023-08-06,465.37,2023,8,Sunday,6,409.45571428571435
+Brown's Bar,Budweiser,2023-08-07,318.71,2023,8,Monday,0,391.7328571428571
+Brown's Bar,Budweiser,2023-09-09,199.31,2023,9,Saturday,5,356.96000000000004
+Brown's Bar,Budweiser,2023-10-06,530.92,2023,10,Friday,4,404.2571428571428
+Brown's Bar,Budweiser,2023-10-08,310.46,2023,10,Sunday,6,400.7642857142857
+Brown's Bar,Budweiser,2023-11-02,494.19,2023,11,Thursday,3,406.52714285714285
+Brown's Bar,Budweiser,2023-12-01,544.37,2023,12,Friday,4,409.04714285714283
+Brown's Bar,Budweiser,2023-12-05,164.59,2023,12,Tuesday,1,366.0785714285715
+Brown's Bar,Captain Morgan,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Brown's Bar,Captain Morgan,2023-01-07,360.86,2023,1,Saturday,5,180.43
+Brown's Bar,Captain Morgan,2023-02-04,264.42,2023,2,Saturday,5,208.42666666666665
+Brown's Bar,Captain Morgan,2023-03-08,0.0,2023,3,Wednesday,2,156.32
+Brown's Bar,Captain Morgan,2023-04-05,434.34,2023,4,Wednesday,2,211.92399999999998
+Brown's Bar,Captain Morgan,2023-04-12,285.17,2023,4,Wednesday,2,224.13166666666666
+Brown's Bar,Captain Morgan,2023-05-06,0.0,2023,5,Saturday,5,192.11285714285714
+Brown's Bar,Captain Morgan,2023-05-07,568.76,2023,5,Sunday,6,273.3642857142857
+Brown's Bar,Captain Morgan,2023-05-08,587.16,2023,5,Monday,0,305.6928571428571
+Brown's Bar,Captain Morgan,2023-06-04,376.35,2023,6,Sunday,6,321.68285714285713
+Brown's Bar,Captain Morgan,2023-07-01,185.13,2023,7,Saturday,5,348.13
+Brown's Bar,Captain Morgan,2023-07-08,215.27,2023,7,Saturday,5,316.83428571428567
+Brown's Bar,Captain Morgan,2023-07-10,159.11,2023,7,Monday,0,298.8257142857143
+Brown's Bar,Captain Morgan,2023-08-05,0.0,2023,8,Saturday,5,298.8257142857143
+Brown's Bar,Captain Morgan,2023-09-01,528.77,2023,9,Friday,4,293.11285714285714
+Brown's Bar,Captain Morgan,2023-09-06,380.49,2023,9,Wednesday,2,263.58857142857147
+Brown's Bar,Captain Morgan,2023-10-06,330.01,2023,10,Friday,4,256.9685714285714
+Brown's Bar,Captain Morgan,2023-10-12,113.5,2023,10,Thursday,3,246.7357142857143
+Brown's Bar,Captain Morgan,2023-11-06,0.0,2023,11,Monday,0,215.9828571428571
+Brown's Bar,Captain Morgan,2023-12-06,271.42,2023,12,Wednesday,2,232.02714285714288
+Brown's Bar,Captain Morgan,2023-12-11,228.66,2023,12,Monday,0,264.6928571428571
+Brown's Bar,Captain Morgan,2023-12-12,316.13,2023,12,Tuesday,1,234.31571428571428
+Brown's Bar,Coors,2023-01-07,428.46,2023,1,Saturday,5,428.46
+Brown's Bar,Coors,2023-01-09,444.47,2023,1,Monday,0,436.46500000000003
+Brown's Bar,Coors,2023-02-07,0.0,2023,2,Tuesday,1,290.9766666666667
+Brown's Bar,Coors,2023-03-04,0.0,2023,3,Saturday,5,218.23250000000002
+Brown's Bar,Coors,2023-05-07,555.81,2023,5,Sunday,6,285.748
+Brown's Bar,Coors,2023-05-11,225.91,2023,5,Thursday,3,275.77500000000003
+Brown's Bar,Coors,2023-06-01,586.75,2023,6,Thursday,3,320.2
+Brown's Bar,Coors,2023-06-02,452.79,2023,6,Friday,4,323.67571428571426
+Brown's Bar,Coors,2023-06-03,210.09,2023,6,Saturday,5,290.1928571428571
+Brown's Bar,Coors,2023-06-08,0.0,2023,6,Thursday,3,290.1928571428571
+Brown's Bar,Coors,2023-07-04,0.0,2023,7,Tuesday,1,290.1928571428571
+Brown's Bar,Coors,2023-08-01,188.03,2023,8,Tuesday,1,237.65285714285713
+Brown's Bar,Coors,2023-09-01,185.0,2023,9,Friday,4,231.8085714285714
+Brown's Bar,Coors,2023-11-04,269.95,2023,11,Saturday,5,186.55142857142854
+Brown's Bar,Coors,2023-11-07,979.89,2023,11,Tuesday,1,261.8514285714286
+Brown's Bar,Coors,2023-11-10,237.04,2023,11,Friday,4,265.7014285714286
+Brown's Bar,Coors,2023-11-11,598.82,2023,11,Saturday,5,351.2471428571429
+Brown's Bar,Grey Goose,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Brown's Bar,Grey Goose,2023-01-04,481.36,2023,1,Wednesday,2,240.68
+Brown's Bar,Grey Goose,2023-01-10,461.16,2023,1,Tuesday,1,314.17333333333335
+Brown's Bar,Grey Goose,2023-02-01,339.93,2023,2,Wednesday,2,320.6125
+Brown's Bar,Grey Goose,2023-02-08,590.18,2023,2,Wednesday,2,374.526
+Brown's Bar,Grey Goose,2023-03-01,444.12,2023,3,Wednesday,2,386.125
+Brown's Bar,Grey Goose,2023-03-09,361.34,2023,3,Thursday,3,382.5842857142857
+Brown's Bar,Grey Goose,2023-03-10,198.23,2023,3,Friday,4,410.90285714285716
+Brown's Bar,Grey Goose,2023-03-12,599.72,2023,3,Sunday,6,427.81142857142856
+Brown's Bar,Grey Goose,2023-04-05,254.35,2023,4,Wednesday,2,398.26714285714286
+Brown's Bar,Grey Goose,2023-04-09,529.54,2023,4,Sunday,6,425.35428571428565
+Brown's Bar,Grey Goose,2023-05-05,163.97,2023,5,Friday,4,364.46714285714285
+Brown's Bar,Grey Goose,2023-05-09,280.87,2023,5,Tuesday,1,341.1457142857143
+Brown's Bar,Grey Goose,2023-05-11,542.52,2023,5,Thursday,3,367.0285714285714
+Brown's Bar,Grey Goose,2023-06-02,500.21,2023,6,Friday,4,410.1685714285714
+Brown's Bar,Grey Goose,2023-08-06,102.01,2023,8,Sunday,6,339.06714285714287
+Brown's Bar,Grey Goose,2023-08-07,265.2,2023,8,Monday,0,340.6171428571428
+Brown's Bar,Grey Goose,2023-08-08,450.76,2023,8,Tuesday,1,329.36285714285714
+Brown's Bar,Grey Goose,2023-08-11,512.19,2023,8,Friday,4,379.10857142857145
+Brown's Bar,Grey Goose,2023-09-05,0.0,2023,9,Tuesday,1,338.98428571428576
+Brown's Bar,Grey Goose,2023-09-07,149.58,2023,9,Thursday,3,282.85
+Brown's Bar,Grey Goose,2023-09-11,470.17,2023,9,Monday,0,278.5585714285714
+Brown's Bar,Grey Goose,2023-10-03,108.81,2023,10,Tuesday,1,279.53000000000003
+Brown's Bar,Grey Goose,2023-10-07,369.25,2023,10,Saturday,5,294.39428571428573
+Brown's Bar,Grey Goose,2023-10-09,272.22,2023,10,Monday,0,268.8885714285714
+Brown's Bar,Grey Goose,2023-11-01,1125.23,2023,11,Wednesday,2,356.46571428571434
+Brown's Bar,Grey Goose,2023-11-11,434.48,2023,11,Saturday,5,418.5342857142858
+Brown's Bar,Grey Goose,2023-11-12,201.3,2023,11,Sunday,6,425.9228571428572
+Brown's Bar,Grey Goose,2023-12-07,380.23,2023,12,Thursday,3,413.0742857142858
+Brown's Bar,Grey Goose,2023-12-09,100.88,2023,12,Saturday,5,411.9414285714286
+Brown's Bar,Grey Goose,2023-12-12,537.56,2023,12,Tuesday,1,435.9857142857144
+Brown's Bar,Heineken,2023-01-03,394.25,2023,1,Tuesday,1,394.25
+Brown's Bar,Heineken,2023-01-04,198.65,2023,1,Wednesday,2,296.45
+Brown's Bar,Heineken,2023-01-10,280.87,2023,1,Tuesday,1,291.25666666666666
+Brown's Bar,Heineken,2023-02-10,508.25,2023,2,Friday,4,345.505
+Brown's Bar,Heineken,2023-03-02,102.29,2023,3,Thursday,3,296.86199999999997
+Brown's Bar,Heineken,2023-03-06,121.11,2023,3,Monday,0,267.57
+Brown's Bar,Heineken,2023-03-12,369.33,2023,3,Sunday,6,282.10714285714283
+Brown's Bar,Heineken,2023-04-04,112.2,2023,4,Tuesday,1,241.81428571428572
+Brown's Bar,Heineken,2023-04-08,318.34,2023,4,Saturday,5,258.91285714285715
+Brown's Bar,Heineken,2023-04-10,225.5,2023,4,Monday,0,251.00285714285715
+Brown's Bar,Heineken,2023-04-11,537.02,2023,4,Tuesday,1,255.11285714285714
+Brown's Bar,Heineken,2023-05-02,439.96,2023,5,Tuesday,1,303.3514285714286
+Brown's Bar,Heineken,2023-05-12,345.04,2023,5,Friday,4,335.34142857142854
+Brown's Bar,Heineken,2023-06-05,455.44,2023,6,Monday,0,347.64285714285717
+Brown's Bar,Heineken,2023-06-06,496.14,2023,6,Tuesday,1,402.49142857142857
+Brown's Bar,Heineken,2023-08-04,566.54,2023,8,Friday,4,437.9485714285714
+Brown's Bar,Heineken,2023-08-12,445.85,2023,8,Saturday,5,469.4271428571428
+Brown's Bar,Heineken,2023-10-03,148.2,2023,10,Tuesday,1,413.88142857142856
+Brown's Bar,Heineken,2023-10-07,401.17,2023,10,Saturday,5,408.34000000000003
+Brown's Bar,Heineken,2024-01-01,111.63,2024,1,Monday,0,374.99571428571426
+Brown's Bar,Jack Daniels,2023-01-02,200.99,2023,1,Monday,0,200.99
+Brown's Bar,Jack Daniels,2023-01-04,201.9,2023,1,Wednesday,2,201.445
+Brown's Bar,Jack Daniels,2023-01-05,468.93,2023,1,Thursday,3,290.6066666666667
+Brown's Bar,Jack Daniels,2023-01-06,231.83,2023,1,Friday,4,275.9125
+Brown's Bar,Jack Daniels,2023-01-10,400.32,2023,1,Tuesday,1,300.794
+Brown's Bar,Jack Daniels,2023-01-11,371.07,2023,1,Wednesday,2,312.50666666666666
+Brown's Bar,Jack Daniels,2023-01-12,579.32,2023,1,Thursday,3,350.6228571428572
+Brown's Bar,Jack Daniels,2023-02-01,457.85,2023,2,Wednesday,2,387.3171428571428
+Brown's Bar,Jack Daniels,2023-02-03,549.9,2023,2,Friday,4,437.0314285714286
+Brown's Bar,Jack Daniels,2023-02-05,358.81,2023,2,Sunday,6,421.3
+Brown's Bar,Jack Daniels,2023-02-08,532.96,2023,2,Wednesday,2,464.31857142857143
+Brown's Bar,Jack Daniels,2023-02-10,546.49,2023,2,Friday,4,485.19999999999993
+Brown's Bar,Jack Daniels,2023-03-04,137.12,2023,3,Saturday,5,451.77857142857147
+Brown's Bar,Jack Daniels,2023-03-05,276.96,2023,3,Sunday,6,408.5842857142857
+Brown's Bar,Jack Daniels,2023-03-07,310.89,2023,3,Tuesday,1,387.59000000000003
+Brown's Bar,Jack Daniels,2023-03-08,0.0,2023,3,Wednesday,2,309.03285714285715
+Brown's Bar,Jack Daniels,2023-03-10,172.07,2023,3,Friday,4,282.35571428571427
+Brown's Bar,Jack Daniels,2023-04-04,547.48,2023,4,Tuesday,1,284.43
+Brown's Bar,Jack Daniels,2023-04-07,168.89,2023,4,Friday,4,230.48714285714283
+Brown's Bar,Jack Daniels,2023-04-12,575.89,2023,4,Wednesday,2,293.16857142857145
+Brown's Bar,Jack Daniels,2023-05-01,227.02,2023,5,Monday,0,286.0342857142857
+Brown's Bar,Jack Daniels,2023-05-06,426.16,2023,5,Saturday,5,302.5014285714286
+Brown's Bar,Jack Daniels,2023-05-11,527.55,2023,5,Thursday,3,377.86571428571426
+Brown's Bar,Jack Daniels,2023-05-12,204.03,2023,5,Friday,4,382.43142857142857
+Brown's Bar,Jack Daniels,2023-06-11,466.07,2023,6,Sunday,6,370.8014285714285
+Brown's Bar,Jack Daniels,2023-07-02,342.22,2023,7,Sunday,6,395.5628571428571
+Brown's Bar,Jack Daniels,2023-07-03,455.08,2023,7,Monday,0,378.30428571428575
+Brown's Bar,Jack Daniels,2023-07-06,50.71,2023,7,Thursday,3,353.1171428571429
+Brown's Bar,Jack Daniels,2023-08-02,298.43,2023,8,Wednesday,2,334.87
+Brown's Bar,Jack Daniels,2023-08-06,102.36,2023,8,Sunday,6,274.12857142857143
+Brown's Bar,Jack Daniels,2023-10-03,0.0,2023,10,Tuesday,1,244.98142857142858
+Brown's Bar,Jack Daniels,2023-10-08,0.0,2023,10,Sunday,6,178.40000000000003
+Brown's Bar,Jack Daniels,2023-10-10,0.0,2023,10,Tuesday,1,129.51142857142855
+Brown's Bar,Jack Daniels,2023-11-03,0.0,2023,11,Friday,4,64.5
+Brown's Bar,Jack Daniels,2023-11-05,0.0,2023,11,Sunday,6,57.25571428571429
+Brown's Bar,Jack Daniels,2023-12-04,0.0,2023,12,Monday,0,14.622857142857143
+Brown's Bar,Jack Daniels,2023-12-05,0.0,2023,12,Tuesday,1,0.0
+Brown's Bar,Jack Daniels,2023-12-09,0.0,2023,12,Saturday,5,0.0
+Brown's Bar,Jack Daniels,2023-12-10,0.0,2023,12,Sunday,6,0.0
+Brown's Bar,Jameson,2023-01-09,586.74,2023,1,Monday,0,586.74
+Brown's Bar,Jameson,2023-02-06,482.22,2023,2,Monday,0,534.48
+Brown's Bar,Jameson,2023-02-07,743.22,2023,2,Tuesday,1,604.0600000000001
+Brown's Bar,Jameson,2023-02-09,108.36,2023,2,Thursday,3,480.135
+Brown's Bar,Jameson,2023-02-11,394.11,2023,2,Saturday,5,462.93
+Brown's Bar,Jameson,2023-03-09,448.77,2023,3,Thursday,3,460.57
+Brown's Bar,Jameson,2023-05-07,196.14,2023,5,Sunday,6,422.7942857142857
+Brown's Bar,Jameson,2023-07-09,150.35,2023,7,Sunday,6,360.4528571428571
+Brown's Bar,Jameson,2023-07-10,333.48,2023,7,Monday,0,339.20428571428573
+Brown's Bar,Jameson,2023-08-04,505.21,2023,8,Friday,4,305.20285714285717
+Brown's Bar,Jameson,2023-08-07,128.84,2023,8,Monday,0,308.12857142857143
+Brown's Bar,Jameson,2023-08-08,159.09,2023,8,Tuesday,1,274.55428571428575
+Brown's Bar,Jameson,2023-08-10,543.61,2023,8,Thursday,3,288.10285714285715
+Brown's Bar,Jameson,2023-08-12,122.12,2023,8,Saturday,5,277.5285714285714
+Brown's Bar,Jameson,2023-09-04,0.0,2023,9,Monday,0,256.05
+Brown's Bar,Jameson,2023-09-05,197.35,2023,9,Tuesday,1,236.60285714285715
+Brown's Bar,Jameson,2023-09-07,149.37,2023,9,Thursday,3,185.76857142857142
+Brown's Bar,Jameson,2023-09-10,258.98,2023,9,Sunday,6,204.35999999999999
+Brown's Bar,Jameson,2023-09-12,273.65,2023,9,Tuesday,1,220.72571428571428
+Brown's Bar,Jameson,2023-10-05,147.5,2023,10,Thursday,3,164.13857142857142
+Brown's Bar,Jameson,2023-10-06,108.58,2023,10,Friday,4,162.2042857142857
+Brown's Bar,Jameson,2023-11-01,323.44,2023,11,Wednesday,2,208.41
+Brown's Bar,Jameson,2023-11-10,496.39,2023,11,Friday,4,251.12999999999997
+Brown's Bar,Jameson,2023-12-06,226.85,2023,12,Wednesday,2,262.1985714285714
+Brown's Bar,Jameson,2023-12-12,428.02,2023,12,Tuesday,1,286.34714285714284
+Brown's Bar,Jim Beam,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Brown's Bar,Jim Beam,2023-01-03,227.73,2023,1,Tuesday,1,113.865
+Brown's Bar,Jim Beam,2023-01-08,496.02,2023,1,Sunday,6,241.25
+Brown's Bar,Jim Beam,2023-02-02,0.0,2023,2,Thursday,3,180.9375
+Brown's Bar,Jim Beam,2023-02-12,522.14,2023,2,Sunday,6,249.17799999999997
+Brown's Bar,Jim Beam,2023-03-03,433.5,2023,3,Friday,4,279.8983333333333
+Brown's Bar,Jim Beam,2023-03-12,408.7,2023,3,Sunday,6,298.29857142857145
+Brown's Bar,Jim Beam,2023-04-03,379.43,2023,4,Monday,0,352.5028571428571
+Brown's Bar,Jim Beam,2023-05-02,280.4,2023,5,Tuesday,1,360.02714285714285
+Brown's Bar,Jim Beam,2023-05-03,356.0,2023,5,Wednesday,2,340.0242857142857
+Brown's Bar,Jim Beam,2023-05-04,130.13,2023,5,Thursday,3,358.61428571428576
+Brown's Bar,Jim Beam,2023-05-05,421.17,2023,5,Friday,4,344.19
+Brown's Bar,Jim Beam,2023-06-01,302.48,2023,6,Thursday,3,325.47285714285715
+Brown's Bar,Jim Beam,2023-06-04,542.0,2023,6,Sunday,6,344.5157142857143
+Brown's Bar,Jim Beam,2023-06-05,123.42,2023,6,Monday,0,307.9428571428571
+Brown's Bar,Jim Beam,2023-06-08,332.79,2023,6,Thursday,3,315.4271428571428
+Brown's Bar,Jim Beam,2023-07-01,460.27,2023,7,Saturday,5,330.3228571428572
+Brown's Bar,Jim Beam,2023-07-04,0.0,2023,7,Tuesday,1,311.73285714285714
+Brown's Bar,Jim Beam,2023-07-07,455.95,2023,7,Friday,4,316.70142857142855
+Brown's Bar,Jim Beam,2023-07-11,425.43,2023,7,Tuesday,1,334.2657142857143
+Brown's Bar,Jim Beam,2023-07-12,247.1,2023,7,Wednesday,2,292.13714285714286
+Brown's Bar,Jim Beam,2023-08-05,127.83,2023,8,Saturday,5,292.76714285714286
+Brown's Bar,Jim Beam,2023-08-09,530.45,2023,8,Wednesday,2,321.0042857142857
+Brown's Bar,Jim Beam,2023-08-11,540.65,2023,8,Friday,4,332.4871428571428
+Brown's Bar,Jim Beam,2023-09-06,393.17,2023,9,Wednesday,2,388.6542857142857
+Brown's Bar,Jim Beam,2023-09-08,294.42,2023,9,Friday,4,365.5785714285715
+Brown's Bar,Jim Beam,2023-09-09,423.89,2023,9,Saturday,5,365.3585714285714
+Brown's Bar,Jim Beam,2023-10-07,338.05,2023,10,Saturday,5,378.3514285714286
+Brown's Bar,Jim Beam,2023-10-12,554.33,2023,10,Thursday,3,439.28000000000003
+Brown's Bar,Jim Beam,2023-11-02,475.54,2023,11,Thursday,3,431.4357142857143
+Brown's Bar,Jim Beam,2023-11-04,0.0,2023,11,Saturday,5,354.2
+Brown's Bar,Jim Beam,2023-11-06,547.98,2023,11,Monday,0,376.3157142857143
+Brown's Bar,Jim Beam,2023-11-07,960.19,2023,11,Tuesday,1,471.42571428571426
+Brown's Bar,Jim Beam,2023-11-09,277.64,2023,11,Thursday,3,450.53285714285715
+Brown's Bar,Jim Beam,2023-12-07,466.06,2023,12,Thursday,3,468.82
+Brown's Bar,Malibu,2023-01-09,361.04,2023,1,Monday,0,361.04
+Brown's Bar,Malibu,2023-01-12,399.42,2023,1,Thursday,3,380.23
+Brown's Bar,Malibu,2023-02-06,466.79,2023,2,Monday,0,409.0833333333333
+Brown's Bar,Malibu,2023-02-08,578.77,2023,2,Wednesday,2,451.505
+Brown's Bar,Malibu,2023-03-01,297.94,2023,3,Wednesday,2,420.79200000000003
+Brown's Bar,Malibu,2023-03-03,108.53,2023,3,Friday,4,368.7483333333333
+Brown's Bar,Malibu,2023-03-04,166.23,2023,3,Saturday,5,339.8171428571428
+Brown's Bar,Malibu,2023-04-01,223.43,2023,4,Saturday,5,320.15857142857146
+Brown's Bar,Malibu,2023-04-03,0.0,2023,4,Monday,0,263.09857142857146
+Brown's Bar,Malibu,2023-04-10,0.0,2023,4,Monday,0,196.41428571428574
+Brown's Bar,Malibu,2023-06-02,246.21,2023,6,Friday,4,148.90571428571428
+Brown's Bar,Malibu,2023-06-03,28.06,2023,6,Saturday,5,110.35142857142856
+Brown's Bar,Malibu,2023-06-09,0.0,2023,6,Friday,4,94.84714285714286
+Brown's Bar,Malibu,2023-06-10,112.89,2023,6,Saturday,5,87.22714285714287
+Brown's Bar,Malibu,2023-06-12,385.96,2023,6,Monday,0,110.44571428571429
+Brown's Bar,Malibu,2023-07-02,481.64,2023,7,Sunday,6,179.25142857142856
+Brown's Bar,Malibu,2023-07-06,352.14,2023,7,Thursday,3,229.55714285714288
+Brown's Bar,Malibu,2023-07-09,133.64,2023,7,Sunday,6,213.47571428571428
+Brown's Bar,Malibu,2023-08-02,126.03,2023,8,Wednesday,2,227.47142857142856
+Brown's Bar,Malibu,2023-08-08,545.61,2023,8,Tuesday,1,305.4157142857143
+Brown's Bar,Malibu,2023-08-09,362.18,2023,8,Wednesday,2,341.0285714285714
+Brown's Bar,Malibu,2023-09-03,417.71,2023,9,Sunday,6,345.5642857142857
+Brown's Bar,Malibu,2023-10-09,275.05,2023,10,Monday,0,316.0514285714286
+Brown's Bar,Malibu,2023-11-01,273.33,2023,11,Wednesday,2,304.79285714285714
+Brown's Bar,Malibu,2023-11-03,0.0,2023,11,Friday,4,285.70142857142855
+Brown's Bar,Malibu,2023-11-05,0.0,2023,11,Sunday,6,267.69714285714286
+Brown's Bar,Malibu,2023-11-07,0.0,2023,11,Tuesday,1,189.75285714285715
+Brown's Bar,Malibu,2023-11-09,0.0,2023,11,Thursday,3,138.01285714285714
+Brown's Bar,Malibu,2023-12-02,122.48,2023,12,Saturday,5,95.83714285714287
+Brown's Bar,Malibu,2023-12-10,308.83,2023,12,Sunday,6,100.66285714285713
+Brown's Bar,Malibu,2024-01-01,416.29,2024,1,Monday,0,121.08571428571429
+Brown's Bar,Miller,2023-01-05,135.16,2023,1,Thursday,3,135.16
+Brown's Bar,Miller,2023-02-01,442.45,2023,2,Wednesday,2,288.805
+Brown's Bar,Miller,2023-02-12,450.46,2023,2,Sunday,6,342.69
+Brown's Bar,Miller,2023-03-03,219.34,2023,3,Friday,4,311.85249999999996
+Brown's Bar,Miller,2023-03-10,370.54,2023,3,Friday,4,323.59
+Brown's Bar,Miller,2023-03-11,92.1,2023,3,Saturday,5,285.0083333333333
+Brown's Bar,Miller,2023-04-01,0.0,2023,4,Saturday,5,244.29285714285714
+Brown's Bar,Miller,2023-04-06,0.0,2023,4,Thursday,3,224.9842857142857
+Brown's Bar,Miller,2023-04-09,267.79,2023,4,Sunday,6,200.03285714285715
+Brown's Bar,Miller,2023-05-04,0.0,2023,5,Thursday,3,135.68142857142857
+Brown's Bar,Miller,2023-06-11,514.76,2023,6,Sunday,6,177.8842857142857
+Brown's Bar,Miller,2023-06-12,477.6,2023,6,Monday,0,193.17857142857142
+Brown's Bar,Miller,2023-07-05,371.58,2023,7,Wednesday,2,233.1042857142857
+Brown's Bar,Miller,2023-07-07,444.71,2023,7,Friday,4,296.63428571428574
+Brown's Bar,Miller,2023-07-09,421.37,2023,7,Sunday,6,356.83
+Brown's Bar,Miller,2023-07-10,412.94,2023,7,Monday,0,377.5657142857143
+Brown's Bar,Miller,2023-07-11,268.63,2023,7,Tuesday,1,415.9414285714286
+Brown's Bar,Miller,2023-09-02,280.09,2023,9,Saturday,5,382.4171428571428
+Brown's Bar,Miller,2023-09-04,0.0,2023,9,Monday,0,314.1885714285714
+Brown's Bar,Miller,2023-09-10,567.81,2023,9,Sunday,6,342.22142857142853
+Brown's Bar,Miller,2023-10-01,426.98,2023,10,Sunday,6,339.6885714285714
+Brown's Bar,Miller,2023-10-02,377.32,2023,10,Monday,0,333.3957142857143
+Brown's Bar,Miller,2023-10-04,539.17,2023,10,Wednesday,2,351.42857142857144
+Brown's Bar,Miller,2023-10-09,157.52,2023,10,Monday,0,335.55571428571426
+Brown's Bar,Miller,2023-10-12,122.62,2023,10,Thursday,3,313.06
+Brown's Bar,Miller,2023-11-12,254.1,2023,11,Sunday,6,349.36
+Brown's Bar,Miller,2023-12-02,146.88,2023,12,Saturday,5,289.22714285714284
+Brown's Bar,Miller,2023-12-03,74.02,2023,12,Sunday,6,238.8042857142857
+Brown's Bar,Miller,2023-12-04,0.0,2023,12,Monday,0,184.90142857142857
+Brown's Bar,Miller,2023-12-11,136.03,2023,12,Monday,0,127.30999999999997
+Brown's Bar,Smirnoff,2023-01-06,407.21,2023,1,Friday,4,407.21
+Brown's Bar,Smirnoff,2023-02-07,0.0,2023,2,Tuesday,1,203.605
+Brown's Bar,Smirnoff,2023-03-06,0.0,2023,3,Monday,0,135.73666666666665
+Brown's Bar,Smirnoff,2023-04-01,375.38,2023,4,Saturday,5,195.64749999999998
+Brown's Bar,Smirnoff,2023-04-02,103.06,2023,4,Sunday,6,177.13
+Brown's Bar,Smirnoff,2023-04-04,242.29,2023,4,Tuesday,1,187.99
+Brown's Bar,Smirnoff,2023-04-10,0.0,2023,4,Monday,0,161.1342857142857
+Brown's Bar,Smirnoff,2023-04-11,0.0,2023,4,Tuesday,1,102.96142857142856
+Brown's Bar,Smirnoff,2023-04-12,0.0,2023,4,Wednesday,2,102.96142857142857
+Brown's Bar,Smirnoff,2023-05-02,373.31,2023,5,Tuesday,1,156.29142857142855
+Brown's Bar,Smirnoff,2023-05-07,326.09,2023,5,Sunday,6,149.25
+Brown's Bar,Smirnoff,2023-06-01,321.59,2023,6,Thursday,3,180.46857142857144
+Brown's Bar,Smirnoff,2023-06-03,129.3,2023,6,Saturday,5,164.32714285714286
+Brown's Bar,Smirnoff,2023-06-06,145.32,2023,6,Tuesday,1,185.08714285714288
+Brown's Bar,Smirnoff,2023-06-08,470.18,2023,6,Thursday,3,252.25571428571428
+Brown's Bar,Smirnoff,2023-06-09,152.8,2023,6,Friday,4,274.0842857142857
+Brown's Bar,Smirnoff,2023-06-11,205.94,2023,6,Sunday,6,250.17428571428573
+Brown's Bar,Smirnoff,2023-07-01,158.01,2023,7,Saturday,5,226.16285714285712
+Brown's Bar,Smirnoff,2023-07-04,0.0,2023,7,Tuesday,1,180.22142857142856
+Brown's Bar,Smirnoff,2023-07-07,512.74,2023,7,Friday,4,234.99857142857144
+Brown's Bar,Smirnoff,2023-08-03,0.0,2023,8,Thursday,3,214.23857142857145
+Brown's Bar,Smirnoff,2023-08-05,538.33,2023,8,Saturday,5,223.97428571428574
+Brown's Bar,Smirnoff,2023-08-12,524.84,2023,8,Saturday,5,277.12285714285713
+Brown's Bar,Smirnoff,2023-09-04,0.0,2023,9,Monday,0,247.70285714285714
+Brown's Bar,Smirnoff,2023-11-06,257.14,2023,11,Monday,0,261.86428571428576
+Brown's Bar,Smirnoff,2023-11-07,547.64,2023,11,Tuesday,1,340.09857142857146
+Brown's Bar,Smirnoff,2023-11-08,462.7,2023,11,Wednesday,2,332.95
+Brown's Bar,Smirnoff,2023-12-02,422.25,2023,12,Saturday,5,393.2714285714286
+Brown's Bar,Smirnoff,2023-12-03,130.34,2023,12,Sunday,6,334.9871428571429
+Brown's Bar,Smirnoff,2023-12-11,331.4,2023,12,Monday,0,307.3528571428571
+Brown's Bar,Smirnoff,2024-01-01,252.39,2024,1,Monday,0,343.4085714285714
+Brown's Bar,Sutter Home,2023-01-03,309.29,2023,1,Tuesday,1,309.29
+Brown's Bar,Sutter Home,2023-01-04,146.13,2023,1,Wednesday,2,227.71
+Brown's Bar,Sutter Home,2023-01-12,288.22,2023,1,Thursday,3,247.88000000000002
+Brown's Bar,Sutter Home,2023-03-01,0.0,2023,3,Wednesday,2,185.91000000000003
+Brown's Bar,Sutter Home,2023-04-01,0.0,2023,4,Saturday,5,148.728
+Brown's Bar,Sutter Home,2023-04-04,0.0,2023,4,Tuesday,1,123.94000000000001
+Brown's Bar,Sutter Home,2023-04-06,0.0,2023,4,Thursday,3,106.23428571428573
+Brown's Bar,Sutter Home,2023-04-10,0.0,2023,4,Monday,0,62.050000000000004
+Brown's Bar,Sutter Home,2023-05-04,322.52,2023,5,Thursday,3,87.24857142857142
+Brown's Bar,Sutter Home,2023-05-05,122.3,2023,5,Friday,4,63.54571428571428
+Brown's Bar,Sutter Home,2023-05-10,594.05,2023,5,Wednesday,2,148.41
+Brown's Bar,Sutter Home,2023-05-11,557.85,2023,5,Thursday,3,228.10285714285712
+Brown's Bar,Sutter Home,2023-06-06,518.95,2023,6,Tuesday,1,302.23857142857145
+Brown's Bar,Sutter Home,2023-06-09,404.72,2023,6,Friday,4,360.05571428571426
+Brown's Bar,Sutter Home,2023-06-11,169.83,2023,6,Sunday,6,384.3171428571428
+Brown's Bar,Sutter Home,2023-07-02,150.08,2023,7,Sunday,6,359.6828571428572
+Brown's Bar,Sutter Home,2023-07-07,488.99,2023,7,Friday,4,412.0671428571428
+Brown's Bar,Sutter Home,2023-07-08,366.81,2023,7,Saturday,5,379.6042857142857
+Brown's Bar,Sutter Home,2023-08-03,492.45,2023,8,Thursday,3,370.2614285714286
+Brown's Bar,Sutter Home,2023-08-08,184.56,2023,8,Tuesday,1,322.49142857142857
+Brown's Bar,Sutter Home,2023-09-03,363.11,2023,9,Sunday,6,316.54714285714283
+Brown's Bar,Sutter Home,2023-09-07,221.91,2023,9,Thursday,3,323.9871428571428
+Brown's Bar,Sutter Home,2023-09-09,371.92,2023,9,Saturday,5,355.67857142857144
+Brown's Bar,Sutter Home,2023-09-12,144.29,2023,9,Tuesday,1,306.4357142857143
+Brown's Bar,Sutter Home,2023-11-02,117.54,2023,11,Thursday,3,270.8257142857143
+Brown's Bar,Sutter Home,2023-11-09,311.54,2023,11,Thursday,3,244.98142857142858
+Brown's Bar,Sutter Home,2023-11-12,321.54,2023,11,Sunday,6,264.55
+Brown's Bar,Sutter Home,2023-12-01,179.96,2023,12,Friday,4,238.3857142857143
+Brown's Bar,Yellow Tail,2023-01-02,535.95,2023,1,Monday,0,535.95
+Brown's Bar,Yellow Tail,2023-01-05,552.5,2023,1,Thursday,3,544.225
+Brown's Bar,Yellow Tail,2023-02-09,475.53,2023,2,Thursday,3,521.3266666666667
+Brown's Bar,Yellow Tail,2023-02-11,451.63,2023,2,Saturday,5,503.90250000000003
+Brown's Bar,Yellow Tail,2023-03-02,371.08,2023,3,Thursday,3,477.338
+Brown's Bar,Yellow Tail,2023-03-03,311.68,2023,3,Friday,4,449.7283333333333
+Brown's Bar,Yellow Tail,2023-03-08,0.0,2023,3,Wednesday,2,385.4814285714286
+Brown's Bar,Yellow Tail,2023-03-09,195.62,2023,3,Thursday,3,336.86285714285714
+Brown's Bar,Yellow Tail,2023-03-11,338.96,2023,3,Saturday,5,306.35714285714283
+Brown's Bar,Yellow Tail,2023-04-09,498.46,2023,4,Sunday,6,309.6328571428571
+Brown's Bar,Yellow Tail,2023-04-12,269.39,2023,4,Wednesday,2,283.5985714285714
+Brown's Bar,Yellow Tail,2023-05-06,397.5,2023,5,Saturday,5,287.37285714285713
+Brown's Bar,Yellow Tail,2023-05-09,387.57,2023,5,Tuesday,1,298.2142857142857
+Brown's Bar,Yellow Tail,2023-06-01,327.11,2023,6,Thursday,3,344.9442857142857
+Brown's Bar,Yellow Tail,2023-06-04,319.12,2023,6,Sunday,6,362.58714285714285
+Brown's Bar,Yellow Tail,2023-06-07,127.8,2023,6,Wednesday,2,332.4214285714285
+Brown's Bar,Yellow Tail,2023-06-10,404.03,2023,6,Saturday,5,318.93142857142857
+Brown's Bar,Yellow Tail,2023-07-04,0.0,2023,7,Tuesday,1,280.44714285714286
+Brown's Bar,Yellow Tail,2023-07-12,188.24,2023,7,Wednesday,2,250.55285714285714
+Brown's Bar,Yellow Tail,2023-08-07,539.16,2023,8,Monday,0,272.2085714285714
+Brown's Bar,Yellow Tail,2023-08-09,122.47,2023,8,Wednesday,2,242.9742857142857
+Brown's Bar,Yellow Tail,2023-08-10,219.73,2023,8,Thursday,3,228.7757142857143
+Brown's Bar,Yellow Tail,2023-09-01,329.69,2023,9,Friday,4,257.6171428571429
+Brown's Bar,Yellow Tail,2023-09-02,547.57,2023,9,Saturday,5,278.12285714285713
+Brown's Bar,Yellow Tail,2023-09-04,0.0,2023,9,Monday,0,278.1228571428572
+Brown's Bar,Yellow Tail,2023-09-08,315.52,2023,9,Friday,4,296.30571428571426
+Brown's Bar,Yellow Tail,2023-10-05,451.03,2023,10,Thursday,3,283.7157142857143
+Brown's Bar,Yellow Tail,2023-10-06,136.35,2023,10,Friday,4,285.6985714285714
+Brown's Bar,Yellow Tail,2023-10-09,244.03,2023,10,Monday,0,289.17
+Brown's Bar,Yellow Tail,2023-10-11,544.0,2023,10,Wednesday,2,319.7857142857143
+Brown's Bar,Yellow Tail,2023-11-01,620.5,2023,11,Wednesday,2,330.2042857142857
+Brown's Bar,Yellow Tail,2023-11-03,207.92,2023,11,Friday,4,359.90714285714284
+Brown's Bar,Yellow Tail,2023-11-10,217.05,2023,11,Friday,4,345.84000000000003
+Brown's Bar,Yellow Tail,2023-12-02,280.2,2023,12,Saturday,5,321.4357142857143
+Brown's Bar,Yellow Tail,2023-12-05,312.9,2023,12,Tuesday,1,346.65714285714284
+Brown's Bar,Yellow Tail,2023-12-12,422.21,2023,12,Tuesday,1,372.1114285714285
+Johnson's Bar,Absolut,2023-01-08,224.63,2023,1,Sunday,6,224.63
+Johnson's Bar,Absolut,2023-02-02,215.34,2023,2,Thursday,3,219.985
+Johnson's Bar,Absolut,2023-02-09,299.13,2023,2,Thursday,3,246.36666666666667
+Johnson's Bar,Absolut,2023-03-05,562.65,2023,3,Sunday,6,325.4375
+Johnson's Bar,Absolut,2023-03-07,363.76,2023,3,Tuesday,1,333.102
+Johnson's Bar,Absolut,2023-03-08,0.0,2023,3,Wednesday,2,277.585
+Johnson's Bar,Absolut,2023-03-11,246.77,2023,3,Saturday,5,273.18285714285713
+Johnson's Bar,Absolut,2023-04-02,368.18,2023,4,Sunday,6,293.69
+Johnson's Bar,Absolut,2023-04-05,293.36,2023,4,Wednesday,2,304.8357142857143
+Johnson's Bar,Absolut,2023-04-06,276.64,2023,4,Thursday,3,301.6228571428571
+Johnson's Bar,Absolut,2023-04-07,343.93,2023,4,Friday,4,270.37714285714287
+Johnson's Bar,Absolut,2023-04-08,275.24,2023,4,Saturday,5,257.7314285714286
+Johnson's Bar,Absolut,2023-04-09,0.0,2023,4,Sunday,6,257.7314285714286
+Johnson's Bar,Absolut,2023-05-06,297.72,2023,5,Saturday,5,265.01000000000005
+Johnson's Bar,Absolut,2023-05-07,461.82,2023,5,Sunday,6,278.38714285714286
+Johnson's Bar,Absolut,2023-06-06,408.78,2023,6,Tuesday,1,294.8757142857143
+Johnson's Bar,Absolut,2023-06-09,375.08,2023,6,Friday,4,308.93857142857144
+Johnson's Bar,Absolut,2023-07-05,447.5,2023,7,Wednesday,2,323.7342857142857
+Johnson's Bar,Absolut,2023-07-07,479.51,2023,7,Friday,4,352.9157142857143
+Johnson's Bar,Absolut,2023-07-12,314.83,2023,7,Wednesday,2,397.89142857142855
+Johnson's Bar,Absolut,2023-08-05,561.08,2023,8,Saturday,5,435.5142857142858
+Johnson's Bar,Absolut,2023-08-11,455.3,2023,8,Friday,4,434.5828571428571
+Johnson's Bar,Absolut,2023-09-02,497.9,2023,9,Saturday,5,447.31428571428575
+Johnson's Bar,Absolut,2023-09-03,589.28,2023,9,Sunday,6,477.91428571428565
+Johnson's Bar,Absolut,2023-09-06,163.08,2023,9,Wednesday,2,437.28285714285715
+Johnson's Bar,Absolut,2023-10-03,307.18,2023,10,Tuesday,1,412.6642857142857
+Johnson's Bar,Absolut,2023-10-06,239.95,2023,10,Friday,4,401.96714285714285
+Johnson's Bar,Absolut,2023-10-10,164.49,2023,10,Tuesday,1,345.31142857142856
+Johnson's Bar,Absolut,2023-11-10,503.39,2023,11,Friday,4,352.18142857142857
+Johnson's Bar,Absolut,2023-11-12,480.6,2023,11,Sunday,6,349.71
+Johnson's Bar,Absolut,2023-12-02,253.08,2023,12,Saturday,5,301.68142857142857
+Johnson's Bar,Absolut,2023-12-03,173.92,2023,12,Sunday,6,303.23
+Johnson's Bar,Absolut,2023-12-04,161.34,2023,12,Monday,0,282.3957142857143
+Johnson's Bar,Absolut,2023-12-10,137.43,2023,12,Sunday,6,267.75
+Johnson's Bar,Absolut,2023-12-11,340.37,2023,12,Monday,0,292.8757142857143
+Johnson's Bar,Bacardi,2023-01-10,527.11,2023,1,Tuesday,1,527.11
+Johnson's Bar,Bacardi,2023-02-04,417.27,2023,2,Saturday,5,472.19
+Johnson's Bar,Bacardi,2023-02-07,744.74,2023,2,Tuesday,1,563.04
+Johnson's Bar,Bacardi,2023-04-01,540.75,2023,4,Saturday,5,557.4675
+Johnson's Bar,Bacardi,2023-05-06,0.0,2023,5,Saturday,5,445.974
+Johnson's Bar,Bacardi,2023-05-09,0.0,2023,5,Tuesday,1,371.645
+Johnson's Bar,Bacardi,2023-06-05,128.92,2023,6,Monday,0,336.96999999999997
+Johnson's Bar,Bacardi,2023-07-02,443.86,2023,7,Sunday,6,325.07714285714286
+Johnson's Bar,Bacardi,2023-07-04,0.0,2023,7,Tuesday,1,265.46714285714285
+Johnson's Bar,Bacardi,2023-07-08,0.0,2023,7,Saturday,5,159.07571428571433
+Johnson's Bar,Bacardi,2023-07-10,0.0,2023,7,Monday,0,81.82571428571428
+Johnson's Bar,Bacardi,2023-08-05,216.19,2023,8,Saturday,5,112.71000000000001
+Johnson's Bar,Bacardi,2023-08-11,555.14,2023,8,Friday,4,192.01571428571427
+Johnson's Bar,Bacardi,2023-09-05,302.17,2023,9,Tuesday,1,216.76571428571427
+Johnson's Bar,Bacardi,2023-10-05,359.42,2023,10,Thursday,3,204.70285714285714
+Johnson's Bar,Bacardi,2023-11-07,524.11,2023,11,Tuesday,1,279.5757142857143
+Johnson's Bar,Bacardi,2023-12-10,502.67,2023,12,Sunday,6,351.38571428571424
+Johnson's Bar,Bacardi,2023-12-11,116.9,2023,12,Monday,0,368.0857142857143
+Johnson's Bar,Barefoot,2023-01-05,530.4,2023,1,Thursday,3,530.4
+Johnson's Bar,Barefoot,2023-01-06,248.86,2023,1,Friday,4,389.63
+Johnson's Bar,Barefoot,2023-01-11,168.94,2023,1,Wednesday,2,316.06666666666666
+Johnson's Bar,Barefoot,2023-02-06,105.83,2023,2,Monday,0,263.5075
+Johnson's Bar,Barefoot,2023-02-09,535.22,2023,2,Thursday,3,317.85
+Johnson's Bar,Barefoot,2023-03-08,0.0,2023,3,Wednesday,2,264.875
+Johnson's Bar,Barefoot,2023-04-02,372.51,2023,4,Sunday,6,280.25142857142856
+Johnson's Bar,Barefoot,2023-04-03,115.62,2023,4,Monday,0,220.99714285714285
+Johnson's Bar,Barefoot,2023-04-07,295.54,2023,4,Friday,4,227.6657142857143
+Johnson's Bar,Barefoot,2023-04-08,420.32,2023,4,Saturday,5,263.57714285714286
+Johnson's Bar,Barefoot,2023-05-01,486.56,2023,5,Monday,0,317.96714285714285
+Johnson's Bar,Barefoot,2023-05-05,279.1,2023,5,Friday,4,281.37857142857143
+Johnson's Bar,Barefoot,2023-05-09,214.48,2023,5,Tuesday,1,312.0185714285714
+Johnson's Bar,Barefoot,2023-05-11,237.44,2023,5,Thursday,3,292.72285714285715
+Johnson's Bar,Barefoot,2023-05-12,657.11,2023,5,Friday,4,370.0785714285715
+Johnson's Bar,Barefoot,2023-06-01,408.86,2023,6,Thursday,3,386.2671428571429
+Johnson's Bar,Barefoot,2023-06-02,150.71,2023,6,Friday,4,347.7514285714286
+Johnson's Bar,Barefoot,2023-06-09,527.82,2023,6,Friday,4,353.64571428571435
+Johnson's Bar,Barefoot,2023-07-02,123.94,2023,7,Sunday,6,331.48
+Johnson's Bar,Barefoot,2023-07-03,175.05,2023,7,Monday,0,325.8471428571429
+Johnson's Bar,Barefoot,2023-08-03,336.73,2023,8,Thursday,3,340.0314285714286
+Johnson's Bar,Barefoot,2023-08-06,410.47,2023,8,Sunday,6,304.79714285714283
+Johnson's Bar,Barefoot,2023-09-10,368.36,2023,9,Sunday,6,299.01142857142855
+Johnson's Bar,Barefoot,2023-10-12,223.92,2023,10,Thursday,3,309.4700000000001
+Johnson's Bar,Budweiser,2023-02-10,598.95,2023,2,Friday,4,598.95
+Johnson's Bar,Budweiser,2023-02-12,310.19,2023,2,Sunday,6,454.57000000000005
+Johnson's Bar,Budweiser,2023-03-01,101.15,2023,3,Wednesday,2,336.7633333333334
+Johnson's Bar,Budweiser,2023-03-12,461.54,2023,3,Sunday,6,367.9575
+Johnson's Bar,Budweiser,2023-04-01,272.25,2023,4,Saturday,5,348.816
+Johnson's Bar,Budweiser,2023-04-02,392.37,2023,4,Sunday,6,356.075
+Johnson's Bar,Budweiser,2023-05-02,402.68,2023,5,Tuesday,1,362.73285714285714
+Johnson's Bar,Budweiser,2023-05-07,318.39,2023,5,Sunday,6,322.65285714285716
+Johnson's Bar,Budweiser,2023-05-08,232.77,2023,5,Monday,0,311.59285714285716
+Johnson's Bar,Budweiser,2023-06-08,509.51,2023,6,Thursday,3,369.92999999999995
+Johnson's Bar,Budweiser,2023-07-12,559.07,2023,7,Wednesday,2,383.86285714285714
+Johnson's Bar,Budweiser,2023-08-04,1145.17,2023,8,Friday,4,508.5657142857143
+Johnson's Bar,Budweiser,2023-08-08,573.15,2023,8,Tuesday,1,534.3914285714286
+Johnson's Bar,Budweiser,2023-08-10,215.49,2023,8,Thursday,3,507.65000000000003
+Johnson's Bar,Budweiser,2023-09-01,246.27,2023,9,Friday,4,497.34714285714284
+Johnson's Bar,Budweiser,2023-09-08,457.86,2023,9,Friday,4,529.5028571428571
+Johnson's Bar,Budweiser,2023-09-09,725.26,2023,9,Saturday,5,560.3242857142858
+Johnson's Bar,Budweiser,2023-10-11,413.62,2023,10,Wednesday,2,539.5457142857143
+Johnson's Bar,Budweiser,2023-11-03,222.81,2023,11,Friday,4,407.78000000000003
+Johnson's Bar,Budweiser,2023-11-09,572.92,2023,11,Thursday,3,407.7471428571428
+Johnson's Bar,Captain Morgan,2023-01-07,120.36,2023,1,Saturday,5,120.36
+Johnson's Bar,Captain Morgan,2023-02-05,311.1,2023,2,Sunday,6,215.73000000000002
+Johnson's Bar,Captain Morgan,2023-02-08,456.04,2023,2,Wednesday,2,295.8333333333333
+Johnson's Bar,Captain Morgan,2023-02-12,166.89,2023,2,Sunday,6,263.5975
+Johnson's Bar,Captain Morgan,2023-03-01,254.44,2023,3,Wednesday,2,261.76599999999996
+Johnson's Bar,Captain Morgan,2023-03-02,492.29,2023,3,Thursday,3,300.18666666666667
+Johnson's Bar,Captain Morgan,2023-03-06,289.11,2023,3,Monday,0,298.6042857142857
+Johnson's Bar,Captain Morgan,2023-03-08,0.0,2023,3,Wednesday,2,281.41
+Johnson's Bar,Captain Morgan,2023-04-03,273.39,2023,4,Monday,0,276.02285714285716
+Johnson's Bar,Captain Morgan,2023-04-06,466.6,2023,4,Thursday,3,277.5314285714286
+Johnson's Bar,Captain Morgan,2023-04-07,1014.67,2023,4,Friday,4,398.64285714285717
+Johnson's Bar,Captain Morgan,2023-04-08,254.81,2023,4,Saturday,5,398.69571428571425
+Johnson's Bar,Captain Morgan,2023-05-01,0.0,2023,5,Monday,0,328.36857142857144
+Johnson's Bar,Captain Morgan,2023-05-04,0.0,2023,5,Thursday,3,287.06714285714287
+Johnson's Bar,Captain Morgan,2023-05-07,0.0,2023,5,Sunday,6,287.06714285714287
+Johnson's Bar,Captain Morgan,2023-05-10,347.41,2023,5,Wednesday,2,297.64142857142855
+Johnson's Bar,Captain Morgan,2023-06-06,243.15,2023,6,Tuesday,1,265.72
+Johnson's Bar,Captain Morgan,2023-06-08,239.54,2023,6,Thursday,3,154.98714285714286
+Johnson's Bar,Captain Morgan,2023-07-01,153.01,2023,7,Saturday,5,140.44428571428574
+Johnson's Bar,Captain Morgan,2023-07-03,0.0,2023,7,Monday,0,140.44428571428574
+Johnson's Bar,Captain Morgan,2023-07-07,140.46,2023,7,Friday,4,160.51000000000002
+Johnson's Bar,Captain Morgan,2023-07-11,409.48,2023,7,Tuesday,1,219.0071428571429
+Johnson's Bar,Captain Morgan,2023-07-12,292.46,2023,7,Wednesday,2,211.15714285714284
+Johnson's Bar,Captain Morgan,2023-08-04,0.0,2023,8,Friday,4,176.42142857142855
+Johnson's Bar,Captain Morgan,2023-08-06,219.25,2023,8,Sunday,6,173.52285714285713
+Johnson's Bar,Captain Morgan,2023-08-07,568.33,2023,8,Monday,0,232.8542857142857
+Johnson's Bar,Captain Morgan,2023-08-08,506.76,2023,8,Tuesday,1,305.2485714285714
+Johnson's Bar,Captain Morgan,2023-09-02,168.52,2023,9,Saturday,5,309.25714285714287
+Johnson's Bar,Captain Morgan,2023-09-06,285.43,2023,9,Wednesday,2,291.5357142857143
+Johnson's Bar,Captain Morgan,2023-09-08,505.27,2023,9,Friday,4,321.93714285714293
+Johnson's Bar,Captain Morgan,2023-09-10,312.67,2023,9,Sunday,6,366.6042857142857
+Johnson's Bar,Captain Morgan,2023-09-11,521.79,2023,9,Monday,0,409.8242857142858
+Johnson's Bar,Captain Morgan,2023-09-12,423.17,2023,9,Tuesday,1,389.08714285714285
+Johnson's Bar,Captain Morgan,2023-10-03,267.49,2023,10,Tuesday,1,354.9057142857143
+Johnson's Bar,Captain Morgan,2023-10-04,156.9,2023,10,Wednesday,2,353.2457142857143
+Johnson's Bar,Captain Morgan,2023-10-07,159.97,2023,10,Saturday,5,335.3228571428571
+Johnson's Bar,Captain Morgan,2023-10-08,410.7,2023,10,Sunday,6,321.8128571428571
+Johnson's Bar,Captain Morgan,2023-10-09,590.2,2023,10,Monday,0,361.46000000000004
+Johnson's Bar,Captain Morgan,2023-10-12,236.73,2023,10,Thursday,3,320.7371428571428
+Johnson's Bar,Captain Morgan,2023-11-01,308.31,2023,11,Wednesday,2,304.3285714285715
+Johnson's Bar,Captain Morgan,2023-11-08,479.78,2023,11,Wednesday,2,334.6557142857143
+Johnson's Bar,Captain Morgan,2023-12-01,243.56,2023,12,Friday,4,347.0357142857143
+Johnson's Bar,Captain Morgan,2023-12-03,389.49,2023,12,Sunday,6,379.82428571428574
+Johnson's Bar,Captain Morgan,2023-12-08,459.02,2023,12,Friday,4,386.72714285714284
+Johnson's Bar,Captain Morgan,2023-12-09,427.38,2023,12,Saturday,5,363.46714285714285
+Johnson's Bar,Coors,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Johnson's Bar,Coors,2023-01-02,225.46,2023,1,Monday,0,112.73
+Johnson's Bar,Coors,2023-01-03,479.89,2023,1,Tuesday,1,235.11666666666667
+Johnson's Bar,Coors,2023-01-06,353.37,2023,1,Friday,4,264.68
+Johnson's Bar,Coors,2023-02-07,1143.32,2023,2,Tuesday,1,440.408
+Johnson's Bar,Coors,2023-03-05,366.15,2023,3,Sunday,6,428.0316666666667
+Johnson's Bar,Coors,2023-03-11,273.55,2023,3,Saturday,5,405.9628571428571
+Johnson's Bar,Coors,2023-04-10,248.02,2023,4,Monday,0,441.3942857142857
+Johnson's Bar,Coors,2023-05-01,263.22,2023,5,Monday,0,446.7885714285714
+Johnson's Bar,Coors,2023-05-09,238.22,2023,5,Tuesday,1,412.2642857142857
+Johnson's Bar,Coors,2023-06-01,488.7,2023,6,Thursday,3,431.59714285714284
+Johnson's Bar,Coors,2023-06-02,368.75,2023,6,Friday,4,320.94428571428574
+Johnson's Bar,Coors,2023-06-04,305.08,2023,6,Sunday,6,312.21999999999997
+Johnson's Bar,Coors,2023-06-09,188.26,2023,6,Friday,4,300.0357142857143
+Johnson's Bar,Coors,2023-07-01,549.72,2023,7,Saturday,5,343.13571428571424
+Johnson's Bar,Coors,2023-07-09,365.54,2023,7,Sunday,6,357.7528571428571
+Johnson's Bar,Coors,2023-08-12,212.13,2023,8,Saturday,5,354.0257142857143
+Johnson's Bar,Coors,2023-09-03,476.28,2023,9,Sunday,6,352.2514285714286
+Johnson's Bar,Coors,2023-10-03,249.06,2023,10,Tuesday,1,335.15285714285716
+Johnson's Bar,Coors,2023-10-08,124.39,2023,10,Sunday,6,309.34000000000003
+Johnson's Bar,Coors,2023-10-12,345.69,2023,10,Thursday,3,331.83
+Johnson's Bar,Coors,2023-11-06,227.55,2023,11,Monday,0,285.80571428571426
+Johnson's Bar,Coors,2023-12-02,107.4,2023,12,Saturday,5,248.92857142857142
+Johnson's Bar,Coors,2023-12-12,413.06,2023,12,Tuesday,1,277.6328571428571
+Johnson's Bar,Coors,2024-01-01,133.06,2024,1,Monday,0,228.60142857142858
+Johnson's Bar,Grey Goose,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Johnson's Bar,Grey Goose,2023-01-06,103.52,2023,1,Friday,4,51.76
+Johnson's Bar,Grey Goose,2023-01-07,340.91,2023,1,Saturday,5,148.14333333333335
+Johnson's Bar,Grey Goose,2023-01-11,216.14,2023,1,Wednesday,2,165.14249999999998
+Johnson's Bar,Grey Goose,2023-02-03,423.9,2023,2,Friday,4,216.894
+Johnson's Bar,Grey Goose,2023-02-07,864.53,2023,2,Tuesday,1,324.8333333333333
+Johnson's Bar,Grey Goose,2023-03-01,496.89,2023,3,Wednesday,2,349.41285714285715
+Johnson's Bar,Grey Goose,2023-03-02,473.61,2023,3,Thursday,3,417.07142857142856
+Johnson's Bar,Grey Goose,2023-03-06,106.85,2023,3,Monday,0,417.54714285714283
+Johnson's Bar,Grey Goose,2023-03-09,326.56,2023,3,Thursday,3,415.4971428571429
+Johnson's Bar,Grey Goose,2023-04-12,511.58,2023,4,Wednesday,2,457.7028571428571
+Johnson's Bar,Grey Goose,2023-05-03,532.84,2023,5,Wednesday,2,473.2657142857143
+Johnson's Bar,Grey Goose,2023-05-04,153.13,2023,5,Thursday,3,371.63714285714286
+Johnson's Bar,Grey Goose,2023-05-09,174.85,2023,5,Tuesday,1,325.63142857142856
+Johnson's Bar,Grey Goose,2023-05-11,573.02,2023,5,Thursday,3,339.8328571428571
+Johnson's Bar,Grey Goose,2023-07-01,173.06,2023,7,Saturday,5,349.2914285714286
+Johnson's Bar,Grey Goose,2023-07-02,440.57,2023,7,Sunday,6,365.5785714285715
+Johnson's Bar,Grey Goose,2023-07-03,168.01,2023,7,Monday,0,316.4971428571429
+Johnson's Bar,Grey Goose,2023-07-09,129.0,2023,7,Sunday,6,258.80571428571426
+Johnson's Bar,Grey Goose,2023-08-02,341.3,2023,8,Wednesday,2,285.6871428571429
+Johnson's Bar,Grey Goose,2023-08-04,724.35,2023,8,Friday,4,364.1871428571429
+Johnson's Bar,Grey Goose,2023-08-07,550.85,2023,8,Monday,0,361.02
+Johnson's Bar,Grey Goose,2023-08-08,297.38,2023,8,Tuesday,1,378.78000000000003
+Johnson's Bar,Grey Goose,2023-09-05,335.55,2023,9,Tuesday,1,363.77714285714285
+Johnson's Bar,Grey Goose,2023-09-07,505.81,2023,9,Thursday,3,412.0342857142858
+Johnson's Bar,Grey Goose,2023-10-07,100.36,2023,10,Saturday,5,407.9428571428571
+Johnson's Bar,Grey Goose,2023-10-09,405.27,2023,10,Monday,0,417.08142857142855
+Johnson's Bar,Grey Goose,2023-11-01,501.14,2023,11,Wednesday,2,385.19428571428574
+Johnson's Bar,Grey Goose,2023-11-02,397.81,2023,11,Thursday,3,363.3314285714286
+Johnson's Bar,Grey Goose,2023-11-05,379.9,2023,11,Sunday,6,375.12
+Johnson's Bar,Grey Goose,2023-12-09,199.4,2023,12,Saturday,5,355.66999999999996
+Johnson's Bar,Grey Goose,2024-01-01,543.73,2024,1,Monday,0,361.0871428571428
+Johnson's Bar,Heineken,2023-01-05,129.85,2023,1,Thursday,3,129.85
+Johnson's Bar,Heineken,2023-01-10,482.49,2023,1,Tuesday,1,306.17
+Johnson's Bar,Heineken,2023-02-01,166.41,2023,2,Wednesday,2,259.5833333333333
+Johnson's Bar,Heineken,2023-02-05,276.71,2023,2,Sunday,6,263.865
+Johnson's Bar,Heineken,2023-02-06,254.68,2023,2,Monday,0,262.028
+Johnson's Bar,Heineken,2023-02-11,587.28,2023,2,Saturday,5,316.2366666666667
+Johnson's Bar,Heineken,2023-03-02,140.87,2023,3,Thursday,3,291.1842857142857
+Johnson's Bar,Heineken,2023-03-06,297.33,2023,3,Monday,0,315.11
+Johnson's Bar,Heineken,2023-04-05,109.95,2023,4,Wednesday,2,261.89
+Johnson's Bar,Heineken,2023-04-06,427.75,2023,4,Thursday,3,299.2242857142857
+Johnson's Bar,Heineken,2023-04-07,520.49,2023,4,Friday,4,334.05
+Johnson's Bar,Heineken,2023-05-05,457.49,2023,5,Friday,4,363.02285714285716
+Johnson's Bar,Heineken,2023-06-03,537.61,2023,6,Saturday,5,355.9271428571428
+Johnson's Bar,Heineken,2023-06-11,202.61,2023,6,Sunday,6,364.7471428571429
+Johnson's Bar,Heineken,2023-07-04,0.0,2023,7,Tuesday,1,322.2714285714286
+Johnson's Bar,Heineken,2023-07-07,346.94,2023,7,Friday,4,356.1271428571428
+Johnson's Bar,Heineken,2023-07-11,446.81,2023,7,Tuesday,1,358.84999999999997
+Johnson's Bar,Heineken,2023-08-07,505.36,2023,8,Monday,0,356.68857142857144
+Johnson's Bar,Heineken,2023-08-09,314.98,2023,8,Wednesday,2,336.33
+Johnson's Bar,Heineken,2023-09-02,527.59,2023,9,Saturday,5,334.8985714285714
+Johnson's Bar,Heineken,2023-11-04,356.8,2023,11,Saturday,5,356.92571428571426
+Johnson's Bar,Heineken,2023-11-11,457.05,2023,11,Saturday,5,422.2185714285714
+Johnson's Bar,Heineken,2023-11-12,321.93,2023,11,Sunday,6,418.6457142857143
+Johnson's Bar,Heineken,2023-12-06,134.35,2023,12,Wednesday,2,374.00857142857143
+Johnson's Bar,Jack Daniels,2023-01-04,399.96,2023,1,Wednesday,2,399.96
+Johnson's Bar,Jack Daniels,2023-01-05,450.63,2023,1,Thursday,3,425.29499999999996
+Johnson's Bar,Jack Daniels,2023-01-09,296.23,2023,1,Monday,0,382.2733333333333
+Johnson's Bar,Jack Daniels,2023-02-02,114.27,2023,2,Thursday,3,315.2725
+Johnson's Bar,Jack Daniels,2023-02-08,202.78,2023,2,Wednesday,2,292.774
+Johnson's Bar,Jack Daniels,2023-03-03,214.59,2023,3,Friday,4,279.74333333333334
+Johnson's Bar,Jack Daniels,2023-03-06,274.24,2023,3,Monday,0,278.95714285714286
+Johnson's Bar,Jack Daniels,2023-05-12,782.43,2023,5,Friday,4,333.5957142857143
+Johnson's Bar,Jack Daniels,2023-07-04,0.0,2023,7,Tuesday,1,269.21999999999997
+Johnson's Bar,Jack Daniels,2023-07-08,157.91,2023,7,Saturday,5,249.46
+Johnson's Bar,Jack Daniels,2023-07-10,367.31,2023,7,Monday,0,285.60857142857145
+Johnson's Bar,Jack Daniels,2023-08-08,566.06,2023,8,Tuesday,1,337.5057142857143
+Johnson's Bar,Jack Daniels,2023-08-10,470.58,2023,8,Thursday,3,374.0757142857143
+Johnson's Bar,Jack Daniels,2023-09-01,139.66,2023,9,Friday,4,354.84999999999997
+Johnson's Bar,Jack Daniels,2023-09-05,222.69,2023,9,Tuesday,1,274.88714285714286
+Johnson's Bar,Jack Daniels,2023-10-02,251.93,2023,10,Monday,0,310.8771428571428
+Johnson's Bar,Jack Daniels,2023-10-09,284.08,2023,10,Monday,0,328.90142857142854
+Johnson's Bar,Jack Daniels,2023-11-09,288.36,2023,11,Thursday,3,317.6228571428572
+Johnson's Bar,Jack Daniels,2023-12-04,183.93,2023,12,Monday,0,263.03285714285715
+Johnson's Bar,Jack Daniels,2023-12-05,279.2,2023,12,Tuesday,1,235.69285714285712
+Johnson's Bar,Jameson,2023-01-02,301.07,2023,1,Monday,0,301.07
+Johnson's Bar,Jameson,2023-01-07,241.23,2023,1,Saturday,5,271.15
+Johnson's Bar,Jameson,2023-01-12,491.69,2023,1,Thursday,3,344.66333333333336
+Johnson's Bar,Jameson,2023-02-01,280.17,2023,2,Wednesday,2,328.54
+Johnson's Bar,Jameson,2023-02-04,369.96,2023,2,Saturday,5,336.82399999999996
+Johnson's Bar,Jameson,2023-02-06,108.54,2023,2,Monday,0,298.7766666666667
+Johnson's Bar,Jameson,2023-03-04,0.0,2023,3,Saturday,5,256.0942857142857
+Johnson's Bar,Jameson,2023-03-05,0.0,2023,3,Sunday,6,213.08428571428573
+Johnson's Bar,Jameson,2023-03-08,0.0,2023,3,Wednesday,2,178.62285714285716
+Johnson's Bar,Jameson,2023-03-09,127.37,2023,3,Thursday,3,126.57714285714285
+Johnson's Bar,Jameson,2023-04-05,409.66,2023,4,Wednesday,2,145.07571428571427
+Johnson's Bar,Jameson,2023-05-04,169.55,2023,5,Thursday,3,116.4457142857143
+Johnson's Bar,Jameson,2023-05-08,185.11,2023,5,Monday,0,127.38428571428572
+Johnson's Bar,Jameson,2023-06-08,264.26,2023,6,Thursday,3,165.1357142857143
+Johnson's Bar,Jameson,2023-06-12,409.36,2023,6,Monday,0,223.61571428571432
+Johnson's Bar,Jameson,2023-07-02,570.0,2023,7,Sunday,6,305.04428571428576
+Johnson's Bar,Jameson,2023-08-06,239.02,2023,8,Sunday,6,320.9942857142857
+Johnson's Bar,Jameson,2023-08-12,450.81,2023,8,Saturday,5,326.8728571428572
+Johnson's Bar,Jameson,2023-09-04,0.0,2023,9,Monday,0,302.65142857142854
+Johnson's Bar,Jameson,2023-10-03,427.05,2023,10,Tuesday,1,337.2142857142857
+Johnson's Bar,Jameson,2023-10-11,309.84,2023,10,Wednesday,2,343.7257142857143
+Johnson's Bar,Jameson,2023-11-04,120.84,2023,11,Saturday,5,302.50857142857143
+Johnson's Bar,Jameson,2023-11-07,218.16,2023,11,Tuesday,1,252.24571428571429
+Johnson's Bar,Jameson,2023-11-08,485.34,2023,11,Wednesday,2,287.4342857142857
+Johnson's Bar,Jameson,2023-11-10,294.01,2023,11,Friday,4,265.0342857142857
+Johnson's Bar,Jim Beam,2023-01-10,192.84,2023,1,Tuesday,1,192.84
+Johnson's Bar,Jim Beam,2023-01-11,319.86,2023,1,Wednesday,2,256.35
+Johnson's Bar,Jim Beam,2023-02-03,362.67,2023,2,Friday,4,291.79
+Johnson's Bar,Jim Beam,2023-02-05,564.94,2023,2,Sunday,6,360.07750000000004
+Johnson's Bar,Jim Beam,2023-03-07,0.0,2023,3,Tuesday,1,288.062
+Johnson's Bar,Jim Beam,2023-04-01,451.65,2023,4,Saturday,5,315.32666666666665
+Johnson's Bar,Jim Beam,2023-04-02,26.66,2023,4,Sunday,6,274.08857142857147
+Johnson's Bar,Jim Beam,2023-04-06,0.0,2023,4,Thursday,3,246.54000000000002
+Johnson's Bar,Jim Beam,2023-04-11,178.6,2023,4,Tuesday,1,226.35999999999999
+Johnson's Bar,Jim Beam,2023-05-02,440.96,2023,5,Tuesday,1,237.5442857142857
+Johnson's Bar,Jim Beam,2023-05-05,152.35,2023,5,Friday,4,178.60285714285715
+Johnson's Bar,Jim Beam,2023-06-06,0.0,2023,6,Tuesday,1,178.60285714285715
+Johnson's Bar,Jim Beam,2023-06-10,0.0,2023,6,Saturday,5,114.08142857142856
+Johnson's Bar,Jim Beam,2023-07-01,0.0,2023,7,Saturday,5,110.27285714285713
+Johnson's Bar,Jim Beam,2023-07-05,0.0,2023,7,Wednesday,2,110.27285714285713
+Johnson's Bar,Jim Beam,2023-08-02,0.0,2023,8,Wednesday,2,84.75857142857141
+Johnson's Bar,Jim Beam,2023-08-03,0.0,2023,8,Thursday,3,21.764285714285712
+Johnson's Bar,Jim Beam,2023-08-07,0.0,2023,8,Monday,0,0.0
+Johnson's Bar,Jim Beam,2023-09-06,0.0,2023,9,Wednesday,2,0.0
+Johnson's Bar,Jim Beam,2023-09-08,0.0,2023,9,Friday,4,0.0
+Johnson's Bar,Jim Beam,2023-09-09,0.0,2023,9,Saturday,5,0.0
+Johnson's Bar,Jim Beam,2023-10-05,502.93,2023,10,Thursday,3,71.84714285714286
+Johnson's Bar,Jim Beam,2023-10-06,228.52,2023,10,Friday,4,104.49285714285715
+Johnson's Bar,Jim Beam,2023-11-01,227.15,2023,11,Wednesday,2,136.94285714285715
+Johnson's Bar,Jim Beam,2023-11-02,485.94,2023,11,Thursday,3,206.36285714285714
+Johnson's Bar,Jim Beam,2023-11-03,499.61,2023,11,Friday,4,277.7357142857143
+Johnson's Bar,Jim Beam,2023-11-06,484.6,2023,11,Monday,0,346.9642857142857
+Johnson's Bar,Jim Beam,2023-11-11,261.9,2023,11,Saturday,5,384.37857142857143
+Johnson's Bar,Jim Beam,2023-11-12,464.01,2023,11,Sunday,6,378.81857142857143
+Johnson's Bar,Jim Beam,2023-12-06,476.39,2023,12,Wednesday,2,414.22857142857146
+Johnson's Bar,Jim Beam,2023-12-07,172.85,2023,12,Thursday,3,406.4714285714286
+Johnson's Bar,Jim Beam,2023-12-11,368.47,2023,12,Monday,0,389.69
+Johnson's Bar,Malibu,2023-01-03,538.18,2023,1,Tuesday,1,538.18
+Johnson's Bar,Malibu,2023-01-05,275.18,2023,1,Thursday,3,406.67999999999995
+Johnson's Bar,Malibu,2023-01-06,512.26,2023,1,Friday,4,441.8733333333333
+Johnson's Bar,Malibu,2023-01-08,580.94,2023,1,Sunday,6,476.64
+Johnson's Bar,Malibu,2023-01-09,417.71,2023,1,Monday,0,464.854
+Johnson's Bar,Malibu,2023-01-12,457.14,2023,1,Thursday,3,463.5683333333333
+Johnson's Bar,Malibu,2023-02-06,167.64,2023,2,Monday,0,421.2928571428571
+Johnson's Bar,Malibu,2023-02-10,519.01,2023,2,Friday,4,418.55428571428575
+Johnson's Bar,Malibu,2023-03-05,497.63,2023,3,Sunday,6,450.3328571428571
+Johnson's Bar,Malibu,2023-03-11,327.69,2023,3,Saturday,5,423.96571428571434
+Johnson's Bar,Malibu,2023-04-11,181.35,2023,4,Tuesday,1,366.88142857142856
+Johnson's Bar,Malibu,2023-05-11,459.77,2023,5,Thursday,3,372.89
+Johnson's Bar,Malibu,2023-06-03,549.46,2023,6,Saturday,5,386.0785714285715
+Johnson's Bar,Malibu,2023-06-09,530.28,2023,6,Friday,4,437.88428571428574
+Johnson's Bar,Malibu,2023-06-11,316.7,2023,6,Sunday,6,408.98285714285714
+Johnson's Bar,Malibu,2023-07-09,534.67,2023,7,Sunday,6,414.2742857142857
+Johnson's Bar,Malibu,2023-08-03,519.56,2023,8,Thursday,3,441.6842857142857
+Johnson's Bar,Malibu,2023-08-09,536.44,2023,8,Wednesday,2,492.4114285714286
+Johnson's Bar,Malibu,2023-09-07,300.0,2023,9,Thursday,3,469.5871428571428
+Johnson's Bar,Malibu,2023-10-06,434.53,2023,10,Friday,4,453.1685714285714
+Johnson's Bar,Malibu,2023-10-10,164.73,2023,10,Tuesday,1,400.94714285714286
+Johnson's Bar,Malibu,2023-11-05,286.83,2023,11,Sunday,6,396.67999999999995
+Johnson's Bar,Malibu,2023-11-06,433.24,2023,11,Monday,0,382.19
+Johnson's Bar,Malibu,2023-11-11,575.52,2023,11,Saturday,5,390.1842857142857
+Johnson's Bar,Malibu,2023-11-12,445.17,2023,11,Sunday,6,377.1457142857143
+Johnson's Bar,Malibu,2023-12-04,433.68,2023,12,Monday,0,396.24285714285713
+Johnson's Bar,Malibu,2023-12-06,492.64,2023,12,Wednesday,2,404.5442857142857
+Johnson's Bar,Malibu,2024-01-01,278.16,2024,1,Monday,0,420.7485714285714
+Johnson's Bar,Miller,2023-01-04,271.23,2023,1,Wednesday,2,271.23
+Johnson's Bar,Miller,2023-01-08,527.82,2023,1,Sunday,6,399.52500000000003
+Johnson's Bar,Miller,2023-01-12,120.57,2023,1,Thursday,3,306.54
+Johnson's Bar,Miller,2023-02-02,185.54,2023,2,Thursday,3,276.29
+Johnson's Bar,Miller,2023-02-04,0.0,2023,2,Saturday,5,221.032
+Johnson's Bar,Miller,2023-03-04,129.38,2023,3,Saturday,5,205.75666666666666
+Johnson's Bar,Miller,2023-03-10,270.74,2023,3,Friday,4,215.04000000000002
+Johnson's Bar,Miller,2023-04-03,446.48,2023,4,Monday,0,240.07571428571433
+Johnson's Bar,Miller,2023-04-04,542.88,2023,4,Tuesday,1,242.22714285714284
+Johnson's Bar,Miller,2023-04-08,192.82,2023,4,Saturday,5,252.54857142857142
+Johnson's Bar,Miller,2023-04-11,502.63,2023,4,Tuesday,1,297.84714285714284
+Johnson's Bar,Miller,2023-04-12,114.41,2023,4,Wednesday,2,314.1914285714286
+Johnson's Bar,Miller,2023-05-03,0.0,2023,5,Wednesday,2,295.7085714285714
+Johnson's Bar,Miller,2023-05-04,0.0,2023,5,Thursday,3,257.0314285714286
+Johnson's Bar,Miller,2023-05-06,0.0,2023,5,Saturday,5,193.2485714285714
+Johnson's Bar,Miller,2023-05-10,569.61,2023,5,Wednesday,2,197.06714285714287
+Johnson's Bar,Miller,2023-05-11,177.8,2023,5,Thursday,3,194.92142857142858
+Johnson's Bar,Miller,2023-06-07,401.99,2023,6,Wednesday,2,180.5442857142857
+Johnson's Bar,Miller,2023-07-03,312.65,2023,7,Monday,0,208.86428571428573
+Johnson's Bar,Miller,2023-07-06,0.0,2023,7,Thursday,3,208.86428571428573
+Johnson's Bar,Miller,2023-08-01,172.82,2023,8,Tuesday,1,233.55285714285716
+Johnson's Bar,Miller,2023-09-04,0.0,2023,9,Monday,0,233.55285714285716
+Johnson's Bar,Miller,2023-09-11,487.95,2023,9,Monday,0,221.88714285714286
+Johnson's Bar,Miller,2023-10-09,598.82,2023,10,Monday,0,282.03285714285715
+Johnson's Bar,Miller,2023-11-02,510.5,2023,11,Thursday,3,297.53428571428566
+Johnson's Bar,Miller,2023-11-07,139.61,2023,11,Tuesday,1,272.8142857142857
+Johnson's Bar,Miller,2023-11-08,296.27,2023,11,Wednesday,2,315.1385714285714
+Johnson's Bar,Miller,2023-12-05,367.63,2023,12,Tuesday,1,342.9685714285714
+Johnson's Bar,Miller,2023-12-11,519.95,2023,12,Monday,0,417.2471428571429
+Johnson's Bar,Smirnoff,2023-01-02,543.16,2023,1,Monday,0,543.16
+Johnson's Bar,Smirnoff,2023-01-04,464.68,2023,1,Wednesday,2,503.91999999999996
+Johnson's Bar,Smirnoff,2023-01-10,125.88,2023,1,Tuesday,1,377.9066666666667
+Johnson's Bar,Smirnoff,2023-02-04,104.51,2023,2,Saturday,5,309.5575
+Johnson's Bar,Smirnoff,2023-02-10,122.36,2023,2,Friday,4,272.118
+Johnson's Bar,Smirnoff,2023-03-03,331.62,2023,3,Friday,4,282.035
+Johnson's Bar,Smirnoff,2023-03-10,138.5,2023,3,Friday,4,261.53000000000003
+Johnson's Bar,Smirnoff,2023-03-12,235.84,2023,3,Sunday,6,217.62714285714287
+Johnson's Bar,Smirnoff,2023-04-01,591.38,2023,4,Saturday,5,235.72714285714287
+Johnson's Bar,Smirnoff,2023-04-10,360.78,2023,4,Monday,0,269.28428571428566
+Johnson's Bar,Smirnoff,2023-05-05,197.37,2023,5,Friday,4,282.55
+Johnson's Bar,Smirnoff,2023-06-01,484.47,2023,6,Thursday,3,334.28000000000003
+Johnson's Bar,Smirnoff,2023-06-07,396.27,2023,6,Wednesday,2,343.51571428571424
+Johnson's Bar,Smirnoff,2023-06-11,527.7,2023,6,Sunday,6,399.11571428571426
+Johnson's Bar,Smirnoff,2023-07-04,0.0,2023,7,Tuesday,1,365.4242857142857
+Johnson's Bar,Smirnoff,2023-08-03,560.83,2023,8,Thursday,3,361.06
+Johnson's Bar,Smirnoff,2023-08-06,117.95,2023,8,Sunday,6,326.37
+Johnson's Bar,Smirnoff,2023-08-12,199.49,2023,8,Saturday,5,326.67285714285714
+Johnson's Bar,Smirnoff,2023-09-08,117.66,2023,9,Friday,4,274.2714285714286
+Johnson's Bar,Smirnoff,2023-09-09,829.53,2023,9,Saturday,5,336.1657142857143
+Johnson's Bar,Smirnoff,2023-09-11,0.0,2023,9,Monday,0,260.78000000000003
+Johnson's Bar,Smirnoff,2023-10-01,266.07,2023,10,Sunday,6,298.79
+Johnson's Bar,Smirnoff,2023-10-05,285.5,2023,10,Thursday,3,259.45714285714286
+Johnson's Bar,Smirnoff,2023-10-08,258.79,2023,10,Sunday,6,279.57714285714286
+Johnson's Bar,Smirnoff,2023-10-11,393.67,2023,10,Wednesday,2,307.31714285714287
+Johnson's Bar,Smirnoff,2023-10-12,549.62,2023,10,Thursday,3,369.02571428571434
+Johnson's Bar,Smirnoff,2023-11-08,344.8,2023,11,Wednesday,2,299.77857142857147
+Johnson's Bar,Smirnoff,2023-12-05,288.39,2023,12,Tuesday,1,340.9771428571429
+Johnson's Bar,Smirnoff,2023-12-08,355.77,2023,12,Friday,4,353.7914285714286
+Johnson's Bar,Sutter Home,2023-01-04,249.69,2023,1,Wednesday,2,249.69
+Johnson's Bar,Sutter Home,2023-01-12,245.81,2023,1,Thursday,3,247.75
+Johnson's Bar,Sutter Home,2023-02-07,630.78,2023,2,Tuesday,1,375.4266666666667
+Johnson's Bar,Sutter Home,2023-02-08,468.19,2023,2,Wednesday,2,398.6175
+Johnson's Bar,Sutter Home,2023-02-10,199.12,2023,2,Friday,4,358.71799999999996
+Johnson's Bar,Sutter Home,2023-02-11,397.84,2023,2,Saturday,5,365.2383333333333
+Johnson's Bar,Sutter Home,2023-02-12,384.17,2023,2,Sunday,6,367.9428571428571
+Johnson's Bar,Sutter Home,2023-03-02,572.51,2023,3,Thursday,3,414.06
+Johnson's Bar,Sutter Home,2023-04-04,377.53,2023,4,Tuesday,1,432.8771428571428
+Johnson's Bar,Sutter Home,2023-04-09,284.3,2023,4,Sunday,6,383.38
+Johnson's Bar,Sutter Home,2023-05-06,192.74,2023,5,Saturday,5,344.03000000000003
+Johnson's Bar,Sutter Home,2023-06-03,236.76,2023,6,Saturday,5,349.40714285714284
+Johnson's Bar,Sutter Home,2023-06-05,104.31,2023,6,Monday,0,307.4742857142857
+Johnson's Bar,Sutter Home,2023-06-07,538.18,2023,6,Wednesday,2,329.4757142857143
+Johnson's Bar,Sutter Home,2023-07-09,320.64,2023,7,Sunday,6,293.4942857142857
+Johnson's Bar,Sutter Home,2023-07-11,265.73,2023,7,Tuesday,1,277.5228571428571
+Johnson's Bar,Sutter Home,2023-08-12,569.78,2023,8,Saturday,5,318.30571428571426
+Johnson's Bar,Sutter Home,2023-09-01,397.49,2023,9,Friday,4,347.55571428571426
+Johnson's Bar,Sutter Home,2023-09-06,273.55,2023,9,Wednesday,2,352.81142857142856
+Johnson's Bar,Sutter Home,2023-09-11,153.96,2023,9,Monday,0,359.9042857142857
+Johnson's Bar,Sutter Home,2023-09-12,514.99,2023,9,Tuesday,1,356.59142857142854
+Johnson's Bar,Sutter Home,2023-10-01,195.16,2023,10,Sunday,6,338.66571428571433
+Johnson's Bar,Sutter Home,2023-10-02,278.19,2023,10,Monday,0,340.44571428571425
+Johnson's Bar,Sutter Home,2023-11-02,498.38,2023,11,Thursday,3,330.24571428571426
+Johnson's Bar,Sutter Home,2023-12-07,278.89,2023,12,Thursday,3,313.30285714285714
+Johnson's Bar,Yellow Tail,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Johnson's Bar,Yellow Tail,2023-01-02,217.93,2023,1,Monday,0,108.965
+Johnson's Bar,Yellow Tail,2023-01-07,415.71,2023,1,Saturday,5,211.21333333333334
+Johnson's Bar,Yellow Tail,2023-01-08,387.26,2023,1,Sunday,6,255.225
+Johnson's Bar,Yellow Tail,2023-03-04,187.61,2023,3,Saturday,5,241.702
+Johnson's Bar,Yellow Tail,2023-03-09,340.46,2023,3,Thursday,3,258.1616666666667
+Johnson's Bar,Yellow Tail,2023-03-11,143.25,2023,3,Saturday,5,241.74571428571429
+Johnson's Bar,Yellow Tail,2023-04-05,106.29,2023,4,Wednesday,2,256.93
+Johnson's Bar,Yellow Tail,2023-04-10,573.37,2023,4,Monday,0,307.70714285714286
+Johnson's Bar,Yellow Tail,2023-06-04,589.86,2023,6,Sunday,6,332.5857142857143
+Johnson's Bar,Yellow Tail,2023-06-10,178.12,2023,6,Saturday,5,302.7085714285714
+Johnson's Bar,Yellow Tail,2023-06-11,257.52,2023,6,Sunday,6,312.69571428571425
+Johnson's Bar,Yellow Tail,2023-06-12,135.58,2023,6,Monday,0,283.4271428571429
+Johnson's Bar,Yellow Tail,2023-07-06,246.66,2023,7,Thursday,3,298.2
+Johnson's Bar,Yellow Tail,2023-07-07,302.65,2023,7,Friday,4,326.2514285714286
+Johnson's Bar,Yellow Tail,2023-07-12,112.53,2023,7,Wednesday,2,260.4171428571429
+Johnson's Bar,Yellow Tail,2023-08-01,148.86,2023,8,Tuesday,1,197.41714285714286
+Johnson's Bar,Yellow Tail,2023-09-02,366.12,2023,9,Saturday,5,224.27428571428572
+Johnson's Bar,Yellow Tail,2023-09-05,383.9,2023,9,Tuesday,1,242.32857142857145
+Johnson's Bar,Yellow Tail,2023-09-07,593.77,2023,9,Thursday,3,307.78428571428566
+Johnson's Bar,Yellow Tail,2023-10-04,278.29,2023,10,Wednesday,2,312.30285714285714
+Johnson's Bar,Yellow Tail,2023-10-11,240.83,2023,10,Wednesday,2,303.4714285714286
+Johnson's Bar,Yellow Tail,2023-11-01,255.67,2023,11,Wednesday,2,323.92
+Johnson's Bar,Yellow Tail,2023-11-07,161.33,2023,11,Tuesday,1,325.70142857142855
+Johnson's Bar,Yellow Tail,2023-11-10,388.88,2023,11,Friday,4,328.95285714285717
+Johnson's Bar,Yellow Tail,2023-12-01,413.25,2023,12,Friday,4,333.1457142857143
+Johnson's Bar,Yellow Tail,2023-12-04,294.0,2023,12,Monday,0,290.32142857142856
+Johnson's Bar,Yellow Tail,2023-12-05,108.32,2023,12,Tuesday,1,266.04
+Johnson's Bar,Yellow Tail,2023-12-08,207.15,2023,12,Friday,4,261.2285714285714
+Johnson's Bar,Yellow Tail,2023-12-12,554.41,2023,12,Tuesday,1,303.9057142857143
+Smith's Bar,Absolut,2023-01-04,387.5,2023,1,Wednesday,2,387.5
+Smith's Bar,Absolut,2023-01-08,433.78,2023,1,Sunday,6,410.64
+Smith's Bar,Absolut,2023-02-05,349.56,2023,2,Sunday,6,390.28
+Smith's Bar,Absolut,2023-02-07,327.67,2023,2,Tuesday,1,374.6275
+Smith's Bar,Absolut,2023-02-09,534.26,2023,2,Thursday,3,406.554
+Smith's Bar,Absolut,2023-04-09,175.74,2023,4,Sunday,6,368.08500000000004
+Smith's Bar,Absolut,2023-05-07,281.58,2023,5,Sunday,6,355.7271428571429
+Smith's Bar,Absolut,2023-05-12,392.07,2023,5,Friday,4,356.38
+Smith's Bar,Absolut,2023-06-03,453.63,2023,6,Saturday,5,359.21571428571434
+Smith's Bar,Absolut,2023-06-05,493.98,2023,6,Monday,0,379.84714285714284
+Smith's Bar,Absolut,2023-06-09,91.81,2023,6,Friday,4,346.15285714285716
+Smith's Bar,Absolut,2023-07-01,584.39,2023,7,Saturday,5,353.3142857142857
+Smith's Bar,Absolut,2023-07-11,126.33,2023,7,Tuesday,1,346.25571428571436
+Smith's Bar,Absolut,2023-07-12,545.16,2023,7,Wednesday,2,383.90999999999997
+Smith's Bar,Absolut,2023-08-02,594.0,2023,8,Wednesday,2,412.75714285714287
+Smith's Bar,Absolut,2023-08-04,519.73,2023,8,Friday,4,422.2
+Smith's Bar,Absolut,2023-09-04,0.0,2023,9,Monday,0,351.63142857142856
+Smith's Bar,Absolut,2023-09-06,586.59,2023,9,Wednesday,2,422.31428571428575
+Smith's Bar,Absolut,2023-09-07,177.13,2023,9,Thursday,3,364.1342857142858
+Smith's Bar,Absolut,2023-10-04,331.09,2023,10,Wednesday,2,393.38571428571424
+Smith's Bar,Absolut,2023-10-06,360.42,2023,10,Friday,4,366.9942857142857
+Smith's Bar,Absolut,2023-10-07,584.68,2023,10,Saturday,5,365.66285714285715
+Smith's Bar,Absolut,2023-10-10,335.72,2023,10,Tuesday,1,339.3757142857143
+Smith's Bar,Absolut,2023-11-02,280.97,2023,11,Thursday,3,379.5142857142857
+Smith's Bar,Absolut,2023-11-03,212.94,2023,11,Friday,4,326.13571428571424
+Smith's Bar,Absolut,2023-11-05,160.64,2023,11,Sunday,6,323.7799999999999
+Smith's Bar,Absolut,2023-11-06,157.02,2023,11,Monday,0,298.91285714285715
+Smith's Bar,Absolut,2023-11-07,210.08,2023,11,Tuesday,1,277.43571428571425
+Smith's Bar,Absolut,2023-11-11,491.48,2023,11,Saturday,5,264.12142857142857
+Smith's Bar,Absolut,2023-11-12,156.61,2023,11,Sunday,6,238.53428571428574
+Smith's Bar,Absolut,2023-12-07,153.07,2023,12,Thursday,3,220.26285714285714
+Smith's Bar,Absolut,2023-12-10,147.69,2023,12,Sunday,6,210.9414285714286
+Smith's Bar,Bacardi,2023-01-11,169.28,2023,1,Wednesday,2,169.28
+Smith's Bar,Bacardi,2023-02-08,449.01,2023,2,Wednesday,2,309.145
+Smith's Bar,Bacardi,2023-02-10,421.15,2023,2,Friday,4,346.48
+Smith's Bar,Bacardi,2023-04-06,162.81,2023,4,Thursday,3,300.5625
+Smith's Bar,Bacardi,2023-04-08,579.58,2023,4,Saturday,5,356.366
+Smith's Bar,Bacardi,2023-05-03,0.0,2023,5,Wednesday,2,296.97166666666664
+Smith's Bar,Bacardi,2023-05-08,0.0,2023,5,Monday,0,254.54714285714286
+Smith's Bar,Bacardi,2023-05-09,0.0,2023,5,Tuesday,1,230.3642857142857
+Smith's Bar,Bacardi,2023-05-11,452.49,2023,5,Thursday,3,230.86142857142858
+Smith's Bar,Bacardi,2023-06-01,0.0,2023,6,Thursday,3,170.69714285714286
+Smith's Bar,Bacardi,2023-06-05,391.72,2023,6,Monday,0,203.39857142857142
+Smith's Bar,Bacardi,2023-06-11,375.72,2023,6,Sunday,6,174.2757142857143
+Smith's Bar,Bacardi,2023-06-12,260.8,2023,6,Monday,0,211.53285714285715
+Smith's Bar,Bacardi,2023-07-05,341.99,2023,7,Wednesday,2,260.3885714285714
+Smith's Bar,Bacardi,2023-10-04,517.33,2023,10,Wednesday,2,334.29285714285714
+Smith's Bar,Bacardi,2023-10-10,334.34,2023,10,Tuesday,1,317.4142857142857
+Smith's Bar,Bacardi,2023-11-01,107.39,2023,11,Wednesday,2,332.7557142857143
+Smith's Bar,Bacardi,2023-11-02,454.3,2023,11,Thursday,3,341.69571428571425
+Smith's Bar,Bacardi,2023-12-07,176.2,2023,12,Thursday,3,313.1928571428571
+Smith's Bar,Barefoot,2023-01-07,547.18,2023,1,Saturday,5,547.18
+Smith's Bar,Barefoot,2023-01-08,514.55,2023,1,Sunday,6,530.865
+Smith's Bar,Barefoot,2023-01-10,539.08,2023,1,Tuesday,1,533.6033333333334
+Smith's Bar,Barefoot,2023-02-02,39.49,2023,2,Thursday,3,410.075
+Smith's Bar,Barefoot,2023-02-11,0.0,2023,2,Saturday,5,328.06
+Smith's Bar,Barefoot,2023-03-06,385.98,2023,3,Monday,0,337.7133333333333
+Smith's Bar,Barefoot,2023-03-10,288.6,2023,3,Friday,4,330.69714285714286
+Smith's Bar,Barefoot,2023-03-11,301.96,2023,3,Saturday,5,295.66571428571433
+Smith's Bar,Barefoot,2023-05-02,396.32,2023,5,Tuesday,1,278.7757142857143
+Smith's Bar,Barefoot,2023-05-08,483.8,2023,5,Monday,0,270.87857142857143
+Smith's Bar,Barefoot,2023-05-10,295.3,2023,5,Wednesday,2,307.42285714285714
+Smith's Bar,Barefoot,2023-06-07,361.15,2023,6,Wednesday,2,359.0157142857143
+Smith's Bar,Barefoot,2023-06-10,249.91,2023,6,Saturday,5,339.57714285714286
+Smith's Bar,Barefoot,2023-07-05,125.66,2023,7,Wednesday,2,316.3
+Smith's Bar,Barefoot,2023-08-12,0.0,2023,8,Saturday,5,273.16285714285715
+Smith's Bar,Barefoot,2023-09-06,0.0,2023,9,Wednesday,2,216.5457142857143
+Smith's Bar,Barefoot,2023-09-07,390.13,2023,9,Thursday,3,203.16428571428568
+Smith's Bar,Barefoot,2023-09-10,489.97,2023,9,Sunday,6,230.9742857142857
+Smith's Bar,Barefoot,2023-09-12,262.39,2023,9,Tuesday,1,216.86571428571432
+Smith's Bar,Barefoot,2023-10-01,484.19,2023,10,Sunday,6,250.33428571428573
+Smith's Bar,Barefoot,2023-10-03,173.24,2023,10,Tuesday,1,257.13142857142856
+Smith's Bar,Barefoot,2023-11-08,545.78,2023,11,Wednesday,2,335.09999999999997
+Smith's Bar,Barefoot,2023-11-10,107.6,2023,11,Friday,4,350.47142857142853
+Smith's Bar,Barefoot,2023-12-03,249.8,2023,12,Sunday,6,330.4242857142857
+Smith's Bar,Barefoot,2023-12-06,534.38,2023,12,Wednesday,2,336.7685714285714
+Smith's Bar,Budweiser,2023-01-03,345.15,2023,1,Tuesday,1,345.15
+Smith's Bar,Budweiser,2023-02-06,450.54,2023,2,Monday,0,397.845
+Smith's Bar,Budweiser,2023-03-03,533.2,2023,3,Friday,4,442.96333333333337
+Smith's Bar,Budweiser,2023-03-07,370.58,2023,3,Tuesday,1,424.8675
+Smith's Bar,Budweiser,2023-03-08,0.0,2023,3,Wednesday,2,339.894
+Smith's Bar,Budweiser,2023-03-10,375.37,2023,3,Friday,4,345.8066666666667
+Smith's Bar,Budweiser,2023-04-04,164.65,2023,4,Tuesday,1,319.9271428571429
+Smith's Bar,Budweiser,2023-04-09,527.65,2023,4,Sunday,6,345.9985714285714
+Smith's Bar,Budweiser,2023-07-09,379.92,2023,7,Sunday,6,335.90999999999997
+Smith's Bar,Budweiser,2023-07-11,495.32,2023,7,Tuesday,1,330.4985714285714
+Smith's Bar,Budweiser,2023-08-08,384.58,2023,8,Tuesday,1,332.49857142857144
+Smith's Bar,Budweiser,2023-08-10,300.57,2023,8,Thursday,3,375.4371428571429
+Smith's Bar,Budweiser,2023-08-12,111.32,2023,8,Saturday,5,337.71571428571434
+Smith's Bar,Budweiser,2023-09-01,425.42,2023,9,Friday,4,374.96857142857147
+Smith's Bar,Budweiser,2023-09-04,0.0,2023,9,Monday,0,299.59000000000003
+Smith's Bar,Budweiser,2023-10-05,288.7,2023,10,Thursday,3,286.5585714285714
+Smith's Bar,Budweiser,2023-10-07,155.45,2023,10,Saturday,5,238.00571428571428
+Smith's Bar,Budweiser,2023-11-09,374.15,2023,11,Thursday,3,236.5157142857143
+Smith's Bar,Budweiser,2023-12-06,442.91,2023,12,Wednesday,2,256.84999999999997
+Smith's Bar,Captain Morgan,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Smith's Bar,Captain Morgan,2023-01-09,143.65,2023,1,Monday,0,71.825
+Smith's Bar,Captain Morgan,2023-01-10,297.1,2023,1,Tuesday,1,146.91666666666666
+Smith's Bar,Captain Morgan,2023-02-04,479.19,2023,2,Saturday,5,229.985
+Smith's Bar,Captain Morgan,2023-02-05,478.26,2023,2,Sunday,6,279.64
+Smith's Bar,Captain Morgan,2023-03-03,263.42,2023,3,Friday,4,276.93666666666667
+Smith's Bar,Captain Morgan,2023-03-10,516.52,2023,3,Friday,4,311.16285714285715
+Smith's Bar,Captain Morgan,2023-03-11,281.01,2023,3,Saturday,5,351.3071428571429
+Smith's Bar,Captain Morgan,2023-04-03,471.63,2023,4,Monday,0,398.1614285714286
+Smith's Bar,Captain Morgan,2023-04-04,524.95,2023,4,Tuesday,1,430.7114285714286
+Smith's Bar,Captain Morgan,2023-04-07,581.71,2023,4,Friday,4,445.35714285714283
+Smith's Bar,Captain Morgan,2023-05-02,354.54,2023,5,Tuesday,1,427.6828571428572
+Smith's Bar,Captain Morgan,2023-06-07,395.19,2023,6,Wednesday,2,446.50714285714287
+Smith's Bar,Captain Morgan,2023-06-10,106.09,2023,6,Saturday,5,387.87428571428575
+Smith's Bar,Captain Morgan,2023-07-01,129.77,2023,7,Saturday,5,366.2685714285714
+Smith's Bar,Captain Morgan,2023-07-04,0.0,2023,7,Tuesday,1,298.89285714285717
+Smith's Bar,Captain Morgan,2023-07-11,151.32,2023,7,Tuesday,1,245.5171428571429
+Smith's Bar,Captain Morgan,2023-08-02,331.49,2023,8,Wednesday,2,209.77142857142857
+Smith's Bar,Captain Morgan,2023-08-09,211.6,2023,8,Wednesday,2,189.35142857142858
+Smith's Bar,Captain Morgan,2023-09-03,274.17,2023,9,Sunday,6,172.06285714285715
+Smith's Bar,Captain Morgan,2023-09-05,301.07,2023,9,Tuesday,1,199.91714285714286
+Smith's Bar,Captain Morgan,2023-09-11,577.47,2023,9,Monday,0,263.87428571428575
+Smith's Bar,Captain Morgan,2023-11-04,0.0,2023,11,Saturday,5,263.8742857142857
+Smith's Bar,Captain Morgan,2023-11-08,0.0,2023,11,Wednesday,2,242.25714285714284
+Smith's Bar,Captain Morgan,2023-11-10,0.0,2023,11,Friday,4,194.90142857142857
+Smith's Bar,Captain Morgan,2023-11-12,477.53,2023,11,Sunday,6,232.89142857142858
+Smith's Bar,Captain Morgan,2023-12-11,186.65,2023,12,Monday,0,220.38857142857142
+Smith's Bar,Captain Morgan,2024-01-01,508.91,2024,1,Monday,0,250.07999999999998
+Smith's Bar,Coors,2023-01-10,583.52,2023,1,Tuesday,1,583.52
+Smith's Bar,Coors,2023-01-11,212.59,2023,1,Wednesday,2,398.055
+Smith's Bar,Coors,2023-01-12,205.42,2023,1,Thursday,3,333.8433333333333
+Smith's Bar,Coors,2023-02-01,314.89,2023,2,Wednesday,2,329.105
+Smith's Bar,Coors,2023-03-04,228.44,2023,3,Saturday,5,308.972
+Smith's Bar,Coors,2023-03-05,486.26,2023,3,Sunday,6,338.52
+Smith's Bar,Coors,2023-04-01,484.9,2023,4,Saturday,5,359.43142857142857
+Smith's Bar,Coors,2023-04-07,145.47,2023,4,Friday,4,296.8528571428571
+Smith's Bar,Coors,2023-05-02,464.75,2023,5,Tuesday,1,332.8757142857143
+Smith's Bar,Coors,2023-05-06,364.26,2023,5,Saturday,5,355.5671428571428
+Smith's Bar,Coors,2023-05-10,272.14,2023,5,Wednesday,2,349.46000000000004
+Smith's Bar,Coors,2023-05-12,186.66,2023,5,Friday,4,343.49142857142857
+Smith's Bar,Coors,2023-06-01,0.0,2023,6,Thursday,3,274.0257142857143
+Smith's Bar,Coors,2023-06-06,0.0,2023,6,Tuesday,1,204.75428571428571
+Smith's Bar,Coors,2023-06-11,505.15,2023,6,Sunday,6,256.1371428571428
+Smith's Bar,Coors,2023-07-02,116.82,2023,7,Sunday,6,206.43285714285713
+Smith's Bar,Coors,2023-07-06,465.21,2023,7,Thursday,3,220.8542857142857
+Smith's Bar,Coors,2023-08-01,515.45,2023,8,Tuesday,1,255.61285714285714
+Smith's Bar,Coors,2023-08-02,236.81,2023,8,Wednesday,2,262.77714285714285
+Smith's Bar,Coors,2023-11-04,420.04,2023,11,Saturday,5,322.78285714285715
+Smith's Bar,Coors,2023-12-03,283.46,2023,12,Sunday,6,363.27714285714285
+Smith's Bar,Coors,2023-12-07,207.4,2023,12,Thursday,3,320.74142857142857
+Smith's Bar,Grey Goose,2023-01-02,212.64,2023,1,Monday,0,212.64
+Smith's Bar,Grey Goose,2023-01-06,450.58,2023,1,Friday,4,331.61
+Smith's Bar,Grey Goose,2023-01-09,371.75,2023,1,Monday,0,344.99
+Smith's Bar,Grey Goose,2023-01-10,295.39,2023,1,Tuesday,1,332.59
+Smith's Bar,Grey Goose,2023-01-12,483.52,2023,1,Thursday,3,362.77599999999995
+Smith's Bar,Grey Goose,2023-02-08,355.02,2023,2,Wednesday,2,361.48333333333335
+Smith's Bar,Grey Goose,2023-02-10,420.19,2023,2,Friday,4,369.87
+Smith's Bar,Grey Goose,2023-02-11,194.75,2023,2,Saturday,5,367.3142857142857
+Smith's Bar,Grey Goose,2023-03-12,538.48,2023,3,Sunday,6,379.8714285714286
+Smith's Bar,Grey Goose,2023-04-12,128.85,2023,4,Wednesday,2,345.17142857142863
+Smith's Bar,Grey Goose,2023-05-03,272.88,2023,5,Wednesday,2,341.95571428571424
+Smith's Bar,Grey Goose,2023-05-04,379.46,2023,5,Thursday,3,327.09000000000003
+Smith's Bar,Grey Goose,2023-05-10,196.7,2023,5,Wednesday,2,304.47285714285715
+Smith's Bar,Grey Goose,2023-06-10,222.12,2023,6,Saturday,5,276.1771428571429
+Smith's Bar,Grey Goose,2023-07-02,112.92,2023,7,Sunday,6,264.4871428571429
+Smith's Bar,Grey Goose,2023-07-07,203.51,2023,7,Friday,4,216.6342857142857
+Smith's Bar,Grey Goose,2023-08-01,583.37,2023,8,Tuesday,1,281.5657142857143
+Smith's Bar,Grey Goose,2023-08-05,590.65,2023,8,Saturday,5,326.9614285714286
+Smith's Bar,Grey Goose,2023-08-08,301.73,2023,8,Tuesday,1,315.85714285714283
+Smith's Bar,Grey Goose,2023-09-03,112.56,2023,9,Sunday,6,303.83714285714285
+Smith's Bar,Grey Goose,2023-09-08,476.32,2023,9,Friday,4,340.15142857142854
+Smith's Bar,Grey Goose,2023-09-11,450.11,2023,9,Monday,0,388.32142857142856
+Smith's Bar,Grey Goose,2023-10-02,260.09,2023,10,Monday,0,396.4042857142857
+Smith's Bar,Grey Goose,2023-10-08,436.21,2023,10,Sunday,6,375.38142857142856
+Smith's Bar,Grey Goose,2023-10-09,191.01,2023,10,Monday,0,318.29
+Smith's Bar,Grey Goose,2023-12-02,400.22,2023,12,Saturday,5,332.36
+Smith's Bar,Grey Goose,2023-12-04,585.47,2023,12,Monday,0,399.91857142857145
+Smith's Bar,Grey Goose,2023-12-08,526.05,2023,12,Friday,4,407.0228571428571
+Smith's Bar,Grey Goose,2023-12-09,477.61,2023,12,Saturday,5,410.95142857142855
+Smith's Bar,Grey Goose,2023-12-12,158.77,2023,12,Tuesday,1,396.4771428571429
+Smith's Bar,Grey Goose,2024-01-01,176.29,2024,1,Monday,0,359.3457142857143
+Smith's Bar,Heineken,2023-01-08,117.53,2023,1,Sunday,6,117.53
+Smith's Bar,Heineken,2023-01-09,312.29,2023,1,Monday,0,214.91000000000003
+Smith's Bar,Heineken,2023-02-05,306.59,2023,2,Sunday,6,245.47
+Smith's Bar,Heineken,2023-02-09,421.56,2023,2,Thursday,3,289.4925
+Smith's Bar,Heineken,2023-03-02,445.26,2023,3,Thursday,3,320.646
+Smith's Bar,Heineken,2023-04-03,193.59,2023,4,Monday,0,299.46999999999997
+Smith's Bar,Heineken,2023-04-11,260.92,2023,4,Tuesday,1,293.9628571428571
+Smith's Bar,Heineken,2023-07-04,0.0,2023,7,Tuesday,1,277.17285714285714
+Smith's Bar,Heineken,2023-07-10,303.6,2023,7,Monday,0,275.93142857142857
+Smith's Bar,Heineken,2023-08-04,216.07,2023,8,Friday,4,263.0
+Smith's Bar,Heineken,2023-08-11,154.04,2023,8,Friday,4,224.78285714285715
+Smith's Bar,Heineken,2023-09-05,310.62,2023,9,Tuesday,1,205.54857142857145
+Smith's Bar,Heineken,2023-10-09,110.87,2023,10,Monday,0,193.73142857142858
+Smith's Bar,Heineken,2023-11-01,391.91,2023,11,Wednesday,2,212.44428571428574
+Smith's Bar,Heineken,2023-11-06,425.12,2023,11,Monday,0,273.17571428571426
+Smith's Bar,Heineken,2023-11-08,363.32,2023,11,Wednesday,2,281.7071428571429
+Smith's Bar,Heineken,2023-12-05,583.95,2023,12,Tuesday,1,334.26142857142855
+Smith's Bar,Jack Daniels,2023-01-02,366.87,2023,1,Monday,0,366.87
+Smith's Bar,Jack Daniels,2023-01-07,322.87,2023,1,Saturday,5,344.87
+Smith's Bar,Jack Daniels,2023-03-01,394.38,2023,3,Wednesday,2,361.3733333333333
+Smith's Bar,Jack Daniels,2023-03-08,0.0,2023,3,Wednesday,2,271.03
+Smith's Bar,Jack Daniels,2023-03-12,193.65,2023,3,Sunday,6,255.554
+Smith's Bar,Jack Daniels,2023-04-01,219.8,2023,4,Saturday,5,249.595
+Smith's Bar,Jack Daniels,2023-05-01,568.66,2023,5,Monday,0,295.17571428571426
+Smith's Bar,Jack Daniels,2023-05-03,208.82,2023,5,Wednesday,2,272.59714285714284
+Smith's Bar,Jack Daniels,2023-05-05,140.26,2023,5,Friday,4,246.51
+Smith's Bar,Jack Daniels,2023-05-06,287.16,2023,5,Saturday,5,231.19285714285715
+Smith's Bar,Jack Daniels,2023-06-03,200.24,2023,6,Saturday,5,259.7985714285714
+Smith's Bar,Jack Daniels,2023-06-06,322.42,2023,6,Tuesday,1,278.19428571428574
+Smith's Bar,Jack Daniels,2023-06-07,290.59,2023,6,Wednesday,2,288.3071428571429
+Smith's Bar,Jack Daniels,2023-06-10,240.06,2023,6,Saturday,5,241.3642857142857
+Smith's Bar,Jack Daniels,2023-06-11,166.24,2023,6,Sunday,6,235.28142857142856
+Smith's Bar,Jack Daniels,2023-06-12,498.22,2023,6,Monday,0,286.41857142857145
+Smith's Bar,Jack Daniels,2023-07-08,364.07,2023,7,Saturday,5,297.4057142857143
+Smith's Bar,Jack Daniels,2023-08-03,475.16,2023,8,Thursday,3,336.68
+Smith's Bar,Jack Daniels,2023-08-04,164.12,2023,8,Friday,4,314.0657142857143
+Smith's Bar,Jack Daniels,2023-08-05,441.88,2023,8,Saturday,5,335.67857142857144
+Smith's Bar,Jack Daniels,2023-09-02,335.02,2023,9,Saturday,5,349.2442857142857
+Smith's Bar,Jack Daniels,2023-11-07,591.45,2023,11,Tuesday,1,409.98857142857145
+Smith's Bar,Jack Daniels,2023-11-09,219.1,2023,11,Thursday,3,370.11428571428576
+Smith's Bar,Jack Daniels,2023-12-02,189.47,2023,12,Saturday,5,345.1714285714285
+Smith's Bar,Jack Daniels,2023-12-04,460.69,2023,12,Monday,0,343.1042857142857
+Smith's Bar,Jack Daniels,2023-12-09,543.65,2023,12,Saturday,5,397.3228571428572
+Smith's Bar,Jameson,2023-02-02,324.49,2023,2,Thursday,3,324.49
+Smith's Bar,Jameson,2023-02-12,263.79,2023,2,Sunday,6,294.14
+Smith's Bar,Jameson,2023-03-05,424.15,2023,3,Sunday,6,337.4766666666667
+Smith's Bar,Jameson,2023-03-06,401.13,2023,3,Monday,0,353.39
+Smith's Bar,Jameson,2023-03-10,0.0,2023,3,Friday,4,282.712
+Smith's Bar,Jameson,2023-03-11,0.0,2023,3,Saturday,5,235.59333333333333
+Smith's Bar,Jameson,2023-04-04,0.0,2023,4,Tuesday,1,201.93714285714285
+Smith's Bar,Jameson,2023-04-05,0.0,2023,4,Wednesday,2,155.58142857142857
+Smith's Bar,Jameson,2023-04-06,0.0,2023,4,Thursday,3,117.89714285714285
+Smith's Bar,Jameson,2023-04-07,0.0,2023,4,Friday,4,57.30428571428571
+Smith's Bar,Jameson,2023-04-08,202.86,2023,4,Saturday,5,28.98
+Smith's Bar,Jameson,2023-04-09,170.53,2023,4,Sunday,6,53.34142857142857
+Smith's Bar,Jameson,2023-04-10,217.94,2023,4,Monday,0,84.47571428571429
+Smith's Bar,Jameson,2023-04-11,425.03,2023,4,Tuesday,1,145.1942857142857
+Smith's Bar,Jameson,2023-05-04,138.59,2023,5,Thursday,3,164.99285714285716
+Smith's Bar,Jameson,2023-06-01,103.69,2023,6,Thursday,3,179.8057142857143
+Smith's Bar,Jameson,2023-07-06,567.61,2023,7,Thursday,3,260.89285714285717
+Smith's Bar,Jameson,2023-07-11,183.67,2023,7,Tuesday,1,258.15142857142854
+Smith's Bar,Jameson,2023-08-08,166.08,2023,8,Tuesday,1,257.5157142857143
+Smith's Bar,Jameson,2023-08-10,356.31,2023,8,Thursday,3,277.28285714285715
+Smith's Bar,Jameson,2023-08-11,196.42,2023,8,Friday,4,244.6242857142857
+Smith's Bar,Jameson,2023-08-12,420.55,2023,8,Saturday,5,284.9042857142857
+Smith's Bar,Jameson,2023-09-12,0.0,2023,9,Tuesday,1,270.09142857142854
+Smith's Bar,Jameson,2023-10-12,190.1,2023,10,Thursday,3,216.16142857142856
+Smith's Bar,Jameson,2023-11-08,201.28,2023,11,Wednesday,2,218.67714285714283
+Smith's Bar,Jameson,2023-12-05,114.28,2023,12,Tuesday,1,211.27714285714288
+Smith's Bar,Jameson,2023-12-08,213.17,2023,12,Friday,4,190.82857142857142
+Smith's Bar,Jameson,2023-12-12,595.63,2023,12,Tuesday,1,247.85857142857142
+Smith's Bar,Jim Beam,2023-01-03,508.02,2023,1,Tuesday,1,508.02
+Smith's Bar,Jim Beam,2023-01-06,365.41,2023,1,Friday,4,436.71500000000003
+Smith's Bar,Jim Beam,2023-01-09,275.39,2023,1,Monday,0,382.94
+Smith's Bar,Jim Beam,2023-01-11,487.92,2023,1,Wednesday,2,409.185
+Smith's Bar,Jim Beam,2023-02-06,236.1,2023,2,Monday,0,374.568
+Smith's Bar,Jim Beam,2023-02-09,499.14,2023,2,Thursday,3,395.33
+Smith's Bar,Jim Beam,2023-03-02,117.45,2023,3,Thursday,3,355.6328571428571
+Smith's Bar,Jim Beam,2023-03-09,169.78,2023,3,Thursday,3,307.3128571428571
+Smith's Bar,Jim Beam,2023-04-03,112.3,2023,4,Monday,0,271.1542857142857
+Smith's Bar,Jim Beam,2023-04-12,480.38,2023,4,Wednesday,2,300.43857142857144
+Smith's Bar,Jim Beam,2023-05-09,172.34,2023,5,Tuesday,1,255.3557142857143
+Smith's Bar,Jim Beam,2023-06-02,220.11,2023,6,Friday,4,253.0714285714286
+Smith's Bar,Jim Beam,2023-06-04,201.22,2023,6,Sunday,6,210.51142857142855
+Smith's Bar,Jim Beam,2023-06-05,470.1,2023,6,Monday,0,260.89
+Smith's Bar,Jim Beam,2023-07-02,562.92,2023,7,Sunday,6,317.05285714285714
+Smith's Bar,Jim Beam,2023-07-03,111.92,2023,7,Monday,0,316.9985714285714
+Smith's Bar,Jim Beam,2023-08-06,245.88,2023,8,Sunday,6,283.49857142857144
+Smith's Bar,Jim Beam,2023-08-07,461.58,2023,8,Monday,0,324.81857142857143
+Smith's Bar,Jim Beam,2023-09-01,190.55,2023,9,Friday,4,320.5957142857143
+Smith's Bar,Jim Beam,2023-09-09,345.55,2023,9,Saturday,5,341.2142857142857
+Smith's Bar,Jim Beam,2023-10-01,183.74,2023,10,Sunday,6,300.30571428571426
+Smith's Bar,Jim Beam,2023-10-03,201.17,2023,10,Tuesday,1,248.62714285714284
+Smith's Bar,Jim Beam,2023-10-05,374.47,2023,10,Thursday,3,286.13428571428574
+Smith's Bar,Jim Beam,2023-10-06,334.6,2023,10,Friday,4,298.8085714285714
+Smith's Bar,Jim Beam,2023-11-02,156.77,2023,11,Thursday,3,255.26428571428573
+Smith's Bar,Jim Beam,2023-11-04,492.54,2023,11,Saturday,5,298.4057142857143
+Smith's Bar,Jim Beam,2023-11-05,338.99,2023,11,Sunday,6,297.4685714285714
+Smith's Bar,Jim Beam,2023-11-11,516.67,2023,11,Saturday,5,345.03000000000003
+Smith's Bar,Jim Beam,2023-12-11,426.82,2023,12,Monday,0,377.2657142857143
+Smith's Bar,Malibu,2023-01-04,147.19,2023,1,Wednesday,2,147.19
+Smith's Bar,Malibu,2023-01-12,120.9,2023,1,Thursday,3,134.04500000000002
+Smith's Bar,Malibu,2023-02-02,335.03,2023,2,Thursday,3,201.04
+Smith's Bar,Malibu,2023-02-03,251.24,2023,2,Friday,4,213.59
+Smith's Bar,Malibu,2023-02-11,234.49,2023,2,Saturday,5,217.76999999999998
+Smith's Bar,Malibu,2023-02-12,293.04,2023,2,Sunday,6,230.31500000000003
+Smith's Bar,Malibu,2023-03-12,562.55,2023,3,Sunday,6,277.77714285714285
+Smith's Bar,Malibu,2023-04-11,566.79,2023,4,Tuesday,1,337.71999999999997
+Smith's Bar,Malibu,2023-05-10,405.88,2023,5,Wednesday,2,378.43142857142857
+Smith's Bar,Malibu,2023-06-02,288.05,2023,6,Friday,4,371.71999999999997
+Smith's Bar,Malibu,2023-06-04,256.79,2023,6,Sunday,6,372.5128571428572
+Smith's Bar,Malibu,2023-07-03,516.54,2023,7,Monday,0,412.8057142857143
+Smith's Bar,Malibu,2023-08-05,110.13,2023,8,Saturday,5,386.67571428571426
+Smith's Bar,Malibu,2023-08-06,495.8,2023,8,Sunday,6,377.14
+Smith's Bar,Malibu,2023-08-12,118.97,2023,8,Saturday,5,313.1657142857143
+Smith's Bar,Malibu,2023-09-07,579.64,2023,9,Thursday,3,337.98857142857145
+Smith's Bar,Malibu,2023-09-10,391.03,2023,9,Sunday,6,352.7
+Smith's Bar,Malibu,2023-10-06,379.84,2023,10,Friday,4,370.2785714285714
+Smith's Bar,Malibu,2023-10-07,228.54,2023,10,Saturday,5,329.13571428571424
+Smith's Bar,Malibu,2023-10-09,175.75,2023,10,Monday,0,338.51000000000005
+Smith's Bar,Malibu,2023-10-11,148.98,2023,10,Wednesday,2,288.96428571428567
+Smith's Bar,Malibu,2023-11-07,190.22,2023,11,Tuesday,1,299.14285714285717
+Smith's Bar,Malibu,2023-12-03,110.11,2023,12,Sunday,6,232.06714285714287
+Smith's Bar,Malibu,2023-12-04,299.69,2023,12,Monday,0,219.01857142857142
+Smith's Bar,Malibu,2023-12-05,252.46,2023,12,Tuesday,1,200.82142857142858
+Smith's Bar,Malibu,2023-12-06,176.67,2023,12,Wednesday,2,193.4114285714286
+Smith's Bar,Malibu,2023-12-08,0.0,2023,12,Friday,4,168.30428571428573
+Smith's Bar,Miller,2023-01-04,349.22,2023,1,Wednesday,2,349.22
+Smith's Bar,Miller,2023-01-05,381.0,2023,1,Thursday,3,365.11
+Smith's Bar,Miller,2023-01-07,567.69,2023,1,Saturday,5,432.6366666666667
+Smith's Bar,Miller,2023-02-02,140.56,2023,2,Thursday,3,359.6175
+Smith's Bar,Miller,2023-02-03,279.17,2023,2,Friday,4,343.528
+Smith's Bar,Miller,2023-02-08,492.85,2023,2,Wednesday,2,368.415
+Smith's Bar,Miller,2023-03-01,280.23,2023,3,Wednesday,2,355.81714285714287
+Smith's Bar,Miller,2023-03-12,306.25,2023,3,Sunday,6,349.67857142857144
+Smith's Bar,Miller,2023-04-02,469.18,2023,4,Sunday,6,362.2757142857143
+Smith's Bar,Miller,2023-04-05,499.59,2023,4,Wednesday,2,352.54714285714283
+Smith's Bar,Miller,2023-04-06,206.42,2023,4,Thursday,3,361.9557142857143
+Smith's Bar,Miller,2023-04-08,380.67,2023,4,Saturday,5,376.4557142857143
+Smith's Bar,Miller,2023-06-12,427.01,2023,6,Monday,0,367.05000000000007
+Smith's Bar,Miller,2023-07-07,0.0,2023,7,Friday,4,327.01714285714286
+Smith's Bar,Miller,2023-07-08,0.0,2023,7,Saturday,5,283.26714285714286
+Smith's Bar,Miller,2023-08-03,131.28,2023,8,Thursday,3,234.99571428571429
+Smith's Bar,Miller,2023-08-06,551.2,2023,8,Sunday,6,242.36857142857144
+Smith's Bar,Miller,2023-08-07,427.08,2023,8,Monday,0,273.89142857142855
+Smith's Bar,Miller,2023-09-10,229.78,2023,9,Sunday,6,252.33571428571426
+Smith's Bar,Miller,2023-10-02,160.93,2023,10,Monday,0,214.3242857142857
+Smith's Bar,Miller,2023-10-08,209.16,2023,10,Sunday,6,244.20428571428573
+Smith's Bar,Miller,2023-10-11,413.38,2023,10,Wednesday,2,303.25857142857143
+Smith's Bar,Miller,2023-11-10,294.73,2023,11,Friday,4,326.60857142857145
+Smith's Bar,Miller,2023-11-11,275.38,2023,11,Saturday,5,287.2057142857143
+Smith's Bar,Miller,2023-12-10,162.28,2023,12,Sunday,6,249.37714285714287
+Smith's Bar,Miller,2023-12-12,196.23,2023,12,Tuesday,1,244.58428571428573
+Smith's Bar,Smirnoff,2023-01-11,188.58,2023,1,Wednesday,2,188.58
+Smith's Bar,Smirnoff,2023-02-01,569.14,2023,2,Wednesday,2,378.86
+Smith's Bar,Smirnoff,2023-03-07,0.0,2023,3,Tuesday,1,252.57333333333335
+Smith's Bar,Smirnoff,2023-04-05,0.0,2023,4,Wednesday,2,189.43
+Smith's Bar,Smirnoff,2023-04-10,0.0,2023,4,Monday,0,151.544
+Smith's Bar,Smirnoff,2023-04-11,134.37,2023,4,Tuesday,1,148.68166666666667
+Smith's Bar,Smirnoff,2023-05-02,246.12,2023,5,Tuesday,1,162.60142857142858
+Smith's Bar,Smirnoff,2023-05-05,599.31,2023,5,Friday,4,221.27714285714288
+Smith's Bar,Smirnoff,2023-05-06,89.17,2023,5,Saturday,5,152.71
+Smith's Bar,Smirnoff,2023-06-02,0.0,2023,6,Friday,4,152.71
+Smith's Bar,Smirnoff,2023-06-08,232.18,2023,6,Thursday,3,185.87857142857143
+Smith's Bar,Smirnoff,2023-06-11,214.2,2023,6,Sunday,6,216.47857142857143
+Smith's Bar,Smirnoff,2023-06-12,283.72,2023,6,Monday,0,237.81428571428572
+Smith's Bar,Smirnoff,2023-07-03,111.93,2023,7,Monday,0,218.6442857142857
+Smith's Bar,Smirnoff,2023-07-08,420.61,2023,7,Saturday,5,193.1157142857143
+Smith's Bar,Smirnoff,2023-08-03,0.0,2023,8,Thursday,3,180.37714285714284
+Smith's Bar,Smirnoff,2023-08-06,0.0,2023,8,Sunday,6,180.37714285714284
+Smith's Bar,Smirnoff,2023-10-01,112.73,2023,10,Sunday,6,163.31285714285715
+Smith's Bar,Smirnoff,2023-10-03,351.53,2023,10,Tuesday,1,182.93142857142857
+Smith's Bar,Smirnoff,2023-10-12,82.12,2023,10,Thursday,3,154.1314285714286
+Smith's Bar,Smirnoff,2023-11-09,535.02,2023,11,Thursday,3,214.57285714285715
+Smith's Bar,Smirnoff,2023-12-01,221.37,2023,12,Friday,4,186.10999999999999
+Smith's Bar,Smirnoff,2023-12-06,387.82,2023,12,Wednesday,2,241.51285714285717
+Smith's Bar,Sutter Home,2023-01-02,506.75,2023,1,Monday,0,506.75
+Smith's Bar,Sutter Home,2023-02-08,480.51,2023,2,Wednesday,2,493.63
+Smith's Bar,Sutter Home,2023-02-09,514.79,2023,2,Thursday,3,500.68333333333334
+Smith's Bar,Sutter Home,2023-03-08,0.0,2023,3,Wednesday,2,375.5125
+Smith's Bar,Sutter Home,2023-03-09,205.77,2023,3,Thursday,3,341.56399999999996
+Smith's Bar,Sutter Home,2023-04-02,375.44,2023,4,Sunday,6,347.21000000000004
+Smith's Bar,Sutter Home,2023-04-10,400.63,2023,4,Monday,0,354.84142857142854
+Smith's Bar,Sutter Home,2023-05-01,417.69,2023,5,Monday,0,342.11857142857144
+Smith's Bar,Sutter Home,2023-05-04,0.0,2023,5,Thursday,3,273.4742857142857
+Smith's Bar,Sutter Home,2023-05-05,0.0,2023,5,Friday,4,199.93285714285713
+Smith's Bar,Sutter Home,2023-05-06,0.0,2023,5,Saturday,5,199.93285714285713
+Smith's Bar,Sutter Home,2023-05-07,0.0,2023,5,Sunday,6,170.53714285714287
+Smith's Bar,Sutter Home,2023-05-12,473.13,2023,5,Friday,4,184.49285714285716
+Smith's Bar,Sutter Home,2023-07-03,0.0,2023,7,Monday,0,127.25999999999999
+Smith's Bar,Sutter Home,2023-07-08,0.0,2023,7,Saturday,5,67.59
+Smith's Bar,Sutter Home,2023-07-10,278.06,2023,7,Monday,0,107.31285714285715
+Smith's Bar,Sutter Home,2023-07-12,231.87,2023,7,Wednesday,2,140.43714285714285
+Smith's Bar,Sutter Home,2023-08-02,483.68,2023,8,Wednesday,2,209.53428571428572
+Smith's Bar,Sutter Home,2023-08-08,111.31,2023,8,Tuesday,1,225.43571428571428
+Smith's Bar,Sutter Home,2023-08-11,312.23,2023,8,Friday,4,202.45000000000002
+Smith's Bar,Sutter Home,2023-09-08,240.87,2023,9,Friday,4,236.86000000000004
+Smith's Bar,Sutter Home,2023-09-09,419.34,2023,9,Saturday,5,296.76571428571424
+Smith's Bar,Sutter Home,2023-09-11,313.3,2023,9,Monday,0,301.8
+Smith's Bar,Sutter Home,2023-10-07,149.34,2023,10,Saturday,5,290.01000000000005
+Smith's Bar,Sutter Home,2023-10-09,340.26,2023,10,Monday,0,269.5214285714286
+Smith's Bar,Sutter Home,2023-10-10,477.2,2023,10,Tuesday,1,321.7914285714286
+Smith's Bar,Sutter Home,2023-11-02,410.46,2023,11,Thursday,3,335.82428571428574
+Smith's Bar,Sutter Home,2023-11-03,488.91,2023,11,Friday,4,371.25857142857143
+Smith's Bar,Sutter Home,2023-11-04,120.3,2023,11,Saturday,5,328.5385714285714
+Smith's Bar,Sutter Home,2023-11-11,514.22,2023,11,Saturday,5,357.24142857142857
+Smith's Bar,Sutter Home,2023-12-02,185.34,2023,12,Saturday,5,362.38428571428574
+Smith's Bar,Sutter Home,2023-12-12,117.73,2023,12,Tuesday,1,330.5942857142858
+Smith's Bar,Yellow Tail,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Smith's Bar,Yellow Tail,2023-01-05,419.96,2023,1,Thursday,3,209.98
+Smith's Bar,Yellow Tail,2023-02-04,281.3,2023,2,Saturday,5,233.75333333333333
+Smith's Bar,Yellow Tail,2023-02-05,399.91,2023,2,Sunday,6,275.2925
+Smith's Bar,Yellow Tail,2023-02-07,393.31,2023,2,Tuesday,1,298.896
+Smith's Bar,Yellow Tail,2023-03-01,520.36,2023,3,Wednesday,2,335.8066666666667
+Smith's Bar,Yellow Tail,2023-03-04,133.83,2023,3,Saturday,5,306.95285714285717
+Smith's Bar,Yellow Tail,2023-04-03,388.11,2023,4,Monday,0,362.3971428571429
+Smith's Bar,Yellow Tail,2023-04-05,251.7,2023,4,Wednesday,2,338.36
+Smith's Bar,Yellow Tail,2023-04-07,325.8,2023,4,Friday,4,344.7171428571429
+Smith's Bar,Yellow Tail,2023-04-08,1077.61,2023,4,Saturday,5,441.53142857142853
+Smith's Bar,Yellow Tail,2023-04-09,170.94,2023,4,Sunday,6,409.7642857142857
+Smith's Bar,Yellow Tail,2023-04-12,197.88,2023,4,Wednesday,2,363.69571428571425
+Smith's Bar,Yellow Tail,2023-05-03,389.53,2023,5,Wednesday,2,400.22428571428566
+Smith's Bar,Yellow Tail,2023-05-11,225.49,2023,5,Thursday,3,376.99285714285713
+Smith's Bar,Yellow Tail,2023-06-02,127.48,2023,6,Friday,4,359.2471428571429
+Smith's Bar,Yellow Tail,2023-06-03,451.59,2023,6,Saturday,5,377.2171428571428
+Smith's Bar,Yellow Tail,2023-06-05,437.77,2023,6,Monday,0,285.81142857142856
+Smith's Bar,Yellow Tail,2023-06-06,519.55,2023,6,Tuesday,1,335.61285714285714
+Smith's Bar,Yellow Tail,2023-06-08,119.76,2023,6,Thursday,3,324.4528571428571
+Smith's Bar,Yellow Tail,2023-06-09,366.63,2023,6,Friday,4,321.18142857142857
+Smith's Bar,Yellow Tail,2023-07-04,0.0,2023,7,Tuesday,1,288.9685714285714
+Smith's Bar,Yellow Tail,2023-07-06,284.04,2023,7,Thursday,3,311.3342857142857
+Smith's Bar,Yellow Tail,2023-07-09,462.59,2023,7,Sunday,6,312.9057142857142
+Smith's Bar,Yellow Tail,2023-08-09,305.23,2023,8,Wednesday,2,293.97142857142853
+Smith's Bar,Yellow Tail,2023-09-02,492.52,2023,9,Saturday,5,290.11
+Smith's Bar,Yellow Tail,2023-09-05,494.52,2023,9,Tuesday,1,343.6471428571428
+Smith's Bar,Yellow Tail,2023-10-04,559.0,2023,10,Wednesday,2,371.12857142857143
+Smith's Bar,Yellow Tail,2023-10-05,247.46,2023,10,Thursday,3,406.48
+Smith's Bar,Yellow Tail,2023-10-06,139.5,2023,10,Friday,4,385.8314285714286
+Smith's Bar,Yellow Tail,2023-10-08,327.39,2023,10,Sunday,6,366.51714285714286
+Smith's Bar,Yellow Tail,2023-11-01,314.56,2023,11,Wednesday,2,367.84999999999997
+Smith's Bar,Yellow Tail,2023-11-05,325.34,2023,11,Sunday,6,343.96714285714285
+Smith's Bar,Yellow Tail,2023-12-01,514.34,2023,12,Friday,4,346.79857142857145
+Smith's Bar,Yellow Tail,2023-12-05,522.31,2023,12,Tuesday,1,341.5571428571428
+Taylor's Bar,Absolut,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Taylor's Bar,Absolut,2023-01-04,533.56,2023,1,Wednesday,2,266.78
+Taylor's Bar,Absolut,2023-01-05,269.68,2023,1,Thursday,3,267.74666666666667
+Taylor's Bar,Absolut,2023-01-08,139.59,2023,1,Sunday,6,235.70749999999998
+Taylor's Bar,Absolut,2023-01-12,301.0,2023,1,Thursday,3,248.766
+Taylor's Bar,Absolut,2023-02-05,411.9,2023,2,Sunday,6,275.955
+Taylor's Bar,Absolut,2023-02-06,233.98,2023,2,Monday,0,269.9585714285714
+Taylor's Bar,Absolut,2023-02-10,498.67,2023,2,Friday,4,341.19714285714286
+Taylor's Bar,Absolut,2023-02-12,149.6,2023,2,Sunday,6,286.3457142857143
+Taylor's Bar,Absolut,2023-03-01,463.51,2023,3,Wednesday,2,314.0357142857143
+Taylor's Bar,Absolut,2023-04-01,440.71,2023,4,Saturday,5,357.05285714285714
+Taylor's Bar,Absolut,2023-04-08,591.43,2023,4,Saturday,5,398.5428571428571
+Taylor's Bar,Absolut,2023-04-10,232.02,2023,4,Monday,0,372.8457142857143
+Taylor's Bar,Absolut,2023-06-03,0.0,2023,6,Saturday,5,339.42
+Taylor's Bar,Absolut,2023-07-02,494.13,2023,7,Sunday,6,338.7714285714286
+Taylor's Bar,Absolut,2023-08-03,213.5,2023,8,Thursday,3,347.90000000000003
+Taylor's Bar,Absolut,2023-08-10,547.5,2023,8,Thursday,3,359.8985714285714
+Taylor's Bar,Absolut,2023-09-03,390.87,2023,9,Sunday,6,352.7785714285714
+Taylor's Bar,Absolut,2023-09-04,0.0,2023,9,Monday,0,268.2885714285714
+Taylor's Bar,Absolut,2023-09-11,301.31,2023,9,Monday,0,278.1871428571429
+Taylor's Bar,Absolut,2023-10-08,0.0,2023,10,Sunday,6,278.1871428571429
+Taylor's Bar,Absolut,2023-11-05,357.97,2023,11,Sunday,6,258.73571428571427
+Taylor's Bar,Absolut,2023-11-06,150.6,2023,11,Monday,0,249.75000000000003
+Taylor's Bar,Absolut,2023-11-07,574.59,2023,11,Tuesday,1,253.61999999999998
+Taylor's Bar,Bacardi,2023-01-03,424.95,2023,1,Tuesday,1,424.95
+Taylor's Bar,Bacardi,2023-01-04,380.15,2023,1,Wednesday,2,402.54999999999995
+Taylor's Bar,Bacardi,2023-01-09,560.29,2023,1,Monday,0,455.12999999999994
+Taylor's Bar,Bacardi,2023-02-02,172.78,2023,2,Thursday,3,384.54249999999996
+Taylor's Bar,Bacardi,2023-03-07,362.64,2023,3,Tuesday,1,380.162
+Taylor's Bar,Bacardi,2023-04-06,0.0,2023,4,Thursday,3,316.8016666666667
+Taylor's Bar,Bacardi,2023-04-07,0.0,2023,4,Friday,4,271.5442857142857
+Taylor's Bar,Bacardi,2023-04-11,343.27,2023,4,Tuesday,1,259.87571428571425
+Taylor's Bar,Bacardi,2023-05-06,190.29,2023,5,Saturday,5,232.75285714285715
+Taylor's Bar,Bacardi,2023-05-10,443.5,2023,5,Wednesday,2,216.06857142857143
+Taylor's Bar,Bacardi,2023-06-02,0.0,2023,6,Friday,4,191.38571428571427
+Taylor's Bar,Bacardi,2023-06-04,392.83,2023,6,Sunday,6,195.6985714285714
+Taylor's Bar,Bacardi,2023-06-08,269.69,2023,6,Thursday,3,234.22571428571428
+Taylor's Bar,Bacardi,2023-06-12,563.11,2023,6,Monday,0,314.67
+Taylor's Bar,Bacardi,2023-07-08,257.46,2023,7,Saturday,5,302.4114285714286
+Taylor's Bar,Bacardi,2023-08-01,524.45,2023,8,Tuesday,1,350.1485714285714
+Taylor's Bar,Bacardi,2023-08-09,197.55,2023,8,Wednesday,2,315.0128571428572
+Taylor's Bar,Bacardi,2023-08-10,236.16,2023,8,Thursday,3,348.75
+Taylor's Bar,Bacardi,2023-08-12,21.16,2023,8,Saturday,5,295.6542857142857
+Taylor's Bar,Bacardi,2023-09-02,221.25,2023,9,Saturday,5,288.7342857142857
+Taylor's Bar,Bacardi,2023-09-03,337.95,2023,9,Sunday,6,256.5685714285714
+Taylor's Bar,Bacardi,2023-09-12,239.85,2023,9,Tuesday,1,254.05285714285716
+Taylor's Bar,Bacardi,2023-11-11,0.0,2023,11,Saturday,5,179.1314285714286
+Taylor's Bar,Bacardi,2023-12-05,0.0,2023,12,Tuesday,1,150.91000000000003
+Taylor's Bar,Bacardi,2023-12-06,0.0,2023,12,Wednesday,2,117.17285714285713
+Taylor's Bar,Bacardi,2023-12-08,0.0,2023,12,Friday,4,114.14999999999999
+Taylor's Bar,Bacardi,2023-12-11,599.77,2023,12,Monday,0,168.2242857142857
+Taylor's Bar,Bacardi,2023-12-12,571.46,2023,12,Tuesday,1,201.58285714285714
+Taylor's Bar,Barefoot,2023-01-06,264.54,2023,1,Friday,4,264.54
+Taylor's Bar,Barefoot,2023-02-02,517.94,2023,2,Thursday,3,391.24
+Taylor's Bar,Barefoot,2023-02-04,276.89,2023,2,Saturday,5,353.1233333333333
+Taylor's Bar,Barefoot,2023-02-10,391.67,2023,2,Friday,4,362.76
+Taylor's Bar,Barefoot,2023-02-11,319.09,2023,2,Saturday,5,354.026
+Taylor's Bar,Barefoot,2023-03-01,238.11,2023,3,Wednesday,2,334.70666666666665
+Taylor's Bar,Barefoot,2023-03-03,362.85,2023,3,Friday,4,338.7271428571429
+Taylor's Bar,Barefoot,2023-03-07,521.45,2023,3,Tuesday,1,375.42857142857144
+Taylor's Bar,Barefoot,2023-03-11,119.4,2023,3,Saturday,5,318.4942857142857
+Taylor's Bar,Barefoot,2023-04-01,171.33,2023,4,Saturday,5,303.4142857142857
+Taylor's Bar,Barefoot,2023-04-08,228.56,2023,4,Saturday,5,280.1128571428572
+Taylor's Bar,Barefoot,2023-04-10,362.13,2023,4,Monday,0,286.2614285714286
+Taylor's Bar,Barefoot,2023-05-05,137.36,2023,5,Friday,4,271.86857142857144
+Taylor's Bar,Barefoot,2023-05-11,249.48,2023,5,Thursday,3,255.67285714285714
+Taylor's Bar,Barefoot,2023-06-08,393.17,2023,6,Thursday,3,237.3471428571429
+Taylor's Bar,Barefoot,2023-07-01,272.89,2023,7,Saturday,5,259.2742857142857
+Taylor's Bar,Barefoot,2023-07-03,224.11,2023,7,Monday,0,266.81428571428575
+Taylor's Bar,Barefoot,2023-07-06,204.79,2023,7,Thursday,3,263.41857142857145
+Taylor's Bar,Barefoot,2023-07-08,132.96,2023,7,Saturday,5,230.68000000000004
+Taylor's Bar,Barefoot,2023-07-12,232.18,2023,7,Wednesday,2,244.22571428571428
+Taylor's Bar,Barefoot,2023-08-01,271.29,2023,8,Tuesday,1,247.34142857142857
+Taylor's Bar,Barefoot,2023-08-10,576.18,2023,8,Thursday,3,273.48571428571427
+Taylor's Bar,Barefoot,2023-08-12,585.62,2023,8,Saturday,5,318.1614285714286
+Taylor's Bar,Barefoot,2023-09-06,293.69,2023,9,Wednesday,2,328.1014285714286
+Taylor's Bar,Barefoot,2023-10-02,143.54,2023,10,Monday,0,319.3514285714286
+Taylor's Bar,Barefoot,2023-10-04,406.81,2023,10,Wednesday,2,358.47285714285715
+Taylor's Bar,Barefoot,2023-10-09,209.02,2023,10,Monday,0,355.1642857142857
+Taylor's Bar,Barefoot,2023-10-12,111.54,2023,10,Thursday,3,332.34285714285716
+Taylor's Bar,Barefoot,2023-11-01,152.81,2023,11,Wednesday,2,271.8614285714286
+Taylor's Bar,Barefoot,2023-11-12,572.78,2023,11,Sunday,6,270.02714285714285
+Taylor's Bar,Barefoot,2023-12-08,249.14,2023,12,Friday,4,263.66285714285715
+Taylor's Bar,Barefoot,2023-12-09,372.79,2023,12,Saturday,5,296.41285714285715
+Taylor's Bar,Barefoot,2023-12-12,100.05,2023,12,Tuesday,1,252.59
+Taylor's Bar,Budweiser,2023-01-11,472.06,2023,1,Wednesday,2,472.06
+Taylor's Bar,Budweiser,2023-02-01,346.18,2023,2,Wednesday,2,409.12
+Taylor's Bar,Budweiser,2023-02-04,318.75,2023,2,Saturday,5,378.99666666666667
+Taylor's Bar,Budweiser,2023-03-09,545.55,2023,3,Thursday,3,420.635
+Taylor's Bar,Budweiser,2023-03-11,431.99,2023,3,Saturday,5,422.90599999999995
+Taylor's Bar,Budweiser,2023-04-09,254.32,2023,4,Sunday,6,394.80833333333334
+Taylor's Bar,Budweiser,2023-05-01,590.44,2023,5,Monday,0,422.7557142857143
+Taylor's Bar,Budweiser,2023-05-10,245.06,2023,5,Wednesday,2,390.32714285714286
+Taylor's Bar,Budweiser,2023-05-11,0.0,2023,5,Thursday,3,340.8728571428571
+Taylor's Bar,Budweiser,2023-06-10,516.0,2023,6,Saturday,5,369.0514285714285
+Taylor's Bar,Budweiser,2023-06-11,577.53,2023,6,Sunday,6,373.62
+Taylor's Bar,Budweiser,2023-07-05,420.85,2023,7,Wednesday,2,372.02857142857147
+Taylor's Bar,Budweiser,2023-09-01,498.49,2023,9,Friday,4,406.90999999999997
+Taylor's Bar,Budweiser,2023-10-02,352.55,2023,10,Monday,0,372.92571428571426
+Taylor's Bar,Budweiser,2023-10-12,510.1,2023,10,Thursday,3,410.7885714285714
+Taylor's Bar,Budweiser,2023-11-01,145.8,2023,11,Wednesday,2,431.6171428571429
+Taylor's Bar,Budweiser,2024-01-01,558.72,2024,1,Monday,0,437.71999999999997
+Taylor's Bar,Captain Morgan,2023-01-06,594.98,2023,1,Friday,4,594.98
+Taylor's Bar,Captain Morgan,2023-01-08,569.99,2023,1,Sunday,6,582.485
+Taylor's Bar,Captain Morgan,2023-01-12,598.16,2023,1,Thursday,3,587.71
+Taylor's Bar,Captain Morgan,2023-02-05,285.86,2023,2,Sunday,6,512.2475
+Taylor's Bar,Captain Morgan,2023-02-06,226.31,2023,2,Monday,0,455.06000000000006
+Taylor's Bar,Captain Morgan,2023-02-07,364.91,2023,2,Tuesday,1,440.035
+Taylor's Bar,Captain Morgan,2023-02-10,216.05,2023,2,Friday,4,408.0371428571429
+Taylor's Bar,Captain Morgan,2023-03-05,126.35,2023,3,Sunday,6,341.09000000000003
+Taylor's Bar,Captain Morgan,2023-03-06,528.52,2023,3,Monday,0,335.1657142857143
+Taylor's Bar,Captain Morgan,2023-03-09,128.97,2023,3,Thursday,3,268.1385714285714
+Taylor's Bar,Captain Morgan,2023-04-01,205.39,2023,4,Saturday,5,256.64285714285717
+Taylor's Bar,Captain Morgan,2023-04-04,1077.89,2023,4,Tuesday,1,378.29714285714283
+Taylor's Bar,Captain Morgan,2023-04-10,380.12,2023,4,Monday,0,380.4700000000001
+Taylor's Bar,Captain Morgan,2023-05-12,306.18,2023,5,Friday,4,393.3457142857143
+Taylor's Bar,Captain Morgan,2023-06-01,215.14,2023,6,Thursday,3,406.03000000000003
+Taylor's Bar,Captain Morgan,2023-06-05,58.54,2023,6,Monday,0,338.89
+Taylor's Bar,Captain Morgan,2023-06-09,273.31,2023,6,Friday,4,359.51000000000005
+Taylor's Bar,Captain Morgan,2023-06-11,132.71,2023,6,Sunday,6,349.1271428571429
+Taylor's Bar,Captain Morgan,2023-07-02,392.13,2023,7,Sunday,6,251.1614285714286
+Taylor's Bar,Captain Morgan,2023-07-05,353.12,2023,7,Wednesday,2,247.30428571428573
+Taylor's Bar,Captain Morgan,2023-07-07,562.93,2023,7,Friday,4,283.98285714285714
+Taylor's Bar,Captain Morgan,2023-07-10,394.01,2023,7,Monday,0,309.5357142857143
+Taylor's Bar,Captain Morgan,2023-09-06,416.46,2023,9,Wednesday,2,360.6671428571429
+Taylor's Bar,Captain Morgan,2023-09-08,163.17,2023,9,Friday,4,344.93285714285713
+Taylor's Bar,Captain Morgan,2023-10-01,253.17,2023,10,Sunday,6,362.14142857142855
+Taylor's Bar,Captain Morgan,2023-10-05,154.67,2023,10,Thursday,3,328.2185714285714
+Taylor's Bar,Captain Morgan,2023-10-12,213.19,2023,10,Thursday,3,308.2285714285714
+Taylor's Bar,Captain Morgan,2023-11-06,100.47,2023,11,Monday,0,242.16285714285715
+Taylor's Bar,Captain Morgan,2023-11-09,224.67,2023,11,Thursday,3,217.97142857142856
+Taylor's Bar,Captain Morgan,2023-12-01,194.96,2023,12,Friday,4,186.32857142857142
+Taylor's Bar,Captain Morgan,2024-01-01,440.76,2024,1,Monday,0,225.9842857142857
+Taylor's Bar,Coors,2023-01-02,310.2,2023,1,Monday,0,310.2
+Taylor's Bar,Coors,2023-01-06,371.0,2023,1,Friday,4,340.6
+Taylor's Bar,Coors,2023-02-07,297.6,2023,2,Tuesday,1,326.26666666666665
+Taylor's Bar,Coors,2023-03-01,306.73,2023,3,Wednesday,2,321.3825
+Taylor's Bar,Coors,2023-03-05,0.0,2023,3,Sunday,6,257.106
+Taylor's Bar,Coors,2023-04-05,388.84,2023,4,Wednesday,2,279.06166666666667
+Taylor's Bar,Coors,2023-05-02,537.55,2023,5,Tuesday,1,315.98857142857145
+Taylor's Bar,Coors,2023-05-07,653.2,2023,5,Sunday,6,364.98857142857145
+Taylor's Bar,Coors,2023-05-09,128.95,2023,5,Tuesday,1,330.40999999999997
+Taylor's Bar,Coors,2023-05-12,248.88,2023,5,Friday,4,323.45
+Taylor's Bar,Coors,2023-06-12,322.93,2023,6,Monday,0,325.7642857142857
+Taylor's Bar,Coors,2023-07-01,224.34,2023,7,Saturday,5,357.8128571428571
+Taylor's Bar,Coors,2023-08-06,281.96,2023,8,Sunday,6,342.5442857142857
+Taylor's Bar,Coors,2023-09-04,0.0,2023,9,Monday,0,265.7514285714286
+Taylor's Bar,Coors,2023-09-09,552.65,2023,9,Saturday,5,251.38714285714283
+Taylor's Bar,Coors,2023-09-10,195.79,2023,9,Sunday,6,260.93571428571425
+Taylor's Bar,Coors,2023-10-07,536.06,2023,10,Saturday,5,301.9614285714285
+Taylor's Bar,Coors,2023-11-04,279.63,2023,11,Saturday,5,295.7757142857143
+Taylor's Bar,Coors,2023-11-06,231.91,2023,11,Monday,0,296.85714285714283
+Taylor's Bar,Coors,2023-11-10,154.9,2023,11,Friday,4,278.70571428571424
+Taylor's Bar,Coors,2023-12-04,108.73,2023,12,Monday,0,294.23857142857145
+Taylor's Bar,Coors,2023-12-09,103.94,2023,12,Saturday,5,230.13714285714283
+Taylor's Bar,Coors,2023-12-10,178.0,2023,12,Sunday,6,227.5957142857143
+Taylor's Bar,Grey Goose,2023-01-02,475.98,2023,1,Monday,0,475.98
+Taylor's Bar,Grey Goose,2023-01-03,350.14,2023,1,Tuesday,1,413.06
+Taylor's Bar,Grey Goose,2023-01-07,491.0,2023,1,Saturday,5,439.03999999999996
+Taylor's Bar,Grey Goose,2023-03-08,0.0,2023,3,Wednesday,2,329.28
+Taylor's Bar,Grey Goose,2023-03-12,525.5,2023,3,Sunday,6,368.524
+Taylor's Bar,Grey Goose,2023-04-04,711.3,2023,4,Tuesday,1,425.65333333333336
+Taylor's Bar,Grey Goose,2023-05-01,493.88,2023,5,Monday,0,435.40000000000003
+Taylor's Bar,Grey Goose,2023-05-06,163.64,2023,5,Saturday,5,390.78000000000003
+Taylor's Bar,Grey Goose,2023-05-12,404.29,2023,5,Friday,4,398.5157142857143
+Taylor's Bar,Grey Goose,2023-06-01,146.93,2023,6,Thursday,3,349.36285714285714
+Taylor's Bar,Grey Goose,2023-06-04,120.0,2023,6,Sunday,6,366.5057142857143
+Taylor's Bar,Grey Goose,2023-06-05,477.88,2023,6,Monday,0,359.70285714285717
+Taylor's Bar,Grey Goose,2023-06-06,384.34,2023,6,Tuesday,1,312.9942857142857
+Taylor's Bar,Grey Goose,2023-06-08,167.45,2023,6,Thursday,3,266.3614285714286
+Taylor's Bar,Grey Goose,2023-07-04,0.0,2023,7,Tuesday,1,242.9842857142857
+Taylor's Bar,Grey Goose,2023-07-06,106.84,2023,7,Thursday,3,200.49142857142854
+Taylor's Bar,Grey Goose,2023-07-10,475.02,2023,7,Monday,0,247.36142857142855
+Taylor's Bar,Grey Goose,2023-07-12,244.51,2023,7,Wednesday,2,265.1485714285714
+Taylor's Bar,Grey Goose,2023-08-01,112.96,2023,8,Tuesday,1,213.01714285714283
+Taylor's Bar,Grey Goose,2023-08-04,138.76,2023,8,Friday,4,177.93428571428572
+Taylor's Bar,Grey Goose,2023-08-09,165.16,2023,8,Wednesday,2,177.60714285714286
+Taylor's Bar,Grey Goose,2023-08-12,503.35,2023,8,Saturday,5,249.5142857142857
+Taylor's Bar,Grey Goose,2023-09-02,477.75,2023,9,Saturday,5,302.5014285714286
+Taylor's Bar,Grey Goose,2023-09-05,437.27,2023,9,Tuesday,1,297.10857142857145
+Taylor's Bar,Grey Goose,2023-09-09,326.02,2023,9,Saturday,5,308.7528571428571
+Taylor's Bar,Grey Goose,2023-10-04,506.4,2023,10,Wednesday,2,364.9585714285714
+Taylor's Bar,Grey Goose,2023-10-05,129.86,2023,10,Thursday,3,363.6871428571429
+Taylor's Bar,Grey Goose,2023-10-09,325.91,2023,10,Monday,0,386.65142857142865
+Taylor's Bar,Grey Goose,2023-10-11,321.5,2023,10,Wednesday,2,360.67285714285714
+Taylor's Bar,Grey Goose,2023-11-01,194.6,2023,11,Wednesday,2,320.22285714285715
+Taylor's Bar,Grey Goose,2023-11-03,588.84,2023,11,Friday,4,341.8757142857143
+Taylor's Bar,Grey Goose,2023-11-04,317.81,2023,11,Saturday,5,340.70285714285717
+Taylor's Bar,Grey Goose,2023-11-08,488.49,2023,11,Wednesday,2,338.14428571428573
+Taylor's Bar,Grey Goose,2023-11-11,197.0,2023,11,Saturday,5,347.7357142857143
+Taylor's Bar,Grey Goose,2023-12-05,329.64,2023,12,Tuesday,1,348.2685714285714
+Taylor's Bar,Grey Goose,2023-12-06,534.95,2023,12,Wednesday,2,378.76142857142855
+Taylor's Bar,Grey Goose,2023-12-07,373.94,2023,12,Thursday,3,404.38142857142856
+Taylor's Bar,Grey Goose,2023-12-12,369.64,2023,12,Tuesday,1,373.06714285714287
+Taylor's Bar,Heineken,2023-01-03,229.88,2023,1,Tuesday,1,229.88
+Taylor's Bar,Heineken,2023-01-05,398.16,2023,1,Thursday,3,314.02
+Taylor's Bar,Heineken,2023-02-02,0.0,2023,2,Thursday,3,209.34666666666666
+Taylor's Bar,Heineken,2023-02-11,0.0,2023,2,Saturday,5,157.01
+Taylor's Bar,Heineken,2023-02-12,0.0,2023,2,Sunday,6,125.60799999999999
+Taylor's Bar,Heineken,2023-03-02,0.0,2023,3,Thursday,3,104.67333333333333
+Taylor's Bar,Heineken,2023-03-08,0.0,2023,3,Wednesday,2,89.72
+Taylor's Bar,Heineken,2023-04-12,439.41,2023,4,Wednesday,2,119.65285714285714
+Taylor's Bar,Heineken,2023-05-08,287.58,2023,5,Monday,0,103.85571428571428
+Taylor's Bar,Heineken,2023-06-01,253.91,2023,6,Thursday,3,140.12857142857143
+Taylor's Bar,Heineken,2023-06-03,484.1,2023,6,Saturday,5,209.28571428571428
+Taylor's Bar,Heineken,2023-06-07,253.19,2023,6,Wednesday,2,245.4557142857143
+Taylor's Bar,Heineken,2023-06-08,580.85,2023,6,Thursday,3,328.4342857142857
+Taylor's Bar,Heineken,2023-07-04,0.0,2023,7,Tuesday,1,328.4342857142857
+Taylor's Bar,Heineken,2023-07-07,266.53,2023,7,Friday,4,303.7371428571428
+Taylor's Bar,Heineken,2023-07-10,352.74,2023,7,Monday,0,313.04571428571427
+Taylor's Bar,Heineken,2023-08-02,284.34,2023,8,Wednesday,2,317.39285714285717
+Taylor's Bar,Heineken,2023-09-03,119.87,2023,9,Sunday,6,265.36
+Taylor's Bar,Heineken,2023-09-12,432.91,2023,9,Tuesday,1,291.03428571428566
+Taylor's Bar,Heineken,2023-10-09,494.31,2023,10,Monday,0,278.6714285714286
+Taylor's Bar,Heineken,2023-11-03,253.33,2023,11,Friday,4,314.8614285714286
+Taylor's Bar,Heineken,2023-12-02,567.6,2023,12,Saturday,5,357.87142857142857
+Taylor's Bar,Jack Daniels,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Taylor's Bar,Jack Daniels,2023-01-05,170.08,2023,1,Thursday,3,85.04
+Taylor's Bar,Jack Daniels,2023-01-10,237.54,2023,1,Tuesday,1,135.87333333333333
+Taylor's Bar,Jack Daniels,2023-02-01,311.3,2023,2,Wednesday,2,179.73000000000002
+Taylor's Bar,Jack Daniels,2023-02-05,433.28,2023,2,Sunday,6,230.44
+Taylor's Bar,Jack Daniels,2023-04-01,490.73,2023,4,Saturday,5,273.82166666666666
+Taylor's Bar,Jack Daniels,2023-04-04,279.32,2023,4,Tuesday,1,274.60714285714283
+Taylor's Bar,Jack Daniels,2023-05-03,409.8,2023,5,Wednesday,2,333.15000000000003
+Taylor's Bar,Jack Daniels,2023-05-06,236.25,2023,5,Saturday,5,342.6028571428572
+Taylor's Bar,Jack Daniels,2023-06-01,168.12,2023,6,Thursday,3,332.6857142857143
+Taylor's Bar,Jack Daniels,2023-06-06,250.53,2023,6,Tuesday,1,324.0042857142857
+Taylor's Bar,Jack Daniels,2023-06-07,169.71,2023,6,Wednesday,2,286.3514285714286
+Taylor's Bar,Jack Daniels,2023-07-04,0.0,2023,7,Tuesday,1,216.24714285714285
+Taylor's Bar,Jack Daniels,2023-07-05,118.87,2023,7,Wednesday,2,193.32571428571427
+Taylor's Bar,Jack Daniels,2023-07-07,391.05,2023,7,Friday,4,190.64714285714288
+Taylor's Bar,Jack Daniels,2023-07-09,321.81,2023,7,Sunday,6,202.87000000000003
+Taylor's Bar,Jack Daniels,2023-08-01,304.79,2023,8,Tuesday,1,222.3942857142857
+Taylor's Bar,Jack Daniels,2023-08-05,210.36,2023,8,Saturday,5,216.6557142857143
+Taylor's Bar,Jack Daniels,2023-08-07,410.72,2023,8,Monday,0,251.08571428571426
+Taylor's Bar,Jack Daniels,2023-09-02,217.35,2023,9,Saturday,5,282.1357142857143
+Taylor's Bar,Jack Daniels,2023-09-06,207.64,2023,9,Wednesday,2,294.81714285714287
+Taylor's Bar,Jack Daniels,2023-09-08,209.14,2023,9,Friday,4,268.83
+Taylor's Bar,Jack Daniels,2023-09-10,430.92,2023,9,Sunday,6,284.4171428571429
+Taylor's Bar,Jack Daniels,2023-11-06,59.39,2023,11,Monday,0,249.35999999999999
+Taylor's Bar,Jack Daniels,2023-11-09,0.0,2023,11,Thursday,3,219.3085714285714
+Taylor's Bar,Jack Daniels,2023-12-01,421.23,2023,12,Friday,4,220.81
+Taylor's Bar,Jack Daniels,2023-12-10,414.88,2023,12,Sunday,6,249.0285714285714
+Taylor's Bar,Jameson,2023-01-02,114.08,2023,1,Monday,0,114.08
+Taylor's Bar,Jameson,2023-01-03,400.99,2023,1,Tuesday,1,257.535
+Taylor's Bar,Jameson,2023-01-06,460.69,2023,1,Friday,4,325.25333333333333
+Taylor's Bar,Jameson,2023-01-11,107.38,2023,1,Wednesday,2,270.78499999999997
+Taylor's Bar,Jameson,2023-02-02,222.88,2023,2,Thursday,3,261.204
+Taylor's Bar,Jameson,2023-02-04,158.56,2023,2,Saturday,5,244.09666666666666
+Taylor's Bar,Jameson,2023-02-12,397.41,2023,2,Sunday,6,265.99857142857144
+Taylor's Bar,Jameson,2023-03-01,257.25,2023,3,Wednesday,2,286.4514285714286
+Taylor's Bar,Jameson,2023-03-05,583.19,2023,3,Sunday,6,312.48
+Taylor's Bar,Jameson,2023-03-07,559.79,2023,3,Tuesday,1,326.63714285714286
+Taylor's Bar,Jameson,2023-03-10,121.33,2023,3,Friday,4,328.63
+Taylor's Bar,Jameson,2023-04-05,485.45,2023,4,Wednesday,2,366.13999999999993
+Taylor's Bar,Jameson,2023-04-11,102.19,2023,4,Tuesday,1,358.0871428571428
+Taylor's Bar,Jameson,2023-05-02,348.08,2023,5,Tuesday,1,351.03999999999996
+Taylor's Bar,Jameson,2023-07-03,133.61,2023,7,Monday,0,333.3771428571428
+Taylor's Bar,Jameson,2023-08-06,110.4,2023,8,Sunday,6,265.8357142857143
+Taylor's Bar,Jameson,2023-09-01,231.28,2023,9,Friday,4,218.90571428571428
+Taylor's Bar,Jameson,2023-09-05,154.72,2023,9,Tuesday,1,223.6757142857143
+Taylor's Bar,Jameson,2023-10-02,290.78,2023,10,Monday,0,195.8657142857143
+Taylor's Bar,Jameson,2023-10-03,379.94,2023,10,Tuesday,1,235.5442857142857
+Taylor's Bar,Jameson,2023-10-11,272.77,2023,10,Wednesday,2,224.78571428571428
+Taylor's Bar,Jameson,2023-11-04,594.96,2023,11,Saturday,5,290.6928571428571
+Taylor's Bar,Jameson,2023-11-05,205.11,2023,11,Sunday,6,304.22285714285715
+Taylor's Bar,Jameson,2023-11-10,264.88,2023,11,Friday,4,309.0228571428571
+Taylor's Bar,Jameson,2023-12-05,511.41,2023,12,Tuesday,1,359.9785714285714
+Taylor's Bar,Jameson,2023-12-06,280.36,2023,12,Wednesday,2,358.48999999999995
+Taylor's Bar,Jim Beam,2023-01-07,494.68,2023,1,Saturday,5,494.68
+Taylor's Bar,Jim Beam,2023-01-09,286.31,2023,1,Monday,0,390.495
+Taylor's Bar,Jim Beam,2023-02-03,495.47,2023,2,Friday,4,425.4866666666667
+Taylor's Bar,Jim Beam,2023-02-10,464.64,2023,2,Friday,4,435.275
+Taylor's Bar,Jim Beam,2023-03-03,131.92,2023,3,Friday,4,374.604
+Taylor's Bar,Jim Beam,2023-03-04,180.16,2023,3,Saturday,5,342.19666666666666
+Taylor's Bar,Jim Beam,2023-03-11,368.63,2023,3,Saturday,5,345.97285714285715
+Taylor's Bar,Jim Beam,2023-04-03,408.19,2023,4,Monday,0,333.6171428571428
+Taylor's Bar,Jim Beam,2023-04-06,396.36,2023,4,Thursday,3,349.3385714285714
+Taylor's Bar,Jim Beam,2023-04-07,165.11,2023,4,Friday,4,302.14428571428573
+Taylor's Bar,Jim Beam,2023-04-08,140.08,2023,4,Saturday,5,255.77857142857144
+Taylor's Bar,Jim Beam,2023-04-09,219.69,2023,4,Sunday,6,268.31714285714287
+Taylor's Bar,Jim Beam,2023-04-12,366.42,2023,4,Wednesday,2,294.92571428571426
+Taylor's Bar,Jim Beam,2023-05-11,341.37,2023,5,Thursday,3,291.0314285714286
+Taylor's Bar,Jim Beam,2023-05-12,340.32,2023,5,Friday,4,281.3357142857143
+Taylor's Bar,Jim Beam,2023-06-04,367.73,2023,6,Sunday,6,277.2457142857143
+Taylor's Bar,Jim Beam,2023-06-10,125.43,2023,6,Saturday,5,271.57714285714286
+Taylor's Bar,Jim Beam,2023-06-11,451.63,2023,6,Sunday,6,316.0842857142857
+Taylor's Bar,Jim Beam,2023-06-12,355.06,2023,6,Monday,0,335.42285714285714
+Taylor's Bar,Jim Beam,2023-07-06,511.14,2023,7,Thursday,3,356.09714285714284
+Taylor's Bar,Jim Beam,2023-08-08,478.27,2023,8,Tuesday,1,375.6542857142857
+Taylor's Bar,Jim Beam,2023-08-11,319.44,2023,8,Friday,4,372.6714285714285
+Taylor's Bar,Jim Beam,2023-09-04,0.0,2023,9,Monday,0,320.1385714285714
+Taylor's Bar,Jim Beam,2023-10-07,270.99,2023,10,Saturday,5,340.9328571428572
+Taylor's Bar,Jim Beam,2023-10-12,536.43,2023,10,Thursday,3,353.04714285714283
+Taylor's Bar,Jim Beam,2023-11-02,409.44,2023,11,Thursday,3,360.8157142857143
+Taylor's Bar,Jim Beam,2023-11-07,502.53,2023,11,Tuesday,1,359.5857142857143
+Taylor's Bar,Jim Beam,2023-11-08,246.41,2023,11,Wednesday,2,326.4628571428571
+Taylor's Bar,Jim Beam,2023-11-12,587.72,2023,11,Sunday,6,364.7885714285714
+Taylor's Bar,Jim Beam,2023-12-03,952.32,2023,12,Sunday,6,500.8342857142857
+Taylor's Bar,Jim Beam,2023-12-04,542.69,2023,12,Monday,0,539.6485714285715
+Taylor's Bar,Jim Beam,2023-12-08,532.39,2023,12,Friday,4,539.0714285714286
+Taylor's Bar,Jim Beam,2023-12-12,341.12,2023,12,Tuesday,1,529.3114285714286
+Taylor's Bar,Jim Beam,2024-01-01,253.33,2024,1,Monday,0,493.7114285714286
+Taylor's Bar,Malibu,2023-01-02,497.71,2023,1,Monday,0,497.71
+Taylor's Bar,Malibu,2023-01-05,409.14,2023,1,Thursday,3,453.42499999999995
+Taylor's Bar,Malibu,2023-01-07,553.38,2023,1,Saturday,5,486.74333333333334
+Taylor's Bar,Malibu,2023-01-11,388.22,2023,1,Wednesday,2,462.1125
+Taylor's Bar,Malibu,2023-02-01,134.09,2023,2,Wednesday,2,396.508
+Taylor's Bar,Malibu,2023-02-12,0.0,2023,2,Sunday,6,330.42333333333335
+Taylor's Bar,Malibu,2023-03-12,0.0,2023,3,Sunday,6,283.21999999999997
+Taylor's Bar,Malibu,2023-04-02,0.0,2023,4,Sunday,6,212.1185714285714
+Taylor's Bar,Malibu,2023-04-08,260.07,2023,4,Saturday,5,190.82285714285717
+Taylor's Bar,Malibu,2023-05-03,143.14,2023,5,Wednesday,2,132.21714285714285
+Taylor's Bar,Malibu,2023-05-08,202.16,2023,5,Monday,0,105.63714285714285
+Taylor's Bar,Malibu,2023-05-11,564.9,2023,5,Thursday,3,167.18142857142857
+Taylor's Bar,Malibu,2023-06-03,0.0,2023,6,Saturday,5,167.18142857142857
+Taylor's Bar,Malibu,2023-06-07,0.0,2023,6,Wednesday,2,167.18142857142857
+Taylor's Bar,Malibu,2023-07-04,0.0,2023,7,Tuesday,1,167.18142857142857
+Taylor's Bar,Malibu,2023-07-09,568.56,2023,7,Sunday,6,211.25142857142853
+Taylor's Bar,Malibu,2023-08-04,333.3,2023,8,Friday,4,238.41714285714286
+Taylor's Bar,Malibu,2023-08-06,149.07,2023,8,Sunday,6,230.83285714285714
+Taylor's Bar,Malibu,2023-08-11,333.74,2023,8,Friday,4,197.80999999999997
+Taylor's Bar,Malibu,2023-09-01,461.0,2023,9,Friday,4,263.6671428571429
+Taylor's Bar,Malibu,2023-09-09,428.17,2023,9,Saturday,5,324.8342857142857
+Taylor's Bar,Malibu,2023-09-11,460.33,2023,9,Monday,0,390.5957142857143
+Taylor's Bar,Malibu,2023-10-03,226.8,2023,10,Tuesday,1,341.77285714285716
+Taylor's Bar,Malibu,2023-10-06,140.59,2023,10,Friday,4,314.24285714285713
+Taylor's Bar,Malibu,2023-11-03,363.96,2023,11,Friday,4,344.9414285714286
+Taylor's Bar,Malibu,2023-11-07,460.29,2023,11,Tuesday,1,363.02
+Taylor's Bar,Malibu,2023-11-08,229.22,2023,11,Wednesday,2,329.90857142857146
+Taylor's Bar,Malibu,2023-12-07,332.73,2023,12,Thursday,3,316.2742857142857
+Taylor's Bar,Malibu,2023-12-09,163.83,2023,12,Saturday,5,273.9171428571429
+Taylor's Bar,Miller,2023-01-07,142.1,2023,1,Saturday,5,142.1
+Taylor's Bar,Miller,2023-01-08,444.16,2023,1,Sunday,6,293.13
+Taylor's Bar,Miller,2023-02-03,248.77,2023,2,Friday,4,278.34333333333336
+Taylor's Bar,Miller,2023-02-09,383.18,2023,2,Thursday,3,304.5525
+Taylor's Bar,Miller,2023-04-02,253.2,2023,4,Sunday,6,294.28200000000004
+Taylor's Bar,Miller,2023-04-07,273.64,2023,4,Friday,4,290.84166666666664
+Taylor's Bar,Miller,2023-04-10,0.0,2023,4,Monday,0,249.29285714285714
+Taylor's Bar,Miller,2023-05-04,564.9,2023,5,Thursday,3,309.6928571428572
+Taylor's Bar,Miller,2023-06-02,0.0,2023,6,Friday,4,246.24142857142857
+Taylor's Bar,Miller,2023-06-05,0.0,2023,6,Monday,0,210.70285714285714
+Taylor's Bar,Miller,2023-07-06,0.0,2023,7,Thursday,3,155.96285714285713
+Taylor's Bar,Miller,2023-08-05,542.78,2023,8,Saturday,5,197.33142857142857
+Taylor's Bar,Miller,2023-08-09,365.65,2023,8,Wednesday,2,210.47571428571428
+Taylor's Bar,Miller,2023-09-08,578.1,2023,9,Friday,4,293.0614285714286
+Taylor's Bar,Miller,2023-10-01,0.0,2023,10,Sunday,6,212.36142857142858
+Taylor's Bar,Miller,2023-10-03,0.0,2023,10,Tuesday,1,212.36142857142858
+Taylor's Bar,Miller,2023-10-04,0.0,2023,10,Wednesday,2,212.36142857142858
+Taylor's Bar,Miller,2023-10-06,0.0,2023,10,Friday,4,212.36142857142858
+Taylor's Bar,Miller,2023-10-10,0.0,2023,10,Tuesday,1,134.82142857142858
+Taylor's Bar,Miller,2023-10-11,570.23,2023,10,Wednesday,2,164.04714285714286
+Taylor's Bar,Miller,2023-11-02,261.61,2023,11,Thursday,3,118.83428571428571
+Taylor's Bar,Miller,2023-12-03,0.0,2023,12,Sunday,6,118.83428571428571
+Taylor's Bar,Miller,2023-12-05,0.0,2023,12,Tuesday,1,118.83428571428571
+Taylor's Bar,Miller,2023-12-08,0.0,2023,12,Friday,4,118.83428571428571
+Taylor's Bar,Smirnoff,2023-01-09,412.94,2023,1,Monday,0,412.94
+Taylor's Bar,Smirnoff,2023-02-04,279.98,2023,2,Saturday,5,346.46000000000004
+Taylor's Bar,Smirnoff,2023-02-08,326.65,2023,2,Wednesday,2,339.8566666666666
+Taylor's Bar,Smirnoff,2023-02-09,147.94,2023,2,Thursday,3,291.8775
+Taylor's Bar,Smirnoff,2023-03-02,530.11,2023,3,Thursday,3,339.524
+Taylor's Bar,Smirnoff,2023-03-09,325.95,2023,3,Thursday,3,337.26166666666666
+Taylor's Bar,Smirnoff,2023-03-10,187.02,2023,3,Friday,4,315.79857142857145
+Taylor's Bar,Smirnoff,2023-03-11,146.22,2023,3,Saturday,5,277.69571428571425
+Taylor's Bar,Smirnoff,2023-04-12,148.87,2023,4,Wednesday,2,258.9657142857143
+Taylor's Bar,Smirnoff,2023-05-04,569.17,2023,5,Thursday,3,293.6114285714285
+Taylor's Bar,Smirnoff,2023-05-05,506.48,2023,5,Friday,4,344.83142857142855
+Taylor's Bar,Smirnoff,2023-05-09,265.49,2023,5,Tuesday,1,307.0285714285714
+Taylor's Bar,Smirnoff,2023-06-09,461.2,2023,6,Friday,4,326.34999999999997
+Taylor's Bar,Smirnoff,2023-06-11,485.01,2023,6,Sunday,6,368.92
+Taylor's Bar,Smirnoff,2023-07-07,524.52,2023,7,Friday,4,422.9628571428571
+Taylor's Bar,Smirnoff,2023-07-09,386.88,2023,7,Sunday,6,456.9642857142857
+Taylor's Bar,Smirnoff,2023-07-11,599.56,2023,7,Tuesday,1,461.30571428571426
+Taylor's Bar,Smirnoff,2023-08-05,0.0,2023,8,Saturday,5,388.95142857142855
+Taylor's Bar,Smirnoff,2023-09-06,0.0,2023,9,Wednesday,2,351.0242857142857
+Taylor's Bar,Smirnoff,2023-09-07,0.0,2023,9,Thursday,3,285.1385714285714
+Taylor's Bar,Smirnoff,2023-09-10,347.75,2023,9,Sunday,6,265.53000000000003
+Taylor's Bar,Smirnoff,2023-10-06,0.0,2023,10,Friday,4,190.59857142857143
+Taylor's Bar,Smirnoff,2023-10-07,0.0,2023,10,Saturday,5,135.32999999999998
+Taylor's Bar,Smirnoff,2023-11-02,495.09,2023,11,Thursday,3,120.40571428571427
+Taylor's Bar,Smirnoff,2023-11-09,544.05,2023,11,Thursday,3,198.12714285714284
+Taylor's Bar,Smirnoff,2023-11-10,376.37,2023,11,Friday,4,251.89428571428567
+Taylor's Bar,Smirnoff,2023-12-09,376.04,2023,12,Saturday,5,305.6142857142857
+Taylor's Bar,Smirnoff,2023-12-10,555.8,2023,12,Sunday,6,335.3357142857143
+Taylor's Bar,Sutter Home,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Taylor's Bar,Sutter Home,2023-01-10,121.83,2023,1,Tuesday,1,60.915
+Taylor's Bar,Sutter Home,2023-01-12,342.47,2023,1,Thursday,3,154.76666666666668
+Taylor's Bar,Sutter Home,2023-03-04,319.31,2023,3,Saturday,5,195.9025
+Taylor's Bar,Sutter Home,2023-03-06,399.02,2023,3,Monday,0,236.526
+Taylor's Bar,Sutter Home,2023-03-09,373.85,2023,3,Thursday,3,259.41333333333336
+Taylor's Bar,Sutter Home,2023-04-02,0.0,2023,4,Sunday,6,222.3542857142857
+Taylor's Bar,Sutter Home,2023-04-03,447.2,2023,4,Monday,0,286.24
+Taylor's Bar,Sutter Home,2023-04-12,315.3,2023,4,Wednesday,2,313.87857142857143
+Taylor's Bar,Sutter Home,2023-05-06,356.88,2023,5,Saturday,5,315.9371428571429
+Taylor's Bar,Sutter Home,2023-06-05,0.0,2023,6,Monday,0,270.32142857142856
+Taylor's Bar,Sutter Home,2023-07-11,207.36,2023,7,Tuesday,1,242.9414285714286
+Taylor's Bar,Sutter Home,2023-08-02,0.0,2023,8,Wednesday,2,189.53428571428572
+Taylor's Bar,Sutter Home,2023-08-07,0.0,2023,8,Monday,0,189.53428571428572
+Taylor's Bar,Sutter Home,2023-08-08,0.0,2023,8,Tuesday,1,125.64857142857143
+Taylor's Bar,Sutter Home,2023-09-02,317.64,2023,9,Saturday,5,125.98285714285714
+Taylor's Bar,Sutter Home,2023-10-01,121.23,2023,10,Sunday,6,92.31857142857143
+Taylor's Bar,Sutter Home,2023-11-03,182.55,2023,11,Friday,4,118.39714285714285
+Taylor's Bar,Sutter Home,2023-11-07,146.4,2023,11,Tuesday,1,109.68857142857144
+Taylor's Bar,Sutter Home,2023-11-08,354.76,2023,11,Wednesday,2,160.3685714285714
+Taylor's Bar,Sutter Home,2023-11-11,541.66,2023,11,Saturday,5,237.74857142857144
+Taylor's Bar,Sutter Home,2023-12-04,402.25,2023,12,Monday,0,295.2128571428571
+Taylor's Bar,Sutter Home,2023-12-07,483.36,2023,12,Thursday,3,318.88714285714286
+Taylor's Bar,Sutter Home,2023-12-10,186.02,2023,12,Sunday,6,328.14285714285717
+Taylor's Bar,Yellow Tail,2023-01-09,393.76,2023,1,Monday,0,393.76
+Taylor's Bar,Yellow Tail,2023-01-11,209.0,2023,1,Wednesday,2,301.38
+Taylor's Bar,Yellow Tail,2023-02-05,404.8,2023,2,Sunday,6,335.8533333333333
+Taylor's Bar,Yellow Tail,2023-02-08,228.46,2023,2,Wednesday,2,309.005
+Taylor's Bar,Yellow Tail,2023-02-09,409.54,2023,2,Thursday,3,329.11199999999997
+Taylor's Bar,Yellow Tail,2023-05-02,386.34,2023,5,Tuesday,1,338.65000000000003
+Taylor's Bar,Yellow Tail,2023-05-04,368.53,2023,5,Thursday,3,342.9185714285714
+Taylor's Bar,Yellow Tail,2023-05-07,0.0,2023,5,Sunday,6,286.6671428571429
+Taylor's Bar,Yellow Tail,2023-05-08,313.06,2023,5,Monday,0,301.53285714285715
+Taylor's Bar,Yellow Tail,2023-05-10,212.62,2023,5,Wednesday,2,274.0785714285715
+Taylor's Bar,Yellow Tail,2023-06-02,0.0,2023,6,Friday,4,241.4414285714286
+Taylor's Bar,Yellow Tail,2023-06-07,213.96,2023,6,Wednesday,2,213.50142857142856
+Taylor's Bar,Yellow Tail,2023-08-03,299.88,2023,8,Thursday,3,201.15
+Taylor's Bar,Yellow Tail,2023-08-05,354.46,2023,8,Saturday,5,199.14000000000001
+Taylor's Bar,Yellow Tail,2023-08-06,207.87,2023,8,Sunday,6,228.83571428571426
+Taylor's Bar,Yellow Tail,2023-08-11,544.03,2023,8,Friday,4,261.83142857142855
+Taylor's Bar,Yellow Tail,2023-09-04,0.0,2023,9,Monday,0,231.45714285714283
+Taylor's Bar,Yellow Tail,2023-09-07,0.0,2023,9,Thursday,3,231.45714285714283
+Taylor's Bar,Yellow Tail,2023-09-08,0.0,2023,9,Friday,4,200.89142857142858
+Taylor's Bar,Yellow Tail,2023-09-09,0.0,2023,9,Saturday,5,158.05142857142854
+Taylor's Bar,Yellow Tail,2023-09-10,502.16,2023,9,Sunday,6,179.15142857142857
+Taylor's Bar,Yellow Tail,2023-10-05,0.0,2023,10,Thursday,3,149.4557142857143
+Taylor's Bar,Yellow Tail,2023-10-07,0.0,2023,10,Saturday,5,71.73714285714286
+Taylor's Bar,Yellow Tail,2023-10-08,0.0,2023,10,Sunday,6,71.73714285714286
+Taylor's Bar,Yellow Tail,2023-10-10,0.0,2023,10,Tuesday,1,71.73714285714286
+Taylor's Bar,Yellow Tail,2023-11-04,0.0,2023,11,Saturday,5,71.73714285714286
+Taylor's Bar,Yellow Tail,2023-12-01,481.4,2023,12,Friday,4,140.50857142857143
+Taylor's Bar,Yellow Tail,2023-12-02,217.3,2023,12,Saturday,5,99.81428571428572
+Taylor's Bar,Yellow Tail,2023-12-11,366.65,2023,12,Monday,0,152.19285714285712
+Thomas's Bar,Absolut,2023-01-07,338.72,2023,1,Saturday,5,338.72
+Thomas's Bar,Absolut,2023-01-11,502.16,2023,1,Wednesday,2,420.44000000000005
+Thomas's Bar,Absolut,2023-02-05,177.27,2023,2,Sunday,6,339.3833333333334
+Thomas's Bar,Absolut,2023-02-11,465.36,2023,2,Saturday,5,370.87750000000005
+Thomas's Bar,Absolut,2023-02-12,383.56,2023,2,Sunday,6,373.41400000000004
+Thomas's Bar,Absolut,2023-03-07,107.7,2023,3,Tuesday,1,329.1283333333334
+Thomas's Bar,Absolut,2023-03-10,473.75,2023,3,Friday,4,349.7885714285714
+Thomas's Bar,Absolut,2023-04-03,153.22,2023,4,Monday,0,323.2885714285715
+Thomas's Bar,Absolut,2023-05-04,315.87,2023,5,Thursday,3,296.67571428571426
+Thomas's Bar,Absolut,2023-05-07,316.25,2023,5,Sunday,6,316.53000000000003
+Thomas's Bar,Absolut,2023-05-09,229.9,2023,5,Tuesday,1,282.89285714285717
+Thomas's Bar,Absolut,2023-06-02,194.17,2023,6,Friday,4,255.83714285714285
+Thomas's Bar,Absolut,2023-06-06,149.88,2023,6,Tuesday,1,261.86285714285714
+Thomas's Bar,Absolut,2023-06-07,496.76,2023,6,Wednesday,2,265.15
+Thomas's Bar,Absolut,2023-06-09,296.06,2023,6,Friday,4,285.5557142857143
+Thomas's Bar,Absolut,2023-06-11,327.39,2023,6,Sunday,6,287.20142857142855
+Thomas's Bar,Absolut,2023-07-11,479.63,2023,7,Tuesday,1,310.5414285714286
+Thomas's Bar,Absolut,2023-07-12,573.42,2023,7,Wednesday,2,359.61571428571426
+Thomas's Bar,Absolut,2023-08-06,310.31,2023,8,Sunday,6,376.20714285714286
+Thomas's Bar,Absolut,2023-09-10,495.79,2023,9,Sunday,6,425.6228571428572
+Thomas's Bar,Absolut,2023-10-02,236.54,2023,10,Monday,0,388.4485714285714
+Thomas's Bar,Absolut,2023-11-03,143.27,2023,11,Friday,4,366.62142857142857
+Thomas's Bar,Absolut,2023-11-05,182.15,2023,11,Sunday,6,345.8728571428572
+Thomas's Bar,Absolut,2023-11-10,359.51,2023,11,Friday,4,328.7128571428571
+Thomas's Bar,Absolut,2023-12-06,354.39,2023,12,Wednesday,2,297.42285714285714
+Thomas's Bar,Absolut,2023-12-10,473.61,2023,12,Sunday,6,320.7514285714286
+Thomas's Bar,Absolut,2024-01-01,128.52,2024,1,Monday,0,268.2842857142857
+Thomas's Bar,Bacardi,2023-01-03,382.12,2023,1,Tuesday,1,382.12
+Thomas's Bar,Bacardi,2023-01-10,488.68,2023,1,Tuesday,1,435.4
+Thomas's Bar,Bacardi,2023-02-05,284.67,2023,2,Sunday,6,385.1566666666667
+Thomas's Bar,Bacardi,2023-02-07,519.15,2023,2,Tuesday,1,418.655
+Thomas's Bar,Bacardi,2023-03-02,421.82,2023,3,Thursday,3,419.288
+Thomas's Bar,Bacardi,2023-04-12,489.44,2023,4,Wednesday,2,430.98
+Thomas's Bar,Bacardi,2023-05-03,568.3,2023,5,Wednesday,2,450.59714285714284
+Thomas's Bar,Bacardi,2023-06-05,560.76,2023,6,Monday,0,476.1171428571429
+Thomas's Bar,Bacardi,2023-06-12,497.75,2023,6,Monday,0,477.41285714285715
+Thomas's Bar,Bacardi,2023-07-02,180.38,2023,7,Sunday,6,462.5142857142858
+Thomas's Bar,Bacardi,2023-07-03,530.44,2023,7,Monday,0,464.1271428571429
+Thomas's Bar,Bacardi,2023-07-04,0.0,2023,7,Tuesday,1,403.8671428571428
+Thomas's Bar,Bacardi,2023-08-02,523.2,2023,8,Wednesday,2,408.69
+Thomas's Bar,Bacardi,2023-08-06,171.9,2023,8,Sunday,6,352.0614285714286
+Thomas's Bar,Bacardi,2023-08-07,141.1,2023,8,Monday,0,292.11
+Thomas's Bar,Bacardi,2023-09-03,105.28,2023,9,Sunday,6,236.04285714285714
+Thomas's Bar,Bacardi,2023-10-02,275.2,2023,10,Monday,0,249.58857142857144
+Thomas's Bar,Bacardi,2023-10-06,349.42,2023,10,Friday,4,223.72857142857146
+Thomas's Bar,Bacardi,2023-10-11,253.02,2023,10,Wednesday,2,259.87428571428575
+Thomas's Bar,Bacardi,2023-11-03,503.07,2023,11,Friday,4,256.99857142857144
+Thomas's Bar,Bacardi,2023-11-04,174.34,2023,11,Saturday,5,257.34714285714284
+Thomas's Bar,Bacardi,2023-11-06,246.88,2023,11,Monday,0,272.4585714285714
+Thomas's Bar,Bacardi,2023-12-10,563.21,2023,12,Sunday,6,337.8771428571429
+Thomas's Bar,Bacardi,2024-01-01,572.6,2024,1,Monday,0,380.3628571428572
+Thomas's Bar,Barefoot,2023-01-05,530.31,2023,1,Thursday,3,530.31
+Thomas's Bar,Barefoot,2023-01-06,165.34,2023,1,Friday,4,347.825
+Thomas's Bar,Barefoot,2023-01-08,226.31,2023,1,Sunday,6,307.32
+Thomas's Bar,Barefoot,2023-01-12,0.0,2023,1,Thursday,3,230.48999999999998
+Thomas's Bar,Barefoot,2023-02-05,449.55,2023,2,Sunday,6,274.302
+Thomas's Bar,Barefoot,2023-02-07,355.41,2023,2,Tuesday,1,287.82
+Thomas's Bar,Barefoot,2023-02-09,229.08,2023,2,Thursday,3,279.42857142857144
+Thomas's Bar,Barefoot,2023-03-11,381.21,2023,3,Saturday,5,258.12857142857143
+Thomas's Bar,Barefoot,2023-04-01,400.36,2023,4,Saturday,5,291.70285714285717
+Thomas's Bar,Barefoot,2023-04-05,447.22,2023,4,Wednesday,2,323.26142857142855
+Thomas's Bar,Barefoot,2023-04-08,461.52,2023,4,Saturday,5,389.1928571428571
+Thomas's Bar,Barefoot,2023-05-01,533.55,2023,5,Monday,0,401.1928571428572
+Thomas's Bar,Barefoot,2023-06-09,247.64,2023,6,Friday,4,385.79714285714283
+Thomas's Bar,Barefoot,2023-08-02,158.3,2023,8,Wednesday,2,375.6857142857143
+Thomas's Bar,Barefoot,2023-08-03,0.0,2023,8,Thursday,3,321.2271428571429
+Thomas's Bar,Barefoot,2023-08-09,0.0,2023,8,Wednesday,2,264.0328571428571
+Thomas's Bar,Barefoot,2023-08-10,0.0,2023,8,Thursday,3,200.14428571428567
+Thomas's Bar,Barefoot,2023-08-12,0.0,2023,8,Saturday,5,134.21285714285713
+Thomas's Bar,Barefoot,2023-09-10,543.21,2023,9,Sunday,6,135.59285714285716
+Thomas's Bar,Barefoot,2023-09-12,97.18,2023,9,Tuesday,1,114.09857142857143
+Thomas's Bar,Barefoot,2023-10-01,267.59,2023,10,Sunday,6,129.7114285714286
+Thomas's Bar,Barefoot,2023-10-10,516.87,2023,10,Tuesday,1,203.54999999999998
+Thomas's Bar,Barefoot,2023-11-08,340.8,2023,11,Wednesday,2,252.2357142857143
+Thomas's Bar,Barefoot,2023-11-10,245.15,2023,11,Friday,4,287.25714285714287
+Thomas's Bar,Barefoot,2023-12-06,370.12,2023,12,Wednesday,2,340.13142857142856
+Thomas's Bar,Barefoot,2023-12-12,255.23,2023,12,Tuesday,1,298.99142857142857
+Thomas's Bar,Budweiser,2023-01-04,461.73,2023,1,Wednesday,2,461.73
+Thomas's Bar,Budweiser,2023-01-09,417.93,2023,1,Monday,0,439.83000000000004
+Thomas's Bar,Budweiser,2023-01-12,517.64,2023,1,Thursday,3,465.76666666666665
+Thomas's Bar,Budweiser,2023-02-03,0.0,2023,2,Friday,4,349.325
+Thomas's Bar,Budweiser,2023-02-07,0.0,2023,2,Tuesday,1,279.46
+Thomas's Bar,Budweiser,2023-02-08,0.0,2023,2,Wednesday,2,232.88333333333333
+Thomas's Bar,Budweiser,2023-03-05,0.0,2023,3,Sunday,6,199.6142857142857
+Thomas's Bar,Budweiser,2023-05-11,465.29,2023,5,Thursday,3,200.12285714285713
+Thomas's Bar,Budweiser,2023-06-02,552.3,2023,6,Friday,4,219.3185714285714
+Thomas's Bar,Budweiser,2023-08-10,147.06,2023,8,Thursday,3,166.3785714285714
+Thomas's Bar,Budweiser,2023-09-05,545.44,2023,9,Tuesday,1,244.29857142857142
+Thomas's Bar,Budweiser,2023-09-08,233.08,2023,9,Friday,4,277.5957142857143
+Thomas's Bar,Budweiser,2023-09-12,286.5,2023,9,Tuesday,1,318.5242857142857
+Thomas's Bar,Budweiser,2023-10-05,247.53,2023,10,Thursday,3,353.88571428571424
+Thomas's Bar,Budweiser,2023-10-07,1048.77,2023,10,Saturday,5,437.24000000000007
+Thomas's Bar,Budweiser,2023-10-09,212.71,2023,10,Monday,0,388.72714285714284
+Thomas's Bar,Budweiser,2023-11-10,361.69,2023,11,Friday,4,419.3885714285714
+Thomas's Bar,Budweiser,2023-11-11,225.5,2023,11,Saturday,5,373.68285714285713
+Thomas's Bar,Budweiser,2023-12-05,377.7,2023,12,Tuesday,1,394.34285714285716
+Thomas's Bar,Budweiser,2023-12-06,428.03,2023,12,Wednesday,2,414.56142857142856
+Thomas's Bar,Budweiser,2023-12-12,144.48,2023,12,Tuesday,1,399.84000000000003
+Thomas's Bar,Captain Morgan,2023-01-02,533.8,2023,1,Monday,0,533.8
+Thomas's Bar,Captain Morgan,2023-01-04,285.25,2023,1,Wednesday,2,409.525
+Thomas's Bar,Captain Morgan,2023-02-02,817.49,2023,2,Thursday,3,545.5133333333333
+Thomas's Bar,Captain Morgan,2023-02-04,237.76,2023,2,Saturday,5,468.575
+Thomas's Bar,Captain Morgan,2023-02-10,515.95,2023,2,Friday,4,478.05
+Thomas's Bar,Captain Morgan,2023-02-12,290.88,2023,2,Sunday,6,446.855
+Thomas's Bar,Captain Morgan,2023-03-01,518.04,2023,3,Wednesday,2,457.0242857142857
+Thomas's Bar,Captain Morgan,2023-03-05,350.73,2023,3,Sunday,6,430.87142857142857
+Thomas's Bar,Captain Morgan,2023-03-06,302.07,2023,3,Monday,0,433.2742857142857
+Thomas's Bar,Captain Morgan,2023-03-09,160.33,2023,3,Thursday,3,339.39428571428573
+Thomas's Bar,Captain Morgan,2023-04-04,0.0,2023,4,Tuesday,1,305.42857142857144
+Thomas's Bar,Captain Morgan,2023-04-07,187.51,2023,4,Friday,4,258.50857142857143
+Thomas's Bar,Captain Morgan,2023-05-02,38.25,2023,5,Tuesday,1,222.4185714285714
+Thomas's Bar,Captain Morgan,2023-05-04,394.42,2023,5,Thursday,3,204.75857142857143
+Thomas's Bar,Captain Morgan,2023-05-10,227.92,2023,5,Wednesday,2,187.21428571428572
+Thomas's Bar,Captain Morgan,2023-05-11,271.63,2023,5,Thursday,3,182.8657142857143
+Thomas's Bar,Captain Morgan,2023-05-12,138.8,2023,5,Friday,4,179.79
+Thomas's Bar,Captain Morgan,2023-06-03,0.0,2023,6,Saturday,5,179.79
+Thomas's Bar,Captain Morgan,2023-06-06,0.0,2023,6,Tuesday,1,153.00285714285715
+Thomas's Bar,Captain Morgan,2023-06-08,0.0,2023,6,Thursday,3,147.53857142857143
+Thomas's Bar,Captain Morgan,2023-06-09,0.0,2023,6,Friday,4,91.19285714285714
+Thomas's Bar,Captain Morgan,2023-07-11,0.0,2023,7,Tuesday,1,58.63285714285714
+Thomas's Bar,Captain Morgan,2023-08-04,470.31,2023,8,Friday,4,87.01571428571428
+Thomas's Bar,Captain Morgan,2023-08-08,176.22,2023,8,Tuesday,1,92.36142857142856
+Thomas's Bar,Captain Morgan,2023-08-10,380.36,2023,8,Thursday,3,146.6985714285714
+Thomas's Bar,Captain Morgan,2023-08-11,112.01,2023,8,Friday,4,162.70000000000002
+Thomas's Bar,Captain Morgan,2023-09-07,0.0,2023,9,Thursday,3,162.70000000000002
+Thomas's Bar,Captain Morgan,2023-09-12,210.46,2023,9,Tuesday,1,192.7657142857143
+Thomas's Bar,Captain Morgan,2023-10-01,358.34,2023,10,Sunday,6,243.95714285714286
+Thomas's Bar,Captain Morgan,2023-10-04,287.51,2023,10,Wednesday,2,217.84285714285716
+Thomas's Bar,Captain Morgan,2023-10-12,223.03,2023,10,Thursday,3,224.53
+Thomas's Bar,Captain Morgan,2023-11-02,541.31,2023,11,Thursday,3,247.52285714285713
+Thomas's Bar,Captain Morgan,2023-11-05,277.77,2023,11,Sunday,6,271.2028571428571
+Thomas's Bar,Captain Morgan,2023-11-07,579.86,2023,11,Tuesday,1,354.03999999999996
+Thomas's Bar,Captain Morgan,2023-11-11,122.8,2023,11,Saturday,5,341.51714285714286
+Thomas's Bar,Captain Morgan,2023-12-04,274.57,2023,12,Monday,0,329.55
+Thomas's Bar,Captain Morgan,2023-12-06,300.55,2023,12,Wednesday,2,331.41285714285715
+Thomas's Bar,Captain Morgan,2023-12-11,590.28,2023,12,Monday,0,383.8771428571429
+Thomas's Bar,Coors,2023-01-06,456.45,2023,1,Friday,4,456.45
+Thomas's Bar,Coors,2023-01-07,161.86,2023,1,Saturday,5,309.155
+Thomas's Bar,Coors,2023-01-11,0.0,2023,1,Wednesday,2,206.10333333333332
+Thomas's Bar,Coors,2023-02-02,374.27,2023,2,Thursday,3,248.14499999999998
+Thomas's Bar,Coors,2023-03-09,479.45,2023,3,Thursday,3,294.406
+Thomas's Bar,Coors,2023-04-07,417.63,2023,4,Friday,4,314.9433333333333
+Thomas's Bar,Coors,2023-06-01,0.0,2023,6,Thursday,3,269.95142857142855
+Thomas's Bar,Coors,2023-06-03,0.0,2023,6,Saturday,5,204.74428571428572
+Thomas's Bar,Coors,2023-07-02,138.7,2023,7,Sunday,6,201.43571428571428
+Thomas's Bar,Coors,2023-07-05,452.56,2023,7,Wednesday,2,266.08714285714285
+Thomas's Bar,Coors,2023-08-04,563.71,2023,8,Friday,4,293.15000000000003
+Thomas's Bar,Coors,2023-09-07,0.0,2023,9,Thursday,3,224.65714285714284
+Thomas's Bar,Coors,2023-09-11,0.0,2023,9,Monday,0,164.99571428571426
+Thomas's Bar,Coors,2023-10-03,441.75,2023,10,Tuesday,1,228.10285714285712
+Thomas's Bar,Coors,2023-10-06,356.37,2023,10,Friday,4,279.0128571428571
+Thomas's Bar,Coors,2023-10-08,169.92,2023,10,Sunday,6,283.47285714285715
+Thomas's Bar,Coors,2023-11-03,412.43,2023,11,Friday,4,277.73999999999995
+Thomas's Bar,Grey Goose,2023-01-03,561.63,2023,1,Tuesday,1,561.63
+Thomas's Bar,Grey Goose,2023-01-04,451.49,2023,1,Wednesday,2,506.56
+Thomas's Bar,Grey Goose,2023-01-06,507.09,2023,1,Friday,4,506.7366666666667
+Thomas's Bar,Grey Goose,2023-01-08,541.14,2023,1,Sunday,6,515.3375
+Thomas's Bar,Grey Goose,2023-01-12,114.05,2023,1,Thursday,3,435.08000000000004
+Thomas's Bar,Grey Goose,2023-02-02,0.0,2023,2,Thursday,3,362.56666666666666
+Thomas's Bar,Grey Goose,2023-02-06,527.73,2023,2,Monday,0,386.1614285714286
+Thomas's Bar,Grey Goose,2023-02-10,278.07,2023,2,Friday,4,345.6528571428571
+Thomas's Bar,Grey Goose,2023-03-02,560.06,2023,3,Thursday,3,361.16285714285715
+Thomas's Bar,Grey Goose,2023-03-04,214.14,2023,3,Saturday,5,319.31285714285707
+Thomas's Bar,Grey Goose,2023-03-09,153.43,2023,3,Thursday,3,263.92571428571426
+Thomas's Bar,Grey Goose,2023-03-11,563.53,2023,3,Saturday,5,328.13714285714286
+Thomas's Bar,Grey Goose,2023-03-12,191.32,2023,3,Sunday,6,355.4685714285714
+Thomas's Bar,Grey Goose,2023-04-04,403.39,2023,4,Tuesday,1,337.70571428571424
+Thomas's Bar,Grey Goose,2023-05-05,399.68,2023,5,Friday,4,355.07857142857137
+Thomas's Bar,Grey Goose,2023-06-03,156.9,2023,6,Saturday,5,297.4842857142857
+Thomas's Bar,Grey Goose,2023-06-10,294.07,2023,6,Saturday,5,308.90285714285716
+Thomas's Bar,Grey Goose,2023-07-04,0.0,2023,7,Tuesday,1,286.9842857142857
+Thomas's Bar,Grey Goose,2023-07-06,494.63,2023,7,Thursday,3,277.14142857142855
+Thomas's Bar,Grey Goose,2023-07-08,369.02,2023,7,Saturday,5,302.52714285714285
+Thomas's Bar,Grey Goose,2023-07-09,421.83,2023,7,Sunday,6,305.1614285714286
+Thomas's Bar,Grey Goose,2023-08-04,199.96,2023,8,Friday,4,276.63
+Thomas's Bar,Grey Goose,2023-08-10,221.24,2023,8,Thursday,3,285.82142857142856
+Thomas's Bar,Grey Goose,2023-09-04,0.0,2023,9,Monday,0,243.81142857142854
+Thomas's Bar,Grey Goose,2023-09-06,532.76,2023,9,Wednesday,2,319.91999999999996
+Thomas's Bar,Grey Goose,2023-09-11,122.8,2023,9,Monday,0,266.8014285714286
+Thomas's Bar,Grey Goose,2023-10-01,444.97,2023,10,Sunday,6,277.65142857142854
+Thomas's Bar,Grey Goose,2023-10-08,555.71,2023,10,Sunday,6,296.77714285714285
+Thomas's Bar,Grey Goose,2023-10-10,187.88,2023,10,Tuesday,1,295.0514285714286
+Thomas's Bar,Grey Goose,2023-10-11,508.42,2023,10,Wednesday,2,336.07714285714286
+Thomas's Bar,Grey Goose,2023-10-12,396.08,2023,10,Thursday,3,392.65999999999997
+Thomas's Bar,Grey Goose,2023-11-04,436.48,2023,11,Saturday,5,378.9057142857142
+Thomas's Bar,Grey Goose,2023-11-06,187.06,2023,11,Monday,0,388.0857142857143
+Thomas's Bar,Grey Goose,2023-12-01,439.55,2023,12,Friday,4,387.31142857142856
+Thomas's Bar,Grey Goose,2023-12-02,113.86,2023,12,Saturday,5,324.19000000000005
+Thomas's Bar,Grey Goose,2023-12-03,557.46,2023,12,Sunday,6,376.9871428571429
+Thomas's Bar,Grey Goose,2023-12-07,598.95,2023,12,Thursday,3,389.92
+Thomas's Bar,Grey Goose,2023-12-09,276.47,2023,12,Saturday,5,372.8328571428572
+Thomas's Bar,Heineken,2023-01-08,513.15,2023,1,Sunday,6,513.15
+Thomas's Bar,Heineken,2023-02-01,161.26,2023,2,Wednesday,2,337.205
+Thomas's Bar,Heineken,2023-02-06,150.18,2023,2,Monday,0,274.8633333333333
+Thomas's Bar,Heineken,2023-03-08,0.0,2023,3,Wednesday,2,206.14749999999998
+Thomas's Bar,Heineken,2023-04-08,450.85,2023,4,Saturday,5,255.08800000000002
+Thomas's Bar,Heineken,2023-05-01,427.55,2023,5,Monday,0,283.83166666666665
+Thomas's Bar,Heineken,2023-05-03,389.08,2023,5,Wednesday,2,298.8671428571429
+Thomas's Bar,Heineken,2023-05-09,326.24,2023,5,Tuesday,1,272.1657142857143
+Thomas's Bar,Heineken,2023-05-12,0.0,2023,5,Friday,4,249.12857142857143
+Thomas's Bar,Heineken,2023-06-04,350.58,2023,6,Sunday,6,277.75714285714287
+Thomas's Bar,Heineken,2023-06-08,176.01,2023,6,Thursday,3,302.90142857142854
+Thomas's Bar,Heineken,2023-07-01,850.54,2023,7,Saturday,5,360.0
+Thomas's Bar,Heineken,2023-07-07,257.62,2023,7,Friday,4,335.72428571428566
+Thomas's Bar,Heineken,2023-07-10,204.32,2023,7,Monday,0,309.33
+Thomas's Bar,Heineken,2023-07-12,102.95,2023,7,Wednesday,2,277.43142857142857
+Thomas's Bar,Heineken,2023-08-03,0.0,2023,8,Thursday,3,277.43142857142857
+Thomas's Bar,Heineken,2023-09-01,0.0,2023,9,Friday,4,227.34857142857143
+Thomas's Bar,Heineken,2023-09-02,0.0,2023,9,Saturday,5,202.2042857142857
+Thomas's Bar,Heineken,2023-10-10,471.74,2023,10,Tuesday,1,148.09
+Thomas's Bar,Heineken,2023-10-12,125.71,2023,10,Thursday,3,129.24571428571429
+Thomas's Bar,Jack Daniels,2023-01-12,270.47,2023,1,Thursday,3,270.47
+Thomas's Bar,Jack Daniels,2023-02-01,394.24,2023,2,Wednesday,2,332.355
+Thomas's Bar,Jack Daniels,2023-02-12,395.37,2023,2,Sunday,6,353.35999999999996
+Thomas's Bar,Jack Daniels,2023-03-10,563.82,2023,3,Friday,4,405.975
+Thomas's Bar,Jack Daniels,2023-03-11,119.33,2023,3,Saturday,5,348.646
+Thomas's Bar,Jack Daniels,2023-04-06,446.35,2023,4,Thursday,3,364.93
+Thomas's Bar,Jack Daniels,2023-04-08,337.41,2023,4,Saturday,5,360.99857142857144
+Thomas's Bar,Jack Daniels,2023-05-06,419.74,2023,5,Saturday,5,382.3228571428572
+Thomas's Bar,Jack Daniels,2023-05-08,134.12,2023,5,Monday,0,345.1628571428572
+Thomas's Bar,Jack Daniels,2023-05-12,380.93,2023,5,Friday,4,343.1
+Thomas's Bar,Jack Daniels,2023-06-02,370.38,2023,6,Friday,4,315.46571428571434
+Thomas's Bar,Jack Daniels,2023-06-08,350.24,2023,6,Thursday,3,348.45285714285717
+Thomas's Bar,Jack Daniels,2023-06-10,176.71,2023,6,Saturday,5,309.9328571428572
+Thomas's Bar,Jack Daniels,2023-07-04,0.0,2023,7,Tuesday,1,261.7314285714286
+Thomas's Bar,Jack Daniels,2023-07-07,387.64,2023,7,Friday,4,257.1457142857143
+Thomas's Bar,Jack Daniels,2023-07-11,456.81,2023,7,Tuesday,1,303.2442857142857
+Thomas's Bar,Jack Daniels,2023-08-05,204.35,2023,8,Saturday,5,278.0185714285714
+Thomas's Bar,Jack Daniels,2023-08-08,323.11,2023,8,Tuesday,1,271.2657142857143
+Thomas's Bar,Jack Daniels,2023-09-04,0.0,2023,9,Monday,0,221.23142857142855
+Thomas's Bar,Jack Daniels,2023-09-09,181.7,2023,9,Saturday,5,221.9442857142857
+Thomas's Bar,Jack Daniels,2023-10-06,599.31,2023,10,Friday,4,307.56
+Thomas's Bar,Jack Daniels,2023-10-09,548.8,2023,10,Monday,0,330.5828571428571
+Thomas's Bar,Jack Daniels,2023-12-05,142.66,2023,12,Tuesday,1,285.7042857142857
+Thomas's Bar,Jack Daniels,2023-12-07,498.85,2023,12,Thursday,3,327.7757142857143
+Thomas's Bar,Jack Daniels,2023-12-12,564.5,2023,12,Tuesday,1,362.25999999999993
+Thomas's Bar,Jameson,2023-01-02,143.76,2023,1,Monday,0,143.76
+Thomas's Bar,Jameson,2023-01-05,515.65,2023,1,Thursday,3,329.705
+Thomas's Bar,Jameson,2023-01-09,517.22,2023,1,Monday,0,392.21000000000004
+Thomas's Bar,Jameson,2023-02-02,54.35,2023,2,Thursday,3,307.745
+Thomas's Bar,Jameson,2023-02-04,142.18,2023,2,Saturday,5,274.632
+Thomas's Bar,Jameson,2023-02-08,279.13,2023,2,Wednesday,2,275.38166666666666
+Thomas's Bar,Jameson,2023-03-01,185.15,2023,3,Wednesday,2,262.49142857142857
+Thomas's Bar,Jameson,2023-03-05,298.09,2023,3,Sunday,6,284.5385714285714
+Thomas's Bar,Jameson,2023-03-06,210.19,2023,3,Monday,0,240.90142857142857
+Thomas's Bar,Jameson,2023-03-08,0.0,2023,3,Wednesday,2,167.01285714285717
+Thomas's Bar,Jameson,2023-03-12,336.58,2023,3,Sunday,6,207.33142857142857
+Thomas's Bar,Jameson,2023-04-01,461.96,2023,4,Saturday,5,253.0142857142857
+Thomas's Bar,Jameson,2023-04-11,221.56,2023,4,Tuesday,1,244.79
+Thomas's Bar,Jameson,2023-04-12,115.17,2023,4,Wednesday,2,234.79285714285714
+Thomas's Bar,Jameson,2023-05-02,182.39,2023,5,Tuesday,1,218.2642857142857
+Thomas's Bar,Jameson,2023-05-07,140.91,2023,5,Sunday,6,208.36714285714285
+Thomas's Bar,Jameson,2023-06-04,50.13,2023,6,Sunday,6,215.5285714285714
+Thomas's Bar,Jameson,2023-07-08,460.81,2023,7,Saturday,5,233.2757142857143
+Thomas's Bar,Jameson,2023-08-01,0.0,2023,8,Tuesday,1,167.28142857142856
+Thomas's Bar,Jameson,2023-09-08,270.37,2023,9,Friday,4,174.25428571428571
+Thomas's Bar,Jameson,2023-09-10,358.15,2023,9,Sunday,6,208.96571428571428
+Thomas's Bar,Jameson,2023-09-12,511.66,2023,9,Tuesday,1,256.00428571428574
+Thomas's Bar,Jameson,2023-10-01,28.31,2023,10,Sunday,6,239.91857142857143
+Thomas's Bar,Jameson,2023-10-05,0.0,2023,10,Thursday,3,232.7571428571429
+Thomas's Bar,Jameson,2023-11-02,0.0,2023,11,Thursday,3,166.92714285714285
+Thomas's Bar,Jameson,2023-11-07,0.0,2023,11,Tuesday,1,166.92714285714285
+Thomas's Bar,Jameson,2023-12-08,0.0,2023,12,Friday,4,128.30285714285714
+Thomas's Bar,Jim Beam,2023-01-03,230.66,2023,1,Tuesday,1,230.66
+Thomas's Bar,Jim Beam,2023-01-08,467.07,2023,1,Sunday,6,348.865
+Thomas's Bar,Jim Beam,2023-01-11,277.32,2023,1,Wednesday,2,325.01666666666665
+Thomas's Bar,Jim Beam,2023-02-03,0.0,2023,2,Friday,4,243.7625
+Thomas's Bar,Jim Beam,2023-02-05,191.14,2023,2,Sunday,6,233.238
+Thomas's Bar,Jim Beam,2023-02-06,303.78,2023,2,Monday,0,244.99499999999998
+Thomas's Bar,Jim Beam,2023-02-07,226.88,2023,2,Tuesday,1,242.40714285714284
+Thomas's Bar,Jim Beam,2023-03-03,356.7,2023,3,Friday,4,260.41285714285715
+Thomas's Bar,Jim Beam,2023-05-09,287.41,2023,5,Tuesday,1,234.74714285714285
+Thomas's Bar,Jim Beam,2023-05-11,111.88,2023,5,Thursday,3,211.11285714285714
+Thomas's Bar,Jim Beam,2023-06-03,525.86,2023,6,Saturday,5,286.2357142857143
+Thomas's Bar,Jim Beam,2023-06-05,475.96,2023,6,Monday,0,326.9242857142857
+Thomas's Bar,Jim Beam,2023-06-11,360.93,2023,6,Sunday,6,335.0885714285714
+Thomas's Bar,Jim Beam,2023-07-02,574.09,2023,7,Sunday,6,384.69
+Thomas's Bar,Jim Beam,2023-07-12,527.0,2023,7,Wednesday,2,409.0185714285714
+Thomas's Bar,Jim Beam,2023-08-02,482.08,2023,8,Wednesday,2,436.8285714285715
+Thomas's Bar,Jim Beam,2023-08-04,522.43,2023,8,Friday,4,495.4785714285714
+Thomas's Bar,Jim Beam,2023-08-09,362.16,2023,8,Wednesday,2,472.0928571428571
+Thomas's Bar,Jim Beam,2023-09-02,205.58,2023,9,Saturday,5,433.46714285714285
+Thomas's Bar,Jim Beam,2023-09-05,156.02,2023,9,Tuesday,1,404.19428571428574
+Thomas's Bar,Jim Beam,2023-10-02,327.24,2023,10,Monday,0,368.92999999999995
+Thomas's Bar,Jim Beam,2023-10-08,536.11,2023,10,Sunday,6,370.2314285714286
+Thomas's Bar,Jim Beam,2023-10-10,319.31,2023,10,Tuesday,1,346.9785714285714
+Thomas's Bar,Jim Beam,2023-10-11,314.09,2023,10,Wednesday,2,317.2157142857142
+Thomas's Bar,Jim Beam,2023-11-05,0.0,2023,11,Sunday,6,265.4785714285714
+Thomas's Bar,Jim Beam,2023-11-06,0.0,2023,11,Monday,0,236.10999999999999
+Thomas's Bar,Jim Beam,2023-11-08,0.0,2023,11,Wednesday,2,213.82142857142858
+Thomas's Bar,Jim Beam,2023-11-10,0.0,2023,11,Friday,4,167.07285714285712
+Thomas's Bar,Jim Beam,2023-11-12,0.0,2023,11,Sunday,6,90.48571428571425
+Thomas's Bar,Jim Beam,2023-12-03,172.85,2023,12,Sunday,6,69.5628571428571
+Thomas's Bar,Jim Beam,2023-12-04,309.37,2023,12,Monday,0,68.8885714285714
+Thomas's Bar,Jim Beam,2023-12-10,154.29,2023,12,Sunday,6,90.92999999999996
+Thomas's Bar,Malibu,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Thomas's Bar,Malibu,2023-01-06,561.15,2023,1,Friday,4,280.575
+Thomas's Bar,Malibu,2023-01-09,499.28,2023,1,Monday,0,353.47666666666663
+Thomas's Bar,Malibu,2023-02-09,0.0,2023,2,Thursday,3,265.10749999999996
+Thomas's Bar,Malibu,2023-02-11,0.0,2023,2,Saturday,5,212.08599999999996
+Thomas's Bar,Malibu,2023-03-03,519.82,2023,3,Friday,4,263.375
+Thomas's Bar,Malibu,2023-03-11,0.0,2023,3,Saturday,5,225.75
+Thomas's Bar,Malibu,2023-04-09,242.05,2023,4,Sunday,6,260.3285714285714
+Thomas's Bar,Malibu,2023-05-06,278.72,2023,5,Saturday,5,219.98142857142858
+Thomas's Bar,Malibu,2023-05-08,155.23,2023,5,Monday,0,170.8314285714286
+Thomas's Bar,Malibu,2023-06-01,221.06,2023,6,Thursday,3,202.4114285714286
+Thomas's Bar,Malibu,2023-07-07,509.87,2023,7,Friday,4,275.25000000000006
+Thomas's Bar,Malibu,2023-07-10,128.76,2023,7,Monday,0,219.3842857142857
+Thomas's Bar,Malibu,2023-08-01,289.59,2023,8,Tuesday,1,260.7542857142857
+Thomas's Bar,Malibu,2023-08-03,523.18,2023,8,Thursday,3,300.9157142857143
+Thomas's Bar,Malibu,2023-09-01,588.09,2023,9,Friday,4,345.1114285714286
+Thomas's Bar,Malibu,2023-09-04,0.0,2023,9,Monday,0,322.9357142857143
+Thomas's Bar,Malibu,2023-09-05,577.95,2023,9,Tuesday,1,373.92
+Thomas's Bar,Malibu,2023-09-10,129.79,2023,9,Sunday,6,319.6228571428571
+Thomas's Bar,Malibu,2023-10-03,390.9,2023,10,Tuesday,1,357.07142857142856
+Thomas's Bar,Malibu,2023-10-08,422.66,2023,10,Sunday,6,376.08142857142855
+Thomas's Bar,Malibu,2023-10-09,516.32,2023,10,Monday,0,375.1014285714286
+Thomas's Bar,Malibu,2023-11-09,188.35,2023,11,Thursday,3,317.99571428571426
+Thomas's Bar,Malibu,2023-11-12,191.86,2023,11,Sunday,6,345.4042857142857
+Thomas's Bar,Miller,2023-01-01,0.0,2023,1,Sunday,6,0.0
+Thomas's Bar,Miller,2023-03-02,344.41,2023,3,Thursday,3,172.205
+Thomas's Bar,Miller,2023-03-03,584.61,2023,3,Friday,4,309.67333333333335
+Thomas's Bar,Miller,2023-03-04,195.0,2023,3,Saturday,5,281.005
+Thomas's Bar,Miller,2023-04-02,417.72,2023,4,Sunday,6,308.34800000000007
+Thomas's Bar,Miller,2023-04-05,245.56,2023,4,Wednesday,2,297.8833333333334
+Thomas's Bar,Miller,2023-04-06,282.89,2023,4,Thursday,3,295.74142857142857
+Thomas's Bar,Miller,2023-04-09,118.67,2023,4,Sunday,6,312.69428571428574
+Thomas's Bar,Miller,2023-06-05,140.38,2023,6,Monday,0,283.54714285714283
+Thomas's Bar,Miller,2023-06-09,213.43,2023,6,Friday,4,230.52142857142857
+Thomas's Bar,Miller,2023-06-10,219.38,2023,6,Saturday,5,234.00428571428574
+Thomas's Bar,Miller,2023-07-06,502.8,2023,7,Thursday,3,246.15857142857143
+Thomas's Bar,Miller,2023-08-07,585.82,2023,8,Monday,0,294.7671428571429
+Thomas's Bar,Miller,2023-08-11,589.6,2023,8,Friday,4,338.5828571428571
+Thomas's Bar,Miller,2023-08-12,172.4,2023,8,Saturday,5,346.25857142857143
+Thomas's Bar,Miller,2023-09-03,255.77,2023,9,Sunday,6,362.7428571428572
+Thomas's Bar,Miller,2023-09-06,598.42,2023,9,Wednesday,2,417.74142857142857
+Thomas's Bar,Miller,2023-10-04,264.63,2023,10,Wednesday,2,424.2057142857143
+Thomas's Bar,Miller,2023-11-02,519.32,2023,11,Thursday,3,426.5657142857143
+Thomas's Bar,Miller,2023-11-07,265.01,2023,11,Tuesday,1,380.7357142857143
+Thomas's Bar,Miller,2023-12-11,596.0,2023,12,Monday,0,381.65000000000003
+Thomas's Bar,Smirnoff,2023-01-02,345.11,2023,1,Monday,0,345.11
+Thomas's Bar,Smirnoff,2023-01-05,563.71,2023,1,Thursday,3,454.41
+Thomas's Bar,Smirnoff,2023-01-10,183.93,2023,1,Tuesday,1,364.25
+Thomas's Bar,Smirnoff,2023-02-01,340.13,2023,2,Wednesday,2,358.22
+Thomas's Bar,Smirnoff,2023-02-09,202.21,2023,2,Thursday,3,327.01800000000003
+Thomas's Bar,Smirnoff,2023-03-03,0.0,2023,3,Friday,4,272.51500000000004
+Thomas's Bar,Smirnoff,2023-04-08,368.95,2023,4,Saturday,5,286.2914285714286
+Thomas's Bar,Smirnoff,2023-04-09,230.07,2023,4,Sunday,6,269.85714285714283
+Thomas's Bar,Smirnoff,2023-04-10,441.41,2023,4,Monday,0,252.38571428571427
+Thomas's Bar,Smirnoff,2023-04-12,267.6,2023,4,Wednesday,2,264.33857142857147
+Thomas's Bar,Smirnoff,2023-05-08,281.42,2023,5,Monday,0,255.95142857142858
+Thomas's Bar,Smirnoff,2023-06-01,124.41,2023,6,Thursday,3,244.83714285714285
+Thomas's Bar,Smirnoff,2023-06-04,482.21,2023,6,Sunday,6,313.72428571428566
+Thomas's Bar,Smirnoff,2023-06-08,177.11,2023,6,Thursday,3,286.31857142857143
+Thomas's Bar,Smirnoff,2023-06-12,355.53,2023,6,Monday,0,304.24142857142857
+Thomas's Bar,Smirnoff,2023-07-05,151.24,2023,7,Wednesday,2,262.7885714285714
+Thomas's Bar,Smirnoff,2023-08-03,221.01,2023,8,Thursday,3,256.1328571428571
+Thomas's Bar,Smirnoff,2023-08-07,173.42,2023,8,Monday,0,240.7042857142857
+Thomas's Bar,Smirnoff,2023-09-07,261.41,2023,9,Thursday,3,260.2757142857143
+Thomas's Bar,Smirnoff,2023-09-09,583.05,2023,9,Saturday,5,274.68142857142857
+Thomas's Bar,Smirnoff,2023-10-05,384.42,2023,10,Thursday,3,304.29714285714283
+Thomas's Bar,Smirnoff,2023-10-06,250.91,2023,10,Friday,4,289.3514285714286
+Thomas's Bar,Smirnoff,2023-10-07,422.7,2023,10,Saturday,5,328.13142857142856
+Thomas's Bar,Smirnoff,2023-11-01,464.65,2023,11,Wednesday,2,362.9371428571429
+Thomas's Bar,Smirnoff,2023-12-05,127.74,2023,12,Tuesday,1,356.4114285714286
+Thomas's Bar,Smirnoff,2023-12-08,214.11,2023,12,Friday,4,349.6542857142857
+Thomas's Bar,Sutter Home,2023-01-03,166.29,2023,1,Tuesday,1,166.29
+Thomas's Bar,Sutter Home,2023-02-06,495.1,2023,2,Monday,0,330.695
+Thomas's Bar,Sutter Home,2023-02-10,556.2,2023,2,Friday,4,405.8633333333334
+Thomas's Bar,Sutter Home,2023-02-12,397.34,2023,2,Sunday,6,403.7325
+Thomas's Bar,Sutter Home,2023-03-01,131.86,2023,3,Wednesday,2,349.358
+Thomas's Bar,Sutter Home,2023-03-04,0.0,2023,3,Saturday,5,291.13166666666666
+Thomas's Bar,Sutter Home,2023-04-02,333.71,2023,4,Sunday,6,297.2142857142857
+Thomas's Bar,Sutter Home,2023-04-11,448.88,2023,4,Tuesday,1,337.5842857142857
+Thomas's Bar,Sutter Home,2023-05-05,0.0,2023,5,Friday,4,266.8557142857143
+Thomas's Bar,Sutter Home,2023-05-08,152.89,2023,5,Monday,0,209.23999999999998
+Thomas's Bar,Sutter Home,2023-05-09,362.82,2023,5,Tuesday,1,204.3085714285714
+Thomas's Bar,Sutter Home,2023-05-11,111.58,2023,5,Thursday,3,201.4114285714286
+Thomas's Bar,Sutter Home,2023-06-12,0.0,2023,6,Monday,0,201.4114285714286
+Thomas's Bar,Sutter Home,2023-07-11,0.0,2023,7,Tuesday,1,153.73857142857145
+Thomas's Bar,Sutter Home,2023-08-06,0.0,2023,8,Sunday,6,89.61285714285714
+Thomas's Bar,Sutter Home,2023-08-07,0.0,2023,8,Monday,0,89.61285714285714
+Thomas's Bar,Sutter Home,2023-08-08,0.0,2023,8,Tuesday,1,67.77142857142857
+Thomas's Bar,Sutter Home,2023-09-01,189.23,2023,9,Friday,4,42.972857142857144
+Thomas's Bar,Sutter Home,2023-09-09,332.68,2023,9,Saturday,5,74.55857142857144
+Thomas's Bar,Sutter Home,2023-10-02,478.76,2023,10,Monday,0,142.95285714285714
+Thomas's Bar,Sutter Home,2023-11-01,212.46,2023,11,Wednesday,2,173.30428571428573
+Thomas's Bar,Sutter Home,2023-11-05,525.32,2023,11,Sunday,6,248.35
+Thomas's Bar,Sutter Home,2023-12-03,314.47,2023,12,Sunday,6,293.2742857142857
+Thomas's Bar,Sutter Home,2023-12-07,13.73,2023,12,Thursday,3,295.2357142857143
+Thomas's Bar,Yellow Tail,2023-01-07,567.38,2023,1,Saturday,5,567.38
+Thomas's Bar,Yellow Tail,2023-01-09,433.11,2023,1,Monday,0,500.245
+Thomas's Bar,Yellow Tail,2023-01-11,289.79,2023,1,Wednesday,2,430.0933333333333
+Thomas's Bar,Yellow Tail,2023-02-01,112.3,2023,2,Wednesday,2,350.645
+Thomas's Bar,Yellow Tail,2023-02-04,635.87,2023,2,Saturday,5,407.69
+Thomas's Bar,Yellow Tail,2023-03-06,0.0,2023,3,Monday,0,339.7416666666667
+Thomas's Bar,Yellow Tail,2023-03-07,0.0,2023,3,Tuesday,1,291.20714285714286
+Thomas's Bar,Yellow Tail,2023-03-08,0.0,2023,3,Wednesday,2,210.15285714285716
+Thomas's Bar,Yellow Tail,2023-03-12,0.0,2023,3,Sunday,6,148.28
+Thomas's Bar,Yellow Tail,2023-04-03,331.52,2023,4,Monday,0,154.24142857142857
+Thomas's Bar,Yellow Tail,2023-04-07,119.78,2023,4,Friday,4,155.31
+Thomas's Bar,Yellow Tail,2023-04-10,218.75,2023,4,Monday,0,95.72142857142856
+Thomas's Bar,Yellow Tail,2023-05-02,0.0,2023,5,Tuesday,1,95.72142857142856
+Thomas's Bar,Yellow Tail,2023-05-03,0.0,2023,5,Wednesday,2,95.72142857142856
+Thomas's Bar,Yellow Tail,2023-05-10,0.0,2023,5,Wednesday,2,95.72142857142856
+Thomas's Bar,Yellow Tail,2023-05-12,0.0,2023,5,Friday,4,95.72142857142856
+Thomas's Bar,Yellow Tail,2023-06-04,200.19,2023,6,Sunday,6,76.96000000000001
+Thomas's Bar,Yellow Tail,2023-06-06,316.76,2023,6,Tuesday,1,105.10000000000001
+Thomas's Bar,Yellow Tail,2023-06-07,471.41,2023,6,Wednesday,2,141.19428571428574
+Thomas's Bar,Yellow Tail,2023-06-11,310.16,2023,6,Sunday,6,185.50285714285715
+Thomas's Bar,Yellow Tail,2023-07-01,929.75,2023,7,Saturday,5,318.32428571428574
+Thomas's Bar,Yellow Tail,2023-07-03,183.94,2023,7,Monday,0,344.6014285714286
+Thomas's Bar,Yellow Tail,2023-07-04,0.0,2023,7,Tuesday,1,344.6014285714286
+Thomas's Bar,Yellow Tail,2023-07-06,377.83,2023,7,Thursday,3,369.9785714285714
+Thomas's Bar,Yellow Tail,2023-07-07,262.41,2023,7,Friday,4,362.2142857142858
+Thomas's Bar,Yellow Tail,2023-07-09,129.83,2023,7,Sunday,6,313.4171428571429
+Thomas's Bar,Yellow Tail,2023-08-05,232.02,2023,8,Saturday,5,302.25428571428574
+Thomas's Bar,Yellow Tail,2023-09-07,0.0,2023,9,Thursday,3,169.43285714285716
+Thomas's Bar,Yellow Tail,2023-09-08,0.0,2023,9,Friday,4,143.1557142857143
+Thomas's Bar,Yellow Tail,2023-09-11,0.0,2023,9,Monday,0,143.1557142857143
+Thomas's Bar,Yellow Tail,2023-10-03,95.62,2023,10,Tuesday,1,102.84000000000002
+Thomas's Bar,Yellow Tail,2023-10-05,0.0,2023,10,Thursday,3,65.35285714285715
+Thomas's Bar,Yellow Tail,2023-10-12,145.7,2023,10,Thursday,3,67.61999999999999
+Thomas's Bar,Yellow Tail,2023-11-02,309.6,2023,11,Thursday,3,78.70285714285716
+Thomas's Bar,Yellow Tail,2023-11-03,527.97,2023,11,Friday,4,154.12714285714287
+Thomas's Bar,Yellow Tail,2023-11-07,447.34,2023,11,Tuesday,1,218.03285714285715
+Thomas's Bar,Yellow Tail,2023-11-09,578.1,2023,11,Thursday,3,300.61857142857144
+Thomas's Bar,Yellow Tail,2023-12-01,410.18,2023,12,Friday,4,345.5557142857143
+Thomas's Bar,Yellow Tail,2023-12-02,371.03,2023,12,Saturday,5,398.56
+Thomas's Bar,Yellow Tail,2023-12-09,528.9,2023,12,Saturday,5,453.30285714285714
